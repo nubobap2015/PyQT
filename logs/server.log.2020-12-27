@@ -1,0 +1,198 @@
+2020-12-27 19:42:15,838 INFO server.py Запущен новый сервер
+2020-12-27 19:42:15,839 DEBUG server.py Переданы параметры командной строки ['server.py', 'ip_adr', '127.0.0.1', 'port', '7777']
+2020-12-27 19:42:15,839 DEBUG server.py Сформированы ключи {'ip_adr': '127.0.0.1', 'port': '7777'}
+2020-12-27 19:42:15,839 DEBUG server.py Попытка создать экземпляр Сервера
+2020-12-27 19:42:15,839 DEBUG my_classes.py Вызвана функция __init__ из модуля common.my_classes c параметрами args: (), kwargs: {'ip_adr': '127.0.0.1', 'port': '7777'}
+2020-12-27 19:42:15,839 DEBUG my_classes.py Вызвана функция __init__ из модуля common.my_classes c параметрами args: (), kwargs: {'ip_adr': '127.0.0.1', 'port': '7777'}
+2020-12-27 19:42:15,839 DEBUG my_classes.py Вызвана функция __setattr__ из модуля common.my_classes c параметрами args: ('ip_adr', '127.0.0.1'), kwargs: {}
+2020-12-27 19:42:15,839 DEBUG my_classes.py Атрибут "ip_adr" установлен в 127.0.0.1
+2020-12-27 19:42:15,839 DEBUG my_classes.py Вызвана функция __setattr__ из модуля common.my_classes c параметрами args: ('port', 7777), kwargs: {}
+2020-12-27 19:42:15,839 DEBUG my_classes.py Атрибут "port" установлен в 7777
+2020-12-27 19:42:15,839 DEBUG my_classes.py Вызвана функция __setattr__ из модуля common.my_classes c параметрами args: ('max_package_len', 1024), kwargs: {}
+2020-12-27 19:42:15,839 DEBUG my_classes.py Атрибут "max_package_len" установлен в 1024
+2020-12-27 19:42:15,839 DEBUG my_classes.py Вызвана функция __setattr__ из модуля common.my_classes c параметрами args: ('my_socket', None), kwargs: {}
+2020-12-27 19:42:15,840 DEBUG my_classes.py Атрибут "my_socket" установлен в None
+2020-12-27 19:42:15,840 DEBUG my_classes.py Вызвана функция __setattr__ из модуля common.my_classes c параметрами args: ('max_connections', 5), kwargs: {}
+2020-12-27 19:42:15,840 DEBUG my_classes.py Атрибут "max_connections" установлен в 5
+2020-12-27 19:42:15,840 INFO server.py Экземпляр Сервера создан
+2020-12-27 19:42:15,840 DEBUG server.py Биндим сервер
+2020-12-27 19:42:15,840 DEBUG my_classes.py Вызвана функция bind из модуля common.my_classes c параметрами args: (), kwargs: {}
+2020-12-27 19:42:15,840 DEBUG my_classes.py Создание сокета
+2020-12-27 19:42:15,840 DEBUG my_classes.py Вызвана функция __setattr__ из модуля common.my_classes c параметрами args: ('my_socket', <socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('0.0.0.0', 0)>), kwargs: {}
+2020-12-27 19:42:15,840 DEBUG my_classes.py Атрибут "my_socket" установлен в <socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('0.0.0.0', 0)>
+2020-12-27 19:42:15,840 DEBUG my_classes.py Бинд сервера
+2020-12-27 19:42:15,840 INFO server.py Запуск сервера
+2020-12-27 19:42:15,840 DEBUG my_classes.py Вызвана функция start_server из модуля common.my_classes c параметрами args: (), kwargs: {}
+2020-12-27 19:42:21,144 DEBUG my_classes.py Вызвана функция get_message из модуля common.my_classes c параметрами args: (<socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 45086)>,), kwargs: {}
+2020-12-27 19:42:21,145 INFO my_classes.py Сообщение от клиента: {'action': 'presence', 'time': 1609087341.1444654, 'user': {'account_name': 'Guest'}}
+2020-12-27 19:42:21,146 DEBUG my_classes.py Вызвана функция process_client_message из модуля common.my_classes c параметрами args: ({'action': 'presence', 'time': 1609087341.1444654, 'user': {'account_name': 'Guest'}},), kwargs: {}
+2020-12-27 19:42:21,146 DEBUG my_classes.py Передаю ответ: response:200
+2020-12-27 19:42:21,168 DEBUG my_classes.py Вызвана функция get_message из модуля common.my_classes c параметрами args: (<socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 45088)>,), kwargs: {}
+2020-12-27 19:42:21,170 INFO my_classes.py Сообщение от клиента: {'action': 'presence', 'time': 1609087341.1698349, 'user': {'account_name': 'Guest'}}
+2020-12-27 19:42:21,171 DEBUG my_classes.py Вызвана функция process_client_message из модуля common.my_classes c параметрами args: ({'action': 'presence', 'time': 1609087341.1698349, 'user': {'account_name': 'Guest'}},), kwargs: {}
+2020-12-27 19:42:21,171 DEBUG my_classes.py Передаю ответ: response:200
+2020-12-27 19:42:21,174 DEBUG my_classes.py Вызвана функция get_message из модуля common.my_classes c параметрами args: (<socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 45090)>,), kwargs: {}
+2020-12-27 19:42:21,175 INFO my_classes.py Сообщение от клиента: {'action': 'presence', 'time': 1609087341.1751127, 'user': {'account_name': 'Guest'}}
+2020-12-27 19:42:21,176 DEBUG my_classes.py Вызвана функция process_client_message из модуля common.my_classes c параметрами args: ({'action': 'presence', 'time': 1609087341.1751127, 'user': {'account_name': 'Guest'}},), kwargs: {}
+2020-12-27 19:42:21,176 DEBUG my_classes.py Передаю ответ: response:200
+2020-12-27 19:42:21,176 DEBUG my_classes.py Вызвана функция get_message из модуля common.my_classes c параметрами args: (<socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 45092)>,), kwargs: {}
+2020-12-27 19:42:21,177 INFO my_classes.py Сообщение от клиента: {'action': 'presence', 'time': 1609087341.1758113, 'user': {'account_name': 'Guest'}}
+2020-12-27 19:42:21,177 DEBUG my_classes.py Вызвана функция process_client_message из модуля common.my_classes c параметрами args: ({'action': 'presence', 'time': 1609087341.1758113, 'user': {'account_name': 'Guest'}},), kwargs: {}
+2020-12-27 19:42:21,177 DEBUG my_classes.py Передаю ответ: response:200
+2020-12-27 19:42:21,188 DEBUG my_classes.py Вызвана функция get_message из модуля common.my_classes c параметрами args: (<socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 45094)>,), kwargs: {}
+2020-12-27 19:42:21,191 INFO my_classes.py Сообщение от клиента: {'action': 'presence', 'time': 1609087341.1900916, 'user': {'account_name': 'Guest'}}
+2020-12-27 19:42:21,192 DEBUG my_classes.py Вызвана функция process_client_message из модуля common.my_classes c параметрами args: ({'action': 'presence', 'time': 1609087341.1900916, 'user': {'account_name': 'Guest'}},), kwargs: {}
+2020-12-27 19:42:21,192 DEBUG my_classes.py Передаю ответ: response:200
+2020-12-27 19:42:39,906 DEBUG my_classes.py Вызвана функция get_message из модуля common.my_classes c параметрами args: (<socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 45104)>,), kwargs: {}
+2020-12-27 19:42:39,906 INFO my_classes.py Сообщение от клиента: {'action': 'presence', 'time': 1609087359.906194, 'user': {'account_name': 'Guest'}}
+2020-12-27 19:42:39,906 DEBUG my_classes.py Вызвана функция process_client_message из модуля common.my_classes c параметрами args: ({'action': 'presence', 'time': 1609087359.906194, 'user': {'account_name': 'Guest'}},), kwargs: {}
+2020-12-27 19:42:39,906 DEBUG my_classes.py Передаю ответ: response:200
+2020-12-27 19:42:39,914 DEBUG my_classes.py Вызвана функция get_message из модуля common.my_classes c параметрами args: (<socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 45106)>,), kwargs: {}
+2020-12-27 19:42:39,915 INFO my_classes.py Сообщение от клиента: {'action': 'presence', 'time': 1609087359.9151196, 'user': {'account_name': 'Guest'}}
+2020-12-27 19:42:39,915 DEBUG my_classes.py Вызвана функция process_client_message из модуля common.my_classes c параметрами args: ({'action': 'presence', 'time': 1609087359.9151196, 'user': {'account_name': 'Guest'}},), kwargs: {}
+2020-12-27 19:42:39,916 DEBUG my_classes.py Передаю ответ: response:200
+2020-12-27 19:42:39,920 DEBUG my_classes.py Вызвана функция get_message из модуля common.my_classes c параметрами args: (<socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 45108)>,), kwargs: {}
+2020-12-27 19:42:39,921 INFO my_classes.py Сообщение от клиента: {'action': 'presence', 'time': 1609087359.9207296, 'user': {'account_name': 'Guest'}}
+2020-12-27 19:42:39,921 DEBUG my_classes.py Вызвана функция process_client_message из модуля common.my_classes c параметрами args: ({'action': 'presence', 'time': 1609087359.9207296, 'user': {'account_name': 'Guest'}},), kwargs: {}
+2020-12-27 19:42:39,921 DEBUG my_classes.py Передаю ответ: response:200
+2020-12-27 19:42:39,922 DEBUG my_classes.py Вызвана функция get_message из модуля common.my_classes c параметрами args: (<socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 45110)>,), kwargs: {}
+2020-12-27 19:42:39,923 INFO my_classes.py Сообщение от клиента: {'action': 'presence', 'time': 1609087359.9228115, 'user': {'account_name': 'Guest'}}
+2020-12-27 19:42:39,923 DEBUG my_classes.py Вызвана функция process_client_message из модуля common.my_classes c параметрами args: ({'action': 'presence', 'time': 1609087359.9228115, 'user': {'account_name': 'Guest'}},), kwargs: {}
+2020-12-27 19:42:39,923 DEBUG my_classes.py Передаю ответ: response:200
+2020-12-27 19:42:39,931 DEBUG my_classes.py Вызвана функция get_message из модуля common.my_classes c параметрами args: (<socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 45112)>,), kwargs: {}
+2020-12-27 19:42:39,933 INFO my_classes.py Сообщение от клиента: {'action': 'presence', 'time': 1609087359.9321892, 'user': {'account_name': 'Guest'}}
+2020-12-27 19:42:39,934 DEBUG my_classes.py Вызвана функция process_client_message из модуля common.my_classes c параметрами args: ({'action': 'presence', 'time': 1609087359.9321892, 'user': {'account_name': 'Guest'}},), kwargs: {}
+2020-12-27 19:42:39,934 DEBUG my_classes.py Передаю ответ: response:200
+2020-12-27 19:42:53,244 INFO server.py Запущен новый сервер
+2020-12-27 19:42:53,244 INFO server.py Экземпляр Сервера создан
+2020-12-27 19:42:53,244 CRITICAL my_classes.py ОШИБКА!: [Errno 98] Address already in use
+2020-12-27 19:42:53,245 CRITICAL server.py Запуск сервера провален!
+2020-12-27 19:43:23,569 INFO server.py Запущен новый сервер
+2020-12-27 19:43:23,570 INFO server.py Экземпляр Сервера создан
+2020-12-27 19:43:23,573 CRITICAL my_classes.py ОШИБКА!: [Errno 98] Address already in use
+2020-12-27 19:43:23,573 CRITICAL server.py Запуск сервера провален!
+2020-12-27 19:43:27,707 INFO server.py Запущен новый сервер
+2020-12-27 19:43:27,707 INFO server.py Экземпляр Сервера создан
+2020-12-27 19:43:27,708 CRITICAL my_classes.py ОШИБКА!: [Errno 98] Address already in use
+2020-12-27 19:43:27,708 CRITICAL server.py Запуск сервера провален!
+2020-12-27 19:45:35,051 INFO server.py Запущен новый сервер
+2020-12-27 19:45:35,052 INFO server.py Экземпляр Сервера создан
+2020-12-27 19:45:35,053 INFO server.py Запуск сервера
+2020-12-27 19:45:38,538 INFO my_classes.py Сообщение от клиента: {'action': 'presence', 'time': 1609087538.5380828, 'user': {'account_name': 'Guest'}}
+2020-12-27 19:45:38,539 INFO my_classes.py Сообщение от клиента: {'action': 'presence', 'time': 1609087538.539583, 'user': {'account_name': 'Guest'}}
+2020-12-27 19:45:38,542 INFO my_classes.py Сообщение от клиента: {'action': 'presence', 'time': 1609087538.5423124, 'user': {'account_name': 'Guest'}}
+2020-12-27 19:45:38,543 INFO my_classes.py Сообщение от клиента: {'action': 'presence', 'time': 1609087538.5421531, 'user': {'account_name': 'Guest'}}
+2020-12-27 19:45:38,546 INFO my_classes.py Сообщение от клиента: {'action': 'presence', 'time': 1609087538.5450988, 'user': {'account_name': 'Guest'}}
+2020-12-27 19:48:22,588 DEBUG my_classes.py Вызвана функция __init__ из модуля __main__ c параметрами args: ({'ip_adr': '127.0.0.1'},), kwargs: {}
+2020-12-27 19:48:22,588 DEBUG my_classes.py Вызвана функция __init__ из модуля __main__ c параметрами args: ({'ip_adr': '127.0.0.1'},), kwargs: {}
+2020-12-27 19:48:22,588 DEBUG my_classes.py Вызвана функция __setattr__ из модуля __main__ c параметрами args: ('ip_adr', '127.0.0.1'), kwargs: {}
+2020-12-27 19:48:22,588 DEBUG my_classes.py Атрибут "ip_adr" установлен в 127.0.0.1
+2020-12-27 19:48:22,588 DEBUG my_classes.py Вызвана функция __setattr__ из модуля __main__ c параметрами args: ('port', 7777), kwargs: {}
+2020-12-27 19:48:22,589 DEBUG my_classes.py Атрибут "port" установлен в 7777
+2020-12-27 19:48:22,589 DEBUG my_classes.py Вызвана функция __setattr__ из модуля __main__ c параметрами args: ('max_package_len', 1024), kwargs: {}
+2020-12-27 19:48:22,589 DEBUG my_classes.py Атрибут "max_package_len" установлен в 1024
+2020-12-27 19:48:22,589 DEBUG my_classes.py Вызвана функция __setattr__ из модуля __main__ c параметрами args: ('my_socket', None), kwargs: {}
+2020-12-27 19:48:22,589 DEBUG my_classes.py Атрибут "my_socket" установлен в None
+2020-12-27 19:48:22,589 DEBUG my_classes.py Вызвана функция __setattr__ из модуля __main__ c параметрами args: ('max_connections', 5), kwargs: {}
+2020-12-27 19:48:22,589 DEBUG my_classes.py Атрибут "max_connections" установлен в 5
+2020-12-27 21:30:57,518 INFO server.py Запущен новый сервер
+2020-12-27 21:30:57,518 DEBUG server.py Переданы параметры командной строки ['server.py', 'ip_adr', '127.0.0.1', 'port', '7777']
+2020-12-27 21:30:57,519 DEBUG server.py Сформированы ключи {'ip_adr': '127.0.0.1', 'port': '7777'}
+2020-12-27 21:30:57,519 DEBUG server.py Попытка создать экземпляр Сервера
+2020-12-27 21:30:57,519 DEBUG my_classes.py Вызвана функция __init__ из модуля common.my_classes c параметрами args: (), kwargs: {'ip_adr': '127.0.0.1', 'port': '7777'}
+2020-12-27 21:30:57,519 DEBUG my_classes.py Вызвана функция __init__ из модуля common.my_classes c параметрами args: (), kwargs: {'ip_adr': '127.0.0.1', 'port': '7777'}
+2020-12-27 21:30:57,519 DEBUG my_classes.py Вызвана функция __setattr__ из модуля common.my_classes c параметрами args: ('ip_adr', '127.0.0.1'), kwargs: {}
+2020-12-27 21:30:57,519 DEBUG my_classes.py Атрибут "ip_adr" установлен в 127.0.0.1
+2020-12-27 21:30:57,519 DEBUG my_classes.py Вызвана функция __setattr__ из модуля common.my_classes c параметрами args: ('port', 7777), kwargs: {}
+2020-12-27 21:30:57,519 DEBUG my_classes.py Атрибут "port" установлен в 7777
+2020-12-27 21:30:57,519 DEBUG my_classes.py Вызвана функция __setattr__ из модуля common.my_classes c параметрами args: ('max_package_len', 1024), kwargs: {}
+2020-12-27 21:30:57,519 DEBUG my_classes.py Атрибут "max_package_len" установлен в 1024
+2020-12-27 21:30:57,519 DEBUG my_classes.py Вызвана функция __setattr__ из модуля common.my_classes c параметрами args: ('my_socket', None), kwargs: {}
+2020-12-27 21:30:57,519 DEBUG my_classes.py Атрибут "my_socket" установлен в None
+2020-12-27 21:30:57,519 DEBUG my_classes.py Вызвана функция __setattr__ из модуля common.my_classes c параметрами args: ('login', 'Guest'), kwargs: {}
+2020-12-27 21:30:57,519 DEBUG my_classes.py Атрибут "login" установлен в Guest
+2020-12-27 21:30:57,520 DEBUG my_classes.py Вызвана функция __setattr__ из модуля common.my_classes c параметрами args: ('max_connections', 5), kwargs: {}
+2020-12-27 21:30:57,520 DEBUG my_classes.py Атрибут "max_connections" установлен в 5
+2020-12-27 21:30:57,520 DEBUG my_classes.py Вызвана функция __setattr__ из модуля common.my_classes c параметрами args: ('clients', []), kwargs: {}
+2020-12-27 21:30:57,520 DEBUG my_classes.py Атрибут "clients" установлен в []
+2020-12-27 21:30:57,520 DEBUG my_classes.py Вызвана функция __setattr__ из модуля common.my_classes c параметрами args: ('recv_data_lst', []), kwargs: {}
+2020-12-27 21:30:57,520 DEBUG my_classes.py Атрибут "recv_data_lst" установлен в []
+2020-12-27 21:30:57,520 DEBUG my_classes.py Вызвана функция __setattr__ из модуля common.my_classes c параметрами args: ('send_data_lst', []), kwargs: {}
+2020-12-27 21:30:57,520 DEBUG my_classes.py Атрибут "send_data_lst" установлен в []
+2020-12-27 21:30:57,520 DEBUG my_classes.py Вызвана функция __setattr__ из модуля common.my_classes c параметрами args: ('err_lst', []), kwargs: {}
+2020-12-27 21:30:57,520 DEBUG my_classes.py Атрибут "err_lst" установлен в []
+2020-12-27 21:30:57,520 DEBUG my_classes.py Вызвана функция __setattr__ из модуля common.my_classes c параметрами args: ('message_lst', []), kwargs: {}
+2020-12-27 21:30:57,520 DEBUG my_classes.py Атрибут "message_lst" установлен в []
+2020-12-27 21:30:57,520 INFO server.py Экземпляр Сервера создан
+2020-12-27 21:30:57,520 DEBUG server.py Биндим сервер
+2020-12-27 21:30:57,520 DEBUG my_classes.py Вызвана функция bind из модуля common.my_classes c параметрами args: (), kwargs: {}
+2020-12-27 21:30:57,521 DEBUG my_classes.py Создание сокета
+2020-12-27 21:30:57,521 DEBUG my_classes.py Вызвана функция __setattr__ из модуля common.my_classes c параметрами args: ('my_socket', <socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('0.0.0.0', 0)>), kwargs: {}
+2020-12-27 21:30:57,521 DEBUG my_classes.py Атрибут "my_socket" установлен в <socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('0.0.0.0', 0)>
+2020-12-27 21:30:57,521 DEBUG my_classes.py Бинд сервера
+2020-12-27 21:30:57,521 INFO server.py Запуск сервера
+2020-12-27 21:30:57,521 DEBUG my_classes.py Вызвана функция start_server из модуля common.my_classes c параметрами args: (), kwargs: {}
+2020-12-27 21:31:05,621 DEBUG my_classes.py Вызвана функция get_message из модуля common.my_classes c параметрами args: (<socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 46610)>,), kwargs: {}
+2020-12-27 21:34:44,303 INFO my_classes.py Сообщение от клиента: {'action': 'message', 'time': 1609094084.3029273, 'user': 'Guest', 'message_text': ''}
+2020-12-27 21:34:44,304 DEBUG my_classes.py Вызвана функция process_client_message из модуля common.my_classes c параметрами args: ({'action': 'message', 'time': 1609094084.3029273, 'user': 'Guest', 'message_text': ''},), kwargs: {}
+2020-12-27 21:34:44,304 ERROR my_classes.py Передаю ответ: response:400
+2020-12-27 21:34:44,304 DEBUG my_classes.py Вызвана функция send_message из модуля common.my_classes c параметрами args: (<socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 46610)>, {'response': 400, 'error': 'Bad Request'}), kwargs: {}
+2020-12-27 21:34:44,304 DEBUG my_classes.py Вызвана функция get_message из модуля common.my_classes c параметрами args: (<socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 46620)>,), kwargs: {}
+2020-12-27 21:34:44,305 ERROR my_classes.py Принято некорретное сообщение от клиента.
+2020-12-27 21:34:44,305 DEBUG my_classes.py Закрытие соединения
+2020-12-27 21:34:44,305 DEBUG my_classes.py Вызвана функция get_message из модуля common.my_classes c параметрами args: (<socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 46626)>,), kwargs: {}
+2020-12-27 21:34:44,305 ERROR my_classes.py Принято некорретное сообщение от клиента.
+2020-12-27 21:34:44,305 DEBUG my_classes.py Закрытие соединения
+2020-12-27 21:34:46,121 DEBUG my_classes.py Вызвана функция get_message из модуля common.my_classes c параметрами args: (<socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 46666)>,), kwargs: {}
+2020-12-27 21:34:47,263 INFO my_classes.py Сообщение от клиента: {'action': 'message', 'time': 1609094087.2630699, 'user': 'Guest', 'message_text': 'ч'}
+2020-12-27 21:34:47,264 DEBUG my_classes.py Вызвана функция process_client_message из модуля common.my_classes c параметрами args: ({'action': 'message', 'time': 1609094087.2630699, 'user': 'Guest', 'message_text': 'ч'},), kwargs: {}
+2020-12-27 21:34:47,264 ERROR my_classes.py Передаю ответ: response:400
+2020-12-27 21:34:47,264 DEBUG my_classes.py Вызвана функция send_message из модуля common.my_classes c параметрами args: (<socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 46666)>, {'response': 400, 'error': 'Bad Request'}), kwargs: {}
+2020-12-27 21:34:49,806 DEBUG my_classes.py Вызвана функция get_message из модуля common.my_classes c параметрами args: (<socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 46670)>,), kwargs: {}
+2020-12-27 21:34:50,509 INFO my_classes.py Сообщение от клиента: {'action': 'message', 'time': 1609094090.5083828, 'user': 'Guest', 'message_text': 'x'}
+2020-12-27 21:34:50,509 DEBUG my_classes.py Вызвана функция process_client_message из модуля common.my_classes c параметрами args: ({'action': 'message', 'time': 1609094090.5083828, 'user': 'Guest', 'message_text': 'x'},), kwargs: {}
+2020-12-27 21:34:50,509 ERROR my_classes.py Передаю ответ: response:400
+2020-12-27 21:34:50,509 DEBUG my_classes.py Вызвана функция send_message из модуля common.my_classes c параметрами args: (<socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 46670)>, {'response': 400, 'error': 'Bad Request'}), kwargs: {}
+2020-12-27 21:34:53,057 DEBUG my_classes.py Вызвана функция get_message из модуля common.my_classes c параметрами args: (<socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 46672)>,), kwargs: {}
+2020-12-27 21:34:53,877 INFO my_classes.py Сообщение от клиента: {'action': 'message', 'time': 1609094093.8766253, 'user': 'Guest', 'message_text': 'q'}
+2020-12-27 21:34:53,877 DEBUG my_classes.py Вызвана функция process_client_message из модуля common.my_classes c параметрами args: ({'action': 'message', 'time': 1609094093.8766253, 'user': 'Guest', 'message_text': 'q'},), kwargs: {}
+2020-12-27 21:34:53,877 ERROR my_classes.py Передаю ответ: response:400
+2020-12-27 21:34:53,877 DEBUG my_classes.py Вызвана функция send_message из модуля common.my_classes c параметрами args: (<socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 46672)>, {'response': 400, 'error': 'Bad Request'}), kwargs: {}
+2020-12-27 21:35:25,255 INFO server.py Запущен новый сервер
+2020-12-27 21:35:25,256 DEBUG server.py Переданы параметры командной строки ['server.py', 'ip_adr', '127.0.0.1', 'port', '7777']
+2020-12-27 21:35:25,256 DEBUG server.py Сформированы ключи {'ip_adr': '127.0.0.1', 'port': '7777'}
+2020-12-27 21:35:25,256 DEBUG server.py Попытка создать экземпляр Сервера
+2020-12-27 21:35:25,256 DEBUG my_classes.py Вызвана функция __init__ из модуля common.my_classes c параметрами args: (), kwargs: {'ip_adr': '127.0.0.1', 'port': '7777'}
+2020-12-27 21:35:25,256 DEBUG my_classes.py Вызвана функция __init__ из модуля common.my_classes c параметрами args: (), kwargs: {'ip_adr': '127.0.0.1', 'port': '7777'}
+2020-12-27 21:35:25,256 DEBUG my_classes.py Вызвана функция __setattr__ из модуля common.my_classes c параметрами args: ('ip_adr', '127.0.0.1'), kwargs: {}
+2020-12-27 21:35:25,256 DEBUG my_classes.py Атрибут "ip_adr" установлен в 127.0.0.1
+2020-12-27 21:35:25,256 DEBUG my_classes.py Вызвана функция __setattr__ из модуля common.my_classes c параметрами args: ('port', 7777), kwargs: {}
+2020-12-27 21:35:25,256 DEBUG my_classes.py Атрибут "port" установлен в 7777
+2020-12-27 21:35:25,257 DEBUG my_classes.py Вызвана функция __setattr__ из модуля common.my_classes c параметрами args: ('max_package_len', 1024), kwargs: {}
+2020-12-27 21:35:25,257 DEBUG my_classes.py Атрибут "max_package_len" установлен в 1024
+2020-12-27 21:35:25,257 DEBUG my_classes.py Вызвана функция __setattr__ из модуля common.my_classes c параметрами args: ('my_socket', None), kwargs: {}
+2020-12-27 21:35:25,257 DEBUG my_classes.py Атрибут "my_socket" установлен в None
+2020-12-27 21:35:25,257 DEBUG my_classes.py Вызвана функция __setattr__ из модуля common.my_classes c параметрами args: ('login', 'Guest'), kwargs: {}
+2020-12-27 21:35:25,257 DEBUG my_classes.py Атрибут "login" установлен в Guest
+2020-12-27 21:35:25,257 DEBUG my_classes.py Вызвана функция __setattr__ из модуля common.my_classes c параметрами args: ('max_connections', 5), kwargs: {}
+2020-12-27 21:35:25,257 DEBUG my_classes.py Атрибут "max_connections" установлен в 5
+2020-12-27 21:35:25,257 DEBUG my_classes.py Вызвана функция __setattr__ из модуля common.my_classes c параметрами args: ('clients', []), kwargs: {}
+2020-12-27 21:35:25,257 DEBUG my_classes.py Атрибут "clients" установлен в []
+2020-12-27 21:35:25,257 DEBUG my_classes.py Вызвана функция __setattr__ из модуля common.my_classes c параметрами args: ('recv_data_lst', []), kwargs: {}
+2020-12-27 21:35:25,257 DEBUG my_classes.py Атрибут "recv_data_lst" установлен в []
+2020-12-27 21:35:25,257 DEBUG my_classes.py Вызвана функция __setattr__ из модуля common.my_classes c параметрами args: ('send_data_lst', []), kwargs: {}
+2020-12-27 21:35:25,257 DEBUG my_classes.py Атрибут "send_data_lst" установлен в []
+2020-12-27 21:35:25,257 DEBUG my_classes.py Вызвана функция __setattr__ из модуля common.my_classes c параметрами args: ('err_lst', []), kwargs: {}
+2020-12-27 21:35:25,258 DEBUG my_classes.py Атрибут "err_lst" установлен в []
+2020-12-27 21:35:25,258 DEBUG my_classes.py Вызвана функция __setattr__ из модуля common.my_classes c параметрами args: ('message_lst', []), kwargs: {}
+2020-12-27 21:35:25,258 DEBUG my_classes.py Атрибут "message_lst" установлен в []
+2020-12-27 21:35:25,258 INFO server.py Экземпляр Сервера создан
+2020-12-27 21:35:25,258 DEBUG server.py Биндим сервер
+2020-12-27 21:35:25,258 DEBUG my_classes.py Вызвана функция bind из модуля common.my_classes c параметрами args: (), kwargs: {}
+2020-12-27 21:35:25,258 DEBUG my_classes.py Создание сокета
+2020-12-27 21:35:25,258 DEBUG my_classes.py Вызвана функция __setattr__ из модуля common.my_classes c параметрами args: ('my_socket', <socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('0.0.0.0', 0)>), kwargs: {}
+2020-12-27 21:35:25,258 DEBUG my_classes.py Атрибут "my_socket" установлен в <socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('0.0.0.0', 0)>
+2020-12-27 21:35:25,258 DEBUG my_classes.py Бинд сервера
+2020-12-27 21:35:25,258 INFO server.py Запуск сервера
+2020-12-27 21:35:25,259 DEBUG my_classes.py Вызвана функция start_server из модуля common.my_classes c параметрами args: (), kwargs: {}
+2020-12-27 21:35:30,514 DEBUG my_classes.py Вызвана функция get_message из модуля common.my_classes c параметрами args: (<socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 46680)>,), kwargs: {}

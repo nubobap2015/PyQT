@@ -1,0 +1,662 @@
+2020-12-20 15:05:31,500 Level 666 server_log_config.py Уровень логирования: 10
+2020-12-20 15:05:31,510 INFO server.py Запущен новый сервер
+2020-12-20 15:05:31,510 DEBUG server.py Переданы параметры командной строки ['server.py', 'ip_adr', '127.0.0.1', 'port', '7777']
+2020-12-20 15:05:31,511 DEBUG server.py Сформированы ключи {'ip_adr': '127.0.0.1', 'port': '7777'}
+2020-12-20 15:05:31,511 DEBUG server.py Попытка создать экземпляр Сервера
+2020-12-20 15:05:31,511 INFO server.py Экземпляр Сервера создан
+2020-12-20 15:05:31,511 DEBUG server.py Биндим сервер
+2020-12-20 15:05:31,511 INFO server.py Запуск сервера
+2020-12-20 15:26:47,971 Level 666 server_log_config.py Уровень логирования: 10
+2020-12-20 15:26:47,982 INFO server.py Запущен новый сервер
+2020-12-20 15:26:47,982 DEBUG server.py Переданы параметры командной строки ['server.py', 'ip_adr', '127.0.0.1', 'port', '7777']
+2020-12-20 15:26:47,982 DEBUG server.py Сформированы ключи {'ip_adr': '127.0.0.1', 'port': '7777'}
+2020-12-20 15:26:47,982 DEBUG server.py Попытка создать экземпляр Сервера
+2020-12-20 15:26:47,982 INFO server.py Экземпляр Сервера создан
+2020-12-20 15:26:47,982 DEBUG server.py Биндим сервер
+2020-12-20 15:26:47,983 INFO server.py Запуск сервера
+2020-12-20 15:27:20,470 Level 666 server_log_config.py Уровень логирования: 10
+2020-12-20 15:27:20,544 Level 666 server_log_config.py Уровень логирования: 10
+2020-12-20 15:27:20,613 Level 666 server_log_config.py Уровень логирования: 10
+2020-12-20 15:27:20,680 Level 666 server_log_config.py Уровень логирования: 10
+2020-12-20 15:27:20,786 Level 666 server_log_config.py Уровень логирования: 10
+2020-12-20 15:28:43,027 Level 666 server_log_config.py Уровень логирования: 10
+2020-12-20 15:28:43,032 INFO server.py Запущен новый сервер
+2020-12-20 15:28:43,033 DEBUG server.py Переданы параметры командной строки ['server.py', 'ip_adr', '127.0.0.1', 'port', '7777']
+2020-12-20 15:28:43,033 DEBUG server.py Сформированы ключи {'ip_adr': '127.0.0.1', 'port': '7777'}
+2020-12-20 15:28:43,033 DEBUG server.py Попытка создать экземпляр Сервера
+2020-12-20 15:28:43,033 INFO server.py Экземпляр Сервера создан
+2020-12-20 15:28:43,034 DEBUG server.py Биндим сервер
+2020-12-20 15:28:43,034 INFO server.py Запуск сервера
+2020-12-20 15:28:49,615 Level 666 server_log_config.py Уровень логирования: 10
+2020-12-20 15:28:50,138 Level 666 server_log_config.py Уровень логирования: 10
+2020-12-20 15:28:50,669 Level 666 server_log_config.py Уровень логирования: 10
+2020-12-20 15:28:51,190 Level 666 server_log_config.py Уровень логирования: 10
+2020-12-20 15:28:51,731 Level 666 server_log_config.py Уровень логирования: 10
+2020-12-20 15:32:09,553 INFO server.py Запущен новый сервер
+2020-12-20 15:32:09,554 DEBUG server.py Переданы параметры командной строки ['server.py', 'ip_adr', '127.0.0.1', 'port', '7777']
+2020-12-20 15:32:09,554 DEBUG server.py Сформированы ключи {'ip_adr': '127.0.0.1', 'port': '7777'}
+2020-12-20 15:32:09,554 DEBUG server.py Попытка создать экземпляр Сервера
+2020-12-20 15:32:09,554 DEBUG my_classes.py Атрибут "socket" установлен в None
+2020-12-20 15:32:09,554 DEBUG my_classes.py Атрибут "max_connections" установлен в 5
+2020-12-20 15:32:09,554 DEBUG my_classes.py Атрибут "ip_adr" установлен в 127.0.0.1
+2020-12-20 15:32:09,554 DEBUG my_classes.py Атрибут "port" установлен в 7777
+2020-12-20 15:32:09,554 DEBUG my_classes.py Атрибут "max_package_len" установлен в 1024
+2020-12-20 15:32:09,554 INFO server.py Экземпляр Сервера создан
+2020-12-20 15:32:09,554 DEBUG server.py Биндим сервер
+2020-12-20 15:32:09,554 DEBUG my_classes.py Атрибут "socket" установлен в <socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('0.0.0.0', 0)>
+2020-12-20 15:37:26,851 DEBUG my_classes.py Атрибут "ip_adr" установлен в 127.0.0.1
+2020-12-20 15:37:26,851 DEBUG my_classes.py Атрибут "port" установлен в 7777
+2020-12-20 15:37:26,851 DEBUG my_classes.py Атрибут "max_package_len" установлен в 1024
+2020-12-20 15:37:26,851 DEBUG my_classes.py Атрибут "socket" установлен в None
+2020-12-20 15:37:26,851 DEBUG my_classes.py Атрибут "socket" установлен в <socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('0.0.0.0', 0)>
+2020-12-20 15:37:26,919 DEBUG my_classes.py Атрибут "ip_adr" установлен в 127.0.0.1
+2020-12-20 15:37:26,920 DEBUG my_classes.py Атрибут "port" установлен в 7777
+2020-12-20 15:37:26,920 DEBUG my_classes.py Атрибут "max_package_len" установлен в 1024
+2020-12-20 15:37:26,920 DEBUG my_classes.py Атрибут "socket" установлен в None
+2020-12-20 15:37:26,920 DEBUG my_classes.py Атрибут "socket" установлен в <socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('0.0.0.0', 0)>
+2020-12-20 15:37:26,986 DEBUG my_classes.py Атрибут "ip_adr" установлен в 127.0.0.1
+2020-12-20 15:37:26,986 DEBUG my_classes.py Атрибут "port" установлен в 7777
+2020-12-20 15:37:26,986 DEBUG my_classes.py Атрибут "max_package_len" установлен в 1024
+2020-12-20 15:37:26,986 DEBUG my_classes.py Атрибут "socket" установлен в None
+2020-12-20 15:37:26,986 DEBUG my_classes.py Атрибут "socket" установлен в <socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('0.0.0.0', 0)>
+2020-12-20 15:37:27,057 DEBUG my_classes.py Атрибут "ip_adr" установлен в 127.0.0.1
+2020-12-20 15:37:27,057 DEBUG my_classes.py Атрибут "port" установлен в 7777
+2020-12-20 15:37:27,057 DEBUG my_classes.py Атрибут "max_package_len" установлен в 1024
+2020-12-20 15:37:27,057 DEBUG my_classes.py Атрибут "socket" установлен в None
+2020-12-20 15:37:27,058 DEBUG my_classes.py Атрибут "socket" установлен в <socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('0.0.0.0', 0)>
+2020-12-20 15:37:27,145 DEBUG my_classes.py Атрибут "ip_adr" установлен в 127.0.0.1
+2020-12-20 15:37:27,145 DEBUG my_classes.py Атрибут "port" установлен в 7777
+2020-12-20 15:37:27,146 DEBUG my_classes.py Атрибут "max_package_len" установлен в 1024
+2020-12-20 15:37:27,146 DEBUG my_classes.py Атрибут "socket" установлен в None
+2020-12-20 15:37:27,146 DEBUG my_classes.py Атрибут "socket" установлен в <socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('0.0.0.0', 0)>
+2020-12-20 15:39:18,871 INFO server.py Запущен новый сервер
+2020-12-20 15:39:18,871 DEBUG server.py Переданы параметры командной строки ['server.py', 'ip_adr', '127.0.0.1', 'port', '7777']
+2020-12-20 15:39:18,872 DEBUG server.py Сформированы ключи {'ip_adr': '127.0.0.1', 'port': '7777'}
+2020-12-20 15:39:18,872 DEBUG server.py Попытка создать экземпляр Сервера
+2020-12-20 15:39:18,872 INFO server.py Экземпляр Сервера создан
+2020-12-20 15:39:18,872 DEBUG server.py Биндим сервер
+2020-12-20 15:39:18,872 INFO server.py Запуск сервера
+2020-12-20 15:39:52,003 INFO server.py Запущен новый сервер
+2020-12-20 15:39:52,004 DEBUG server.py Переданы параметры командной строки ['server.py', 'ip_adr', '127.0.0.1', 'port', '7777']
+2020-12-20 15:39:52,004 DEBUG server.py Сформированы ключи {'ip_adr': '127.0.0.1', 'port': '7777'}
+2020-12-20 15:39:52,004 DEBUG server.py Попытка создать экземпляр Сервера
+2020-12-20 15:39:52,004 DEBUG my_classes.py Атрибут "socket" установлен в None
+2020-12-20 15:39:52,004 DEBUG my_classes.py Атрибут "max_connections" установлен в 5
+2020-12-20 15:39:52,005 DEBUG my_classes.py Атрибут "ip_adr" установлен в 127.0.0.1
+2020-12-20 15:39:52,005 DEBUG my_classes.py Атрибут "port" установлен в 7777
+2020-12-20 15:39:52,005 DEBUG my_classes.py Атрибут "max_package_len" установлен в 1024
+2020-12-20 15:39:52,005 INFO server.py Экземпляр Сервера создан
+2020-12-20 15:39:52,005 DEBUG server.py Биндим сервер
+2020-12-20 15:39:52,005 DEBUG my_classes.py Атрибут "socket" установлен в <socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('0.0.0.0', 0)>
+2020-12-20 15:41:28,037 INFO server.py Запущен новый сервер
+2020-12-20 15:41:28,038 DEBUG server.py Переданы параметры командной строки ['server.py', 'ip_adr', '127.0.0.1', 'port', '7777']
+2020-12-20 15:41:28,038 DEBUG server.py Сформированы ключи {'ip_adr': '127.0.0.1', 'port': '7777'}
+2020-12-20 15:41:28,038 DEBUG server.py Попытка создать экземпляр Сервера
+2020-12-20 15:41:28,039 DEBUG my_classes.py Атрибут "socket" установлен в None
+2020-12-20 15:41:28,039 DEBUG my_classes.py Атрибут "max_connections" установлен в 5
+2020-12-20 15:41:28,039 DEBUG my_classes.py Атрибут "ip_adr" установлен в 127.0.0.1
+2020-12-20 15:41:28,040 DEBUG my_classes.py Атрибут "port" установлен в 7777
+2020-12-20 15:41:28,040 DEBUG my_classes.py Атрибут "max_package_len" установлен в 1024
+2020-12-20 15:41:28,040 INFO server.py Экземпляр Сервера создан
+2020-12-20 15:41:28,041 DEBUG server.py Биндим сервер
+2020-12-20 15:41:38,793 DEBUG my_classes.py Атрибут "socket" установлен в <socket.socket fd=7, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('0.0.0.0', 0)>
+2020-12-20 15:46:59,845 INFO server.py Запущен новый сервер
+2020-12-20 15:46:59,845 DEBUG server.py Переданы параметры командной строки ['server.py', 'ip_adr', '127.0.0.1', 'port', '7777']
+2020-12-20 15:46:59,846 DEBUG server.py Сформированы ключи {'ip_adr': '127.0.0.1', 'port': '7777'}
+2020-12-20 15:46:59,846 DEBUG server.py Попытка создать экземпляр Сервера
+2020-12-20 15:46:59,846 DEBUG my_classes.py Атрибут "ip_adr" установлен в 127.0.0.1
+2020-12-20 15:46:59,846 DEBUG my_classes.py Атрибут "port" установлен в 7777
+2020-12-20 15:46:59,846 DEBUG my_classes.py Атрибут "max_package_len" установлен в 1024
+2020-12-20 15:46:59,846 DEBUG my_classes.py Атрибут "socket" установлен в None
+2020-12-20 15:46:59,846 DEBUG my_classes.py Атрибут "max_connections" установлен в 5
+2020-12-20 15:46:59,846 INFO server.py Экземпляр Сервера создан
+2020-12-20 15:46:59,846 DEBUG server.py Биндим сервер
+2020-12-20 15:46:59,846 DEBUG my_classes.py Атрибут "socket" установлен в <socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('0.0.0.0', 0)>
+2020-12-20 15:51:20,106 INFO server.py Запущен новый сервер
+2020-12-20 15:51:20,106 DEBUG server.py Переданы параметры командной строки ['server.py', 'ip_adr', '127.0.0.1', 'port', '7777']
+2020-12-20 15:51:20,106 DEBUG server.py Сформированы ключи {'ip_adr': '127.0.0.1', 'port': '7777'}
+2020-12-20 15:51:20,106 DEBUG server.py Попытка создать экземпляр Сервера
+2020-12-20 15:51:20,106 DEBUG my_classes.py Атрибут "ip_adr" установлен в 127.0.0.1
+2020-12-20 15:51:20,106 DEBUG my_classes.py Атрибут "port" установлен в 7777
+2020-12-20 15:51:20,106 DEBUG my_classes.py Атрибут "max_package_len" установлен в 1024
+2020-12-20 15:51:20,106 DEBUG my_classes.py Атрибут "my_socket" установлен в None
+2020-12-20 15:51:20,107 DEBUG my_classes.py Атрибут "max_connections" установлен в 5
+2020-12-20 15:51:20,107 INFO server.py Экземпляр Сервера создан
+2020-12-20 15:51:20,107 DEBUG server.py Биндим сервер
+2020-12-20 15:51:20,107 DEBUG my_classes.py Атрибут "my_socket" установлен в <socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('0.0.0.0', 0)>
+2020-12-20 15:55:49,269 INFO server.py Запущен новый сервер
+2020-12-20 15:55:49,270 DEBUG server.py Переданы параметры командной строки ['server.py', 'ip_adr', '127.0.0.1', 'port', '7777']
+2020-12-20 15:55:49,270 DEBUG server.py Сформированы ключи {'ip_adr': '127.0.0.1', 'port': '7777'}
+2020-12-20 15:55:49,270 DEBUG server.py Попытка создать экземпляр Сервера
+2020-12-20 15:55:49,270 DEBUG my_classes.py Атрибут "ip_adr" установлен в 127.0.0.1
+2020-12-20 15:55:49,270 DEBUG my_classes.py Атрибут "port" установлен в 7777
+2020-12-20 15:55:49,270 DEBUG my_classes.py Атрибут "max_package_len" установлен в 1024
+2020-12-20 15:55:49,270 DEBUG my_classes.py Атрибут "my_socket" установлен в None
+2020-12-20 15:55:49,270 DEBUG my_classes.py Атрибут "max_connections" установлен в 5
+2020-12-20 15:55:49,270 INFO server.py Экземпляр Сервера создан
+2020-12-20 15:55:49,270 DEBUG server.py Биндим сервер
+2020-12-20 15:55:49,271 DEBUG my_classes.py Атрибут "my_socket" установлен в <socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('0.0.0.0', 0)>
+2020-12-20 15:57:05,750 INFO server.py Запущен новый сервер
+2020-12-20 15:57:05,755 DEBUG server.py Переданы параметры командной строки ['server.py', 'ip_adr', '127.0.0.1', 'port', '7777']
+2020-12-20 15:57:05,755 DEBUG server.py Сформированы ключи {'ip_adr': '127.0.0.1', 'port': '7777'}
+2020-12-20 15:57:05,755 DEBUG server.py Попытка создать экземпляр Сервера
+2020-12-20 15:57:05,755 DEBUG my_classes.py Атрибут "ip_adr" установлен в 127.0.0.1
+2020-12-20 15:57:05,755 DEBUG my_classes.py Атрибут "port" установлен в 7777
+2020-12-20 15:57:05,755 DEBUG my_classes.py Атрибут "max_package_len" установлен в 1024
+2020-12-20 15:57:05,755 DEBUG my_classes.py Атрибут "my_socket" установлен в None
+2020-12-20 15:57:05,755 DEBUG my_classes.py Атрибут "max_connections" установлен в 5
+2020-12-20 15:57:05,755 INFO server.py Экземпляр Сервера создан
+2020-12-20 15:57:05,755 DEBUG server.py Биндим сервер
+2020-12-20 15:57:05,756 DEBUG my_classes.py Атрибут "my_socket" установлен в <socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('0.0.0.0', 0)>
+2020-12-20 15:58:11,051 INFO server.py Запущен новый сервер
+2020-12-20 15:58:11,051 DEBUG server.py Переданы параметры командной строки ['server.py', 'ip_adr', '127.0.0.1', 'port', '7777']
+2020-12-20 15:58:11,051 DEBUG server.py Сформированы ключи {'ip_adr': '127.0.0.1', 'port': '7777'}
+2020-12-20 15:58:11,051 DEBUG server.py Попытка создать экземпляр Сервера
+2020-12-20 15:58:11,052 DEBUG my_classes.py Атрибут "ip_adr" установлен в 127.0.0.1
+2020-12-20 15:58:11,052 DEBUG my_classes.py Атрибут "port" установлен в 7777
+2020-12-20 15:58:11,052 DEBUG my_classes.py Атрибут "max_package_len" установлен в 1024
+2020-12-20 15:58:11,052 DEBUG my_classes.py Атрибут "my_socket" установлен в None
+2020-12-20 15:58:11,052 DEBUG my_classes.py Атрибут "max_connections" установлен в 5
+2020-12-20 15:58:11,052 INFO server.py Экземпляр Сервера создан
+2020-12-20 15:58:11,052 DEBUG server.py Биндим сервер
+2020-12-20 15:58:11,052 DEBUG my_classes.py Атрибут "my_socket" установлен в <socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('0.0.0.0', 0)>
+2020-12-20 15:59:06,188 INFO server.py Запущен новый сервер
+2020-12-20 15:59:06,188 DEBUG server.py Переданы параметры командной строки ['server.py', 'ip_adr', '127.0.0.1', 'port', '7777']
+2020-12-20 15:59:06,189 DEBUG server.py Сформированы ключи {'ip_adr': '127.0.0.1', 'port': '7777'}
+2020-12-20 15:59:06,189 DEBUG server.py Попытка создать экземпляр Сервера
+2020-12-20 15:59:06,189 DEBUG my_classes.py Атрибут "ip_adr" установлен в 127.0.0.1
+2020-12-20 15:59:06,189 DEBUG my_classes.py Атрибут "port" установлен в 7777
+2020-12-20 15:59:06,189 DEBUG my_classes.py Атрибут "max_package_len" установлен в 1024
+2020-12-20 15:59:06,189 DEBUG my_classes.py Атрибут "my_socket" установлен в None
+2020-12-20 15:59:06,189 DEBUG my_classes.py Атрибут "max_connections" установлен в 5
+2020-12-20 15:59:06,189 INFO server.py Экземпляр Сервера создан
+2020-12-20 15:59:06,189 DEBUG server.py Биндим сервер
+2020-12-20 15:59:06,189 DEBUG my_classes.py 1
+2020-12-20 15:59:06,190 DEBUG my_classes.py Атрибут "my_socket" установлен в <socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('0.0.0.0', 0)>
+2020-12-20 15:59:06,190 DEBUG my_classes.py 2
+2020-12-20 16:02:45,312 INFO server.py Запущен новый сервер
+2020-12-20 16:02:45,312 DEBUG server.py Переданы параметры командной строки ['server.py', 'ip_adr', '127.0.0.1', 'port', '7777']
+2020-12-20 16:02:45,313 DEBUG server.py Сформированы ключи {'ip_adr': '127.0.0.1', 'port': '7777'}
+2020-12-20 16:02:45,313 DEBUG server.py Попытка создать экземпляр Сервера
+2020-12-20 16:02:45,313 DEBUG my_classes.py Атрибут "ip_adr" установлен в 127.0.0.1
+2020-12-20 16:02:45,313 DEBUG my_classes.py Атрибут "port" установлен в 7777
+2020-12-20 16:02:45,313 DEBUG my_classes.py Атрибут "max_package_len" установлен в 1024
+2020-12-20 16:02:45,313 DEBUG my_classes.py Атрибут "my_socket" установлен в None
+2020-12-20 16:02:45,314 DEBUG my_classes.py Атрибут "max_connections" установлен в 5
+2020-12-20 16:02:45,314 INFO server.py Экземпляр Сервера создан
+2020-12-20 16:02:45,314 DEBUG server.py Биндим сервер
+2020-12-20 16:02:45,314 DEBUG my_classes.py 1
+2020-12-20 16:02:45,314 DEBUG my_classes.py Атрибут "my_socket" установлен в <socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('0.0.0.0', 0)>
+2020-12-20 16:02:45,314 DEBUG my_classes.py 2
+2020-12-20 16:02:45,315 DEBUG my_classes.py 3
+2020-12-20 16:02:45,315 INFO server.py Запуск сервера
+2020-12-20 16:04:20,852 INFO server.py Запущен новый сервер
+2020-12-20 16:04:20,852 DEBUG server.py Переданы параметры командной строки ['server.py', 'ip_adr', '127.0.0.1', 'port', '7777']
+2020-12-20 16:04:20,852 DEBUG server.py Сформированы ключи {'ip_adr': '127.0.0.1', 'port': '7777'}
+2020-12-20 16:04:20,852 DEBUG server.py Попытка создать экземпляр Сервера
+2020-12-20 16:04:20,852 DEBUG my_classes.py Атрибут "ip_adr" установлен в 127.0.0.1
+2020-12-20 16:04:20,853 DEBUG my_classes.py Атрибут "port" установлен в 7777
+2020-12-20 16:04:20,853 DEBUG my_classes.py Атрибут "max_package_len" установлен в 1024
+2020-12-20 16:04:20,853 DEBUG my_classes.py Атрибут "my_socket" установлен в None
+2020-12-20 16:04:20,853 DEBUG my_classes.py Атрибут "max_connections" установлен в 5
+2020-12-20 16:04:20,853 INFO server.py Экземпляр Сервера создан
+2020-12-20 16:04:20,853 DEBUG server.py Биндим сервер
+2020-12-20 16:04:20,853 DEBUG my_classes.py 1
+2020-12-20 16:04:20,853 DEBUG my_classes.py Атрибут "my_socket" установлен в <socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('0.0.0.0', 0)>
+2020-12-20 16:04:20,853 DEBUG my_classes.py 2
+2020-12-20 16:04:20,853 DEBUG my_classes.py 3
+2020-12-20 16:04:20,853 INFO server.py Запуск сервера
+2020-12-20 16:07:05,643 INFO server.py Запущен новый сервер
+2020-12-20 16:07:05,643 DEBUG server.py Переданы параметры командной строки ['server.py', 'ip_adr', '127.0.0.1', 'port', '7777']
+2020-12-20 16:07:05,643 DEBUG server.py Сформированы ключи {'ip_adr': '127.0.0.1', 'port': '7777'}
+2020-12-20 16:07:05,643 DEBUG server.py Попытка создать экземпляр Сервера
+2020-12-20 16:07:05,644 DEBUG my_classes.py Атрибут "ip_adr" установлен в 127.0.0.1
+2020-12-20 16:07:05,644 DEBUG my_classes.py Атрибут "port" установлен в 7777
+2020-12-20 16:07:05,644 DEBUG my_classes.py Атрибут "max_package_len" установлен в 1024
+2020-12-20 16:07:05,644 DEBUG my_classes.py Атрибут "my_socket" установлен в None
+2020-12-20 16:07:05,644 DEBUG my_classes.py Атрибут "max_connections" установлен в 5
+2020-12-20 16:07:05,644 INFO server.py Экземпляр Сервера создан
+2020-12-20 16:07:05,644 DEBUG server.py Биндим сервер
+2020-12-20 16:07:05,645 DEBUG my_classes.py Атрибут "my_socket" установлен в <socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('0.0.0.0', 0)>
+2020-12-20 16:07:05,645 INFO server.py Запуск сервера
+2020-12-20 16:08:35,525 INFO server.py Запущен новый сервер
+2020-12-20 16:08:35,525 DEBUG server.py Переданы параметры командной строки ['server.py', 'ip_adr', '127.0.0.1', 'port', '7777']
+2020-12-20 16:08:35,525 DEBUG server.py Сформированы ключи {'ip_adr': '127.0.0.1', 'port': '7777'}
+2020-12-20 16:08:35,526 DEBUG server.py Попытка создать экземпляр Сервера
+2020-12-20 16:08:35,526 DEBUG my_classes.py Атрибут "ip_adr" установлен в 127.0.0.1
+2020-12-20 16:08:35,526 DEBUG my_classes.py Атрибут "port" установлен в 7777
+2020-12-20 16:08:35,526 DEBUG my_classes.py Атрибут "max_package_len" установлен в 1024
+2020-12-20 16:08:35,526 DEBUG my_classes.py Атрибут "my_socket" установлен в None
+2020-12-20 16:08:35,526 DEBUG my_classes.py Атрибут "max_connections" установлен в 5
+2020-12-20 16:08:35,526 INFO server.py Экземпляр Сервера создан
+2020-12-20 16:08:35,526 DEBUG server.py Биндим сервер
+2020-12-20 16:08:35,527 DEBUG my_classes.py Атрибут "my_socket" установлен в <socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('0.0.0.0', 0)>
+2020-12-20 16:08:35,527 INFO server.py Запуск сервера
+2020-12-20 16:10:38,597 INFO server.py Запущен новый сервер
+2020-12-20 16:10:38,597 DEBUG server.py Переданы параметры командной строки ['server.py', 'ip_adr', '127.0.0.1', 'port', '7777']
+2020-12-20 16:10:38,597 DEBUG server.py Сформированы ключи {'ip_adr': '127.0.0.1', 'port': '7777'}
+2020-12-20 16:10:38,597 DEBUG server.py Попытка создать экземпляр Сервера
+2020-12-20 16:10:38,597 DEBUG my_classes.py Атрибут "ip_adr" установлен в 127.0.0.1
+2020-12-20 16:10:38,597 DEBUG my_classes.py Атрибут "port" установлен в 7777
+2020-12-20 16:10:38,597 DEBUG my_classes.py Атрибут "max_package_len" установлен в 1024
+2020-12-20 16:10:38,598 DEBUG my_classes.py Атрибут "my_socket" установлен в None
+2020-12-20 16:10:38,598 DEBUG my_classes.py Атрибут "max_connections" установлен в 5
+2020-12-20 16:10:38,598 INFO server.py Экземпляр Сервера создан
+2020-12-20 16:10:38,598 DEBUG server.py Биндим сервер
+2020-12-20 16:10:38,598 DEBUG my_classes.py Атрибут "my_socket" установлен в <socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('0.0.0.0', 0)>
+2020-12-20 16:10:38,598 INFO server.py Запуск сервера
+2020-12-20 16:11:24,416 INFO server.py Запущен новый сервер
+2020-12-20 16:11:24,417 DEBUG server.py Переданы параметры командной строки ['server.py', 'ip_adr', '127.0.0.1', 'port', '7777']
+2020-12-20 16:11:24,417 DEBUG server.py Сформированы ключи {'ip_adr': '127.0.0.1', 'port': '7777'}
+2020-12-20 16:11:24,417 DEBUG server.py Попытка создать экземпляр Сервера
+2020-12-20 16:11:24,418 DEBUG my_classes.py Атрибут "ip_adr" установлен в 127.0.0.1
+2020-12-20 16:11:24,418 DEBUG my_classes.py Атрибут "port" установлен в 7777
+2020-12-20 16:11:24,418 DEBUG my_classes.py Атрибут "max_package_len" установлен в 1024
+2020-12-20 16:11:24,418 DEBUG my_classes.py Атрибут "my_socket" установлен в None
+2020-12-20 16:11:24,418 DEBUG my_classes.py Атрибут "max_connections" установлен в 5
+2020-12-20 16:11:24,418 INFO server.py Экземпляр Сервера создан
+2020-12-20 16:11:24,418 DEBUG server.py Биндим сервер
+2020-12-20 16:11:24,418 DEBUG my_classes.py Атрибут "my_socket" установлен в <socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('0.0.0.0', 0)>
+2020-12-20 16:11:58,239 INFO server.py Запущен новый сервер
+2020-12-20 16:11:58,240 DEBUG server.py Переданы параметры командной строки ['server.py', 'ip_adr', '127.0.0.1', 'port', '7777']
+2020-12-20 16:11:58,240 DEBUG server.py Сформированы ключи {'ip_adr': '127.0.0.1', 'port': '7777'}
+2020-12-20 16:11:58,240 DEBUG server.py Попытка создать экземпляр Сервера
+2020-12-20 16:11:58,240 DEBUG my_classes.py Атрибут "ip_adr" установлен в 127.0.0.1
+2020-12-20 16:11:58,240 DEBUG my_classes.py Атрибут "port" установлен в 7777
+2020-12-20 16:11:58,240 DEBUG my_classes.py Атрибут "max_package_len" установлен в 1024
+2020-12-20 16:11:58,240 DEBUG my_classes.py Атрибут "my_socket" установлен в None
+2020-12-20 16:11:58,240 DEBUG my_classes.py Атрибут "max_connections" установлен в 5
+2020-12-20 16:11:58,241 INFO server.py Экземпляр Сервера создан
+2020-12-20 16:11:58,241 DEBUG server.py Биндим сервер
+2020-12-20 16:11:58,241 DEBUG my_classes.py Атрибут "my_socket" установлен в <socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('0.0.0.0', 0)>
+2020-12-20 16:11:58,241 INFO server.py Запуск сервера
+2020-12-20 20:16:27,296 INFO server.py Запущен новый сервер
+2020-12-20 20:16:27,296 DEBUG server.py Переданы параметры командной строки ['server.py', 'ip_adr', '127.0.0.1', 'port', '7777']
+2020-12-20 20:16:27,296 DEBUG server.py Сформированы ключи {'ip_adr': '127.0.0.1', 'port': '7777'}
+2020-12-20 20:16:27,296 DEBUG server.py Попытка создать экземпляр Сервера
+2020-12-20 20:16:27,296 DEBUG my_classes.py Атрибут "ip_adr" установлен в 127.0.0.1
+2020-12-20 20:16:27,296 DEBUG my_classes.py Атрибут "port" установлен в 7777
+2020-12-20 20:16:27,297 DEBUG my_classes.py Атрибут "max_package_len" установлен в 1024
+2020-12-20 20:16:27,297 DEBUG my_classes.py Атрибут "my_socket" установлен в None
+2020-12-20 20:16:27,297 DEBUG my_classes.py Атрибут "max_connections" установлен в 5
+2020-12-20 20:16:27,297 INFO server.py Экземпляр Сервера создан
+2020-12-20 20:16:27,297 DEBUG server.py Биндим сервер
+2020-12-20 20:16:27,297 DEBUG my_classes.py Создание сокета
+2020-12-20 20:16:27,297 DEBUG my_classes.py Атрибут "my_socket" установлен в <socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('0.0.0.0', 0)>
+2020-12-20 20:16:27,297 DEBUG my_classes.py Бинд сервера
+2020-12-20 20:16:27,297 INFO server.py Запуск сервера
+2020-12-20 20:16:45,375 INFO my_classes.py {'action': 'presence', 'time': 1608484605.3748662, 'user': {'account_name': 'Guest'}}
+2020-12-20 20:16:45,439 INFO my_classes.py {'action': 'presence', 'time': 1608484605.439337, 'user': {'account_name': 'Guest'}}
+2020-12-20 20:16:45,505 INFO my_classes.py {'action': 'presence', 'time': 1608484605.5048876, 'user': {'account_name': 'Guest'}}
+2020-12-20 20:16:45,564 INFO my_classes.py {'action': 'presence', 'time': 1608484605.5644488, 'user': {'account_name': 'Guest'}}
+2020-12-20 20:16:45,632 INFO my_classes.py {'action': 'presence', 'time': 1608484605.6317217, 'user': {'account_name': 'Guest'}}
+2020-12-20 20:17:02,716 INFO server.py Запущен новый сервер
+2020-12-20 20:17:02,716 DEBUG server.py Переданы параметры командной строки ['server.py', 'ip_adr', '127.0.0.1', 'port', '7777']
+2020-12-20 20:17:02,716 DEBUG server.py Сформированы ключи {'ip_adr': '127.0.0.1', 'port': '7777'}
+2020-12-20 20:17:02,716 DEBUG server.py Попытка создать экземпляр Сервера
+2020-12-20 20:17:02,716 DEBUG my_classes.py Атрибут "ip_adr" установлен в 127.0.0.1
+2020-12-20 20:17:02,716 DEBUG my_classes.py Атрибут "port" установлен в 7777
+2020-12-20 20:17:02,717 DEBUG my_classes.py Атрибут "max_package_len" установлен в 1024
+2020-12-20 20:17:02,717 DEBUG my_classes.py Атрибут "my_socket" установлен в None
+2020-12-20 20:17:02,717 DEBUG my_classes.py Атрибут "max_connections" установлен в 5
+2020-12-20 20:17:02,717 INFO server.py Экземпляр Сервера создан
+2020-12-20 20:17:02,717 DEBUG server.py Биндим сервер
+2020-12-20 20:17:02,717 DEBUG my_classes.py Создание сокета
+2020-12-20 20:17:02,717 DEBUG my_classes.py Атрибут "my_socket" установлен в <socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('0.0.0.0', 0)>
+2020-12-20 20:17:02,717 DEBUG my_classes.py Бинд сервера
+2020-12-20 20:19:06,881 INFO server.py Запущен новый сервер
+2020-12-20 20:19:06,882 DEBUG server.py Переданы параметры командной строки ['server.py', 'ip_adr', '127.0.0.1', 'port', '7777']
+2020-12-20 20:19:06,882 DEBUG server.py Сформированы ключи {'ip_adr': '127.0.0.1', 'port': '7777'}
+2020-12-20 20:19:06,882 DEBUG server.py Попытка создать экземпляр Сервера
+2020-12-20 20:19:06,882 DEBUG my_classes.py Атрибут "ip_adr" установлен в 127.0.0.1
+2020-12-20 20:19:06,882 DEBUG my_classes.py Атрибут "port" установлен в 7777
+2020-12-20 20:19:06,882 DEBUG my_classes.py Атрибут "max_package_len" установлен в 1024
+2020-12-20 20:19:06,882 DEBUG my_classes.py Атрибут "my_socket" установлен в None
+2020-12-20 20:19:06,882 DEBUG my_classes.py Атрибут "max_connections" установлен в 5
+2020-12-20 20:19:06,882 INFO server.py Экземпляр Сервера создан
+2020-12-20 20:19:06,882 DEBUG server.py Биндим сервер
+2020-12-20 20:19:06,883 DEBUG my_classes.py Создание сокета
+2020-12-20 20:19:06,883 DEBUG my_classes.py Атрибут "my_socket" установлен в <socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('0.0.0.0', 0)>
+2020-12-20 20:19:06,883 DEBUG my_classes.py Бинд сервера
+2020-12-20 20:19:06,883 INFO server.py Запуск сервера
+2020-12-20 20:19:17,019 INFO server.py Запущен новый сервер
+2020-12-20 20:19:17,019 DEBUG server.py Переданы параметры командной строки ['server.py', 'ip_adr', '127.0.0.1', 'port', '7777']
+2020-12-20 20:19:17,019 DEBUG server.py Сформированы ключи {'ip_adr': '127.0.0.1', 'port': '7777'}
+2020-12-20 20:19:17,019 DEBUG server.py Попытка создать экземпляр Сервера
+2020-12-20 20:19:17,019 DEBUG my_classes.py Атрибут "ip_adr" установлен в 127.0.0.1
+2020-12-20 20:19:17,020 DEBUG my_classes.py Атрибут "port" установлен в 7777
+2020-12-20 20:19:17,020 DEBUG my_classes.py Атрибут "max_package_len" установлен в 1024
+2020-12-20 20:19:17,020 DEBUG my_classes.py Атрибут "my_socket" установлен в None
+2020-12-20 20:19:17,020 DEBUG my_classes.py Атрибут "max_connections" установлен в 5
+2020-12-20 20:19:17,020 INFO server.py Экземпляр Сервера создан
+2020-12-20 20:19:17,020 DEBUG server.py Биндим сервер
+2020-12-20 20:19:17,020 DEBUG my_classes.py Создание сокета
+2020-12-20 20:19:17,020 DEBUG my_classes.py Атрибут "my_socket" установлен в <socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('0.0.0.0', 0)>
+2020-12-20 20:19:17,020 DEBUG my_classes.py Бинд сервера
+2020-12-20 20:19:17,020 INFO server.py Запуск сервера
+2020-12-20 20:19:24,007 INFO server.py Запущен новый сервер
+2020-12-20 20:19:24,007 DEBUG server.py Переданы параметры командной строки ['server.py', 'ip_adr', '127.0.0.1', 'port', '7777']
+2020-12-20 20:19:24,007 DEBUG server.py Сформированы ключи {'ip_adr': '127.0.0.1', 'port': '7777'}
+2020-12-20 20:19:24,007 DEBUG server.py Попытка создать экземпляр Сервера
+2020-12-20 20:19:24,007 DEBUG my_classes.py Атрибут "ip_adr" установлен в 127.0.0.1
+2020-12-20 20:19:24,007 DEBUG my_classes.py Атрибут "port" установлен в 7777
+2020-12-20 20:19:24,007 DEBUG my_classes.py Атрибут "max_package_len" установлен в 1024
+2020-12-20 20:19:24,007 DEBUG my_classes.py Атрибут "my_socket" установлен в None
+2020-12-20 20:19:24,007 DEBUG my_classes.py Атрибут "max_connections" установлен в 5
+2020-12-20 20:19:24,007 INFO server.py Экземпляр Сервера создан
+2020-12-20 20:19:24,007 DEBUG server.py Биндим сервер
+2020-12-20 20:19:24,007 DEBUG my_classes.py Создание сокета
+2020-12-20 20:19:24,008 DEBUG my_classes.py Атрибут "my_socket" установлен в <socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('0.0.0.0', 0)>
+2020-12-20 20:19:24,008 DEBUG my_classes.py Бинд сервера
+2020-12-20 20:19:24,008 CRITICAL my_classes.py ОШИБКА!: [Errno 98] Address already in use
+2020-12-20 20:19:24,008 INFO server.py Запуск сервера
+2020-12-20 20:22:40,879 INFO server.py Запущен новый сервер
+2020-12-20 20:22:40,880 DEBUG server.py Переданы параметры командной строки ['server.py', 'ip_adr', '127.0.0.1', 'port', '7777']
+2020-12-20 20:22:40,880 DEBUG server.py Сформированы ключи {'ip_adr': '127.0.0.1', 'port': '7777'}
+2020-12-20 20:22:40,880 DEBUG server.py Попытка создать экземпляр Сервера
+2020-12-20 20:22:40,880 DEBUG my_classes.py Атрибут "ip_adr" установлен в 127.0.0.1
+2020-12-20 20:22:40,880 DEBUG my_classes.py Атрибут "port" установлен в 7777
+2020-12-20 20:22:40,880 DEBUG my_classes.py Атрибут "max_package_len" установлен в 1024
+2020-12-20 20:22:40,880 DEBUG my_classes.py Атрибут "my_socket" установлен в None
+2020-12-20 20:22:40,880 DEBUG my_classes.py Атрибут "max_connections" установлен в 5
+2020-12-20 20:22:40,880 INFO server.py Экземпляр Сервера создан
+2020-12-20 20:22:40,880 DEBUG server.py Биндим сервер
+2020-12-20 20:22:40,880 DEBUG my_classes.py Создание сокета
+2020-12-20 20:22:40,880 DEBUG my_classes.py Атрибут "my_socket" установлен в <socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('0.0.0.0', 0)>
+2020-12-20 20:22:40,880 DEBUG my_classes.py Бинд сервера
+2020-12-20 20:22:40,881 INFO server.py Запуск сервера
+2020-12-20 20:23:23,527 INFO server.py Запущен новый сервер
+2020-12-20 20:23:23,528 DEBUG server.py Переданы параметры командной строки ['server.py', 'ip_adr', '127.0.0.1', 'port', '7777']
+2020-12-20 20:23:23,528 DEBUG server.py Сформированы ключи {'ip_adr': '127.0.0.1', 'port': '7777'}
+2020-12-20 20:23:23,528 DEBUG server.py Попытка создать экземпляр Сервера
+2020-12-20 20:23:23,528 DEBUG my_classes.py Атрибут "ip_adr" установлен в 127.0.0.1
+2020-12-20 20:23:23,528 DEBUG my_classes.py Атрибут "port" установлен в 7777
+2020-12-20 20:23:23,528 DEBUG my_classes.py Атрибут "max_package_len" установлен в 1024
+2020-12-20 20:23:23,528 DEBUG my_classes.py Атрибут "my_socket" установлен в None
+2020-12-20 20:23:23,528 DEBUG my_classes.py Атрибут "max_connections" установлен в 5
+2020-12-20 20:23:23,528 INFO server.py Экземпляр Сервера создан
+2020-12-20 20:23:23,528 DEBUG server.py Биндим сервер
+2020-12-20 20:23:23,528 DEBUG my_classes.py Создание сокета
+2020-12-20 20:23:23,529 DEBUG my_classes.py Атрибут "my_socket" установлен в <socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('0.0.0.0', 0)>
+2020-12-20 20:23:23,529 DEBUG my_classes.py Бинд сервера
+2020-12-20 20:23:23,529 CRITICAL my_classes.py ОШИБКА!: [Errno 98] Address already in use
+2020-12-20 20:23:23,529 CRITICAL server.py Запуск сервера провален!
+2020-12-20 20:23:30,440 INFO my_classes.py {'action': 'presence', 'time': 1608485010.4402192, 'user': {'account_name': 'Guest'}}
+2020-12-20 20:23:30,495 INFO my_classes.py {'action': 'presence', 'time': 1608485010.4954085, 'user': {'account_name': 'Guest'}}
+2020-12-20 20:23:30,555 INFO my_classes.py {'action': 'presence', 'time': 1608485010.5547225, 'user': {'account_name': 'Guest'}}
+2020-12-20 20:23:30,611 INFO my_classes.py {'action': 'presence', 'time': 1608485010.6106648, 'user': {'account_name': 'Guest'}}
+2020-12-20 20:23:30,668 INFO my_classes.py {'action': 'presence', 'time': 1608485010.668041, 'user': {'account_name': 'Guest'}}
+2020-12-20 20:24:41,582 INFO server.py Запущен новый сервер
+2020-12-20 20:24:41,583 DEBUG server.py Переданы параметры командной строки ['server.py', 'ip_adr', '127.0.0.1', 'port', '7777']
+2020-12-20 20:24:41,583 DEBUG server.py Сформированы ключи {'ip_adr': '127.0.0.1', 'port': '7777'}
+2020-12-20 20:24:41,583 DEBUG server.py Попытка создать экземпляр Сервера
+2020-12-20 20:24:41,583 DEBUG my_classes.py Атрибут "ip_adr" установлен в 127.0.0.1
+2020-12-20 20:24:41,583 DEBUG my_classes.py Атрибут "port" установлен в 7777
+2020-12-20 20:24:41,583 DEBUG my_classes.py Атрибут "max_package_len" установлен в 1024
+2020-12-20 20:24:41,583 DEBUG my_classes.py Атрибут "my_socket" установлен в None
+2020-12-20 20:24:41,583 DEBUG my_classes.py Атрибут "max_connections" установлен в 5
+2020-12-20 20:24:41,583 INFO server.py Экземпляр Сервера создан
+2020-12-20 20:24:41,583 DEBUG server.py Биндим сервер
+2020-12-20 20:24:41,583 DEBUG my_classes.py Создание сокета
+2020-12-20 20:24:41,583 DEBUG my_classes.py Атрибут "my_socket" установлен в <socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('0.0.0.0', 0)>
+2020-12-20 20:24:41,584 DEBUG my_classes.py Бинд сервера
+2020-12-20 20:24:41,584 INFO server.py Запуск сервера
+2020-12-20 20:24:45,816 INFO server.py Запущен новый сервер
+2020-12-20 20:24:45,817 DEBUG server.py Переданы параметры командной строки ['server.py', 'ip_adr', '127.0.0.1', 'port', '7777']
+2020-12-20 20:24:45,817 DEBUG server.py Сформированы ключи {'ip_adr': '127.0.0.1', 'port': '7777'}
+2020-12-20 20:24:45,817 DEBUG server.py Попытка создать экземпляр Сервера
+2020-12-20 20:24:45,817 DEBUG my_classes.py Атрибут "ip_adr" установлен в 127.0.0.1
+2020-12-20 20:24:45,817 DEBUG my_classes.py Атрибут "port" установлен в 7777
+2020-12-20 20:24:45,817 DEBUG my_classes.py Атрибут "max_package_len" установлен в 1024
+2020-12-20 20:24:45,817 DEBUG my_classes.py Атрибут "my_socket" установлен в None
+2020-12-20 20:24:45,817 DEBUG my_classes.py Атрибут "max_connections" установлен в 5
+2020-12-20 20:24:45,817 INFO server.py Экземпляр Сервера создан
+2020-12-20 20:24:45,817 DEBUG server.py Биндим сервер
+2020-12-20 20:24:45,818 DEBUG my_classes.py Создание сокета
+2020-12-20 20:24:45,818 DEBUG my_classes.py Атрибут "my_socket" установлен в <socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('0.0.0.0', 0)>
+2020-12-20 20:24:45,818 DEBUG my_classes.py Бинд сервера
+2020-12-20 20:24:45,818 CRITICAL my_classes.py ОШИБКА!: [Errno 98] Address already in use
+2020-12-20 20:24:45,818 CRITICAL server.py Запуск сервера провален!
+2020-12-20 20:26:26,492 INFO server.py Запущен новый сервер
+2020-12-20 20:26:26,493 DEBUG server.py Переданы параметры командной строки ['server.py', 'ip_adr', '127.0.0.1', 'port', '7777']
+2020-12-20 20:26:26,493 DEBUG server.py Сформированы ключи {'ip_adr': '127.0.0.1', 'port': '7777'}
+2020-12-20 20:26:26,493 DEBUG server.py Попытка создать экземпляр Сервера
+2020-12-20 20:26:26,493 DEBUG my_classes.py Атрибут "ip_adr" установлен в 127.0.0.1
+2020-12-20 20:26:26,493 DEBUG my_classes.py Атрибут "port" установлен в 7777
+2020-12-20 20:26:26,493 DEBUG my_classes.py Атрибут "max_package_len" установлен в 1024
+2020-12-20 20:26:26,493 DEBUG my_classes.py Атрибут "my_socket" установлен в None
+2020-12-20 20:26:26,493 DEBUG my_classes.py Атрибут "max_connections" установлен в 5
+2020-12-20 20:26:26,493 INFO server.py Экземпляр Сервера создан
+2020-12-20 20:26:26,493 DEBUG server.py Биндим сервер
+2020-12-20 20:26:26,493 DEBUG my_classes.py Создание сокета
+2020-12-20 20:26:26,494 DEBUG my_classes.py Атрибут "my_socket" установлен в <socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('0.0.0.0', 0)>
+2020-12-20 20:26:26,494 DEBUG my_classes.py Бинд сервера
+2020-12-20 20:26:26,494 INFO server.py Запуск сервера
+2020-12-20 20:26:29,367 INFO my_classes.py {'action': 'presence', 'time': 1608485189.366943, 'user': {'account_name': 'Guest'}}
+2020-12-20 20:26:29,423 INFO my_classes.py {'action': 'presence', 'time': 1608485189.423186, 'user': {'account_name': 'Guest'}}
+2020-12-20 20:26:29,478 INFO my_classes.py {'action': 'presence', 'time': 1608485189.478016, 'user': {'account_name': 'Guest'}}
+2020-12-20 20:26:29,543 INFO my_classes.py {'action': 'presence', 'time': 1608485189.5431654, 'user': {'account_name': 'Guest'}}
+2020-12-20 20:26:29,604 INFO my_classes.py {'action': 'presence', 'time': 1608485189.6037714, 'user': {'account_name': 'Guest'}}
+2020-12-20 20:26:33,551 INFO my_classes.py {'action': 'presence', 'time': 1608485193.5509326, 'user': {'account_name': 'Guest'}}
+2020-12-20 20:26:33,612 INFO my_classes.py {'action': 'presence', 'time': 1608485193.612693, 'user': {'account_name': 'Guest'}}
+2020-12-20 20:26:33,674 INFO my_classes.py {'action': 'presence', 'time': 1608485193.6742733, 'user': {'account_name': 'Guest'}}
+2020-12-20 20:26:33,735 INFO my_classes.py {'action': 'presence', 'time': 1608485193.7346466, 'user': {'account_name': 'Guest'}}
+2020-12-20 20:26:33,801 INFO my_classes.py {'action': 'presence', 'time': 1608485193.8012373, 'user': {'account_name': 'Guest'}}
+2020-12-20 21:30:28,323 DEBUG my_classes.py Атрибут "ip_adr" установлен в 127.0.0.1
+2020-12-20 21:30:28,323 DEBUG my_classes.py Атрибут "port" установлен в 7777
+2020-12-20 21:30:28,323 DEBUG my_classes.py Атрибут "max_package_len" установлен в 1024
+2020-12-20 21:30:28,323 DEBUG my_classes.py Атрибут "my_socket" установлен в None
+2020-12-20 21:31:50,195 DEBUG my_classes.py Атрибут "ip_adr" установлен в 127.0.0.1
+2020-12-20 21:31:50,195 DEBUG my_classes.py Атрибут "port" установлен в 7777
+2020-12-20 21:31:50,195 DEBUG my_classes.py Атрибут "max_package_len" установлен в 1024
+2020-12-20 21:31:50,195 DEBUG my_classes.py Атрибут "my_socket" установлен в None
+2020-12-20 21:31:50,195 DEBUG my_classes.py Атрибут "ip_adr" установлен в 127.0.0.1
+2020-12-20 21:31:50,195 DEBUG my_classes.py Атрибут "port" установлен в 7777
+2020-12-20 21:31:50,195 DEBUG my_classes.py Атрибут "max_package_len" установлен в 1024
+2020-12-20 21:31:50,195 DEBUG my_classes.py Атрибут "my_socket" установлен в None
+2020-12-20 21:31:50,196 DEBUG my_classes.py Атрибут "ip_adr" установлен в 127.0.0.1
+2020-12-20 21:31:50,196 DEBUG my_classes.py Атрибут "port" установлен в 7777
+2020-12-20 21:31:50,196 DEBUG my_classes.py Атрибут "max_package_len" установлен в 1024
+2020-12-20 21:31:50,196 DEBUG my_classes.py Атрибут "my_socket" установлен в None
+2020-12-20 21:31:50,196 INFO server.py Запущен новый сервер
+2020-12-20 21:31:50,196 DEBUG server.py Переданы параметры командной строки ['server.py', 'ip_adr', '127.0.0.1', 'port', '7777']
+2020-12-20 21:31:50,196 DEBUG server.py Сформированы ключи {'ip_adr': '127.0.0.1', 'port': '7777'}
+2020-12-20 21:31:50,196 DEBUG server.py Попытка создать экземпляр Сервера
+2020-12-20 21:32:21,893 DEBUG my_classes.py Атрибут "ip_adr" установлен в 127.0.0.1
+2020-12-20 21:32:21,893 DEBUG my_classes.py Атрибут "port" установлен в 7777
+2020-12-20 21:32:21,893 DEBUG my_classes.py Атрибут "max_package_len" установлен в 1024
+2020-12-20 21:32:21,893 DEBUG my_classes.py Атрибут "my_socket" установлен в None
+2020-12-20 21:32:21,893 DEBUG my_classes.py Атрибут "ip_adr" установлен в 127.0.0.1
+2020-12-20 21:32:21,893 DEBUG my_classes.py Атрибут "port" установлен в 7777
+2020-12-20 21:32:21,893 DEBUG my_classes.py Атрибут "max_package_len" установлен в 1024
+2020-12-20 21:32:21,893 DEBUG my_classes.py Атрибут "my_socket" установлен в None
+2020-12-20 21:32:21,893 DEBUG my_classes.py Атрибут "ip_adr" установлен в 127.0.0.1
+2020-12-20 21:32:21,894 DEBUG my_classes.py Атрибут "port" установлен в 7777
+2020-12-20 21:32:21,894 DEBUG my_classes.py Атрибут "max_package_len" установлен в 1024
+2020-12-20 21:32:21,894 DEBUG my_classes.py Атрибут "my_socket" установлен в None
+2020-12-20 21:32:21,894 INFO server.py Запущен новый сервер
+2020-12-20 21:32:21,894 DEBUG server.py Переданы параметры командной строки ['server.py', 'ip_adr', '127.0.0.1', 'port', '7777']
+2020-12-20 21:32:21,894 DEBUG server.py Сформированы ключи {'ip_adr': '127.0.0.1', 'port': '7777'}
+2020-12-20 21:32:21,894 DEBUG server.py Попытка создать экземпляр Сервера
+2020-12-20 21:36:42,362 DEBUG my_classes.py <function BaseClass.__init__ at 0x7f207f798b80>
+2020-12-20 21:37:51,776 DEBUG my_classes.py qqqq
+2020-12-20 21:38:40,566 DEBUG my_classes.py qqqq
+2020-12-20 21:39:03,569 DEBUG my_classes.py qqqq
+2020-12-20 21:39:42,920 DEBUG my_classes.py qqqq
+2020-12-20 21:47:28,373 INFO server.py Запущен новый сервер
+2020-12-20 21:47:28,373 DEBUG server.py Переданы параметры командной строки ['server.py', 'ip_adr', '127.0.0.1', 'port', '7777']
+2020-12-20 21:47:28,373 DEBUG server.py Сформированы ключи {'ip_adr': '127.0.0.1', 'port': '7777'}
+2020-12-20 21:47:28,374 DEBUG server.py Попытка создать экземпляр Сервера
+2020-12-20 21:48:46,454 INFO server.py Запущен новый сервер
+2020-12-20 21:48:46,454 DEBUG server.py Переданы параметры командной строки ['server.py', 'ip_adr', '127.0.0.1', 'port', '7777']
+2020-12-20 21:48:46,454 DEBUG server.py Сформированы ключи {'ip_adr': '127.0.0.1', 'port': '7777'}
+2020-12-20 21:48:46,454 DEBUG server.py Попытка создать экземпляр Сервера
+2020-12-20 21:48:46,454 INFO server.py Экземпляр Сервера создан
+2020-12-20 21:48:46,454 DEBUG server.py Биндим сервер
+2020-12-20 21:49:03,175 INFO server.py Запущен новый сервер
+2020-12-20 21:49:03,175 DEBUG server.py Переданы параметры командной строки ['server.py', 'ip_adr', '127.0.0.1', 'port', '7777']
+2020-12-20 21:49:03,175 DEBUG server.py Сформированы ключи {'ip_adr': '127.0.0.1', 'port': '7777'}
+2020-12-20 21:49:03,175 DEBUG server.py Попытка создать экземпляр Сервера
+2020-12-20 21:49:03,175 DEBUG my_classes.py Атрибут "ip_adr" установлен в 127.0.0.1
+2020-12-20 21:49:03,175 DEBUG my_classes.py Атрибут "port" установлен в 7777
+2020-12-20 21:49:03,175 DEBUG my_classes.py Атрибут "max_package_len" установлен в 1024
+2020-12-20 21:49:03,175 DEBUG my_classes.py Атрибут "my_socket" установлен в None
+2020-12-20 21:49:03,176 DEBUG my_classes.py Атрибут "max_connections" установлен в 5
+2020-12-20 21:49:03,176 INFO server.py Экземпляр Сервера создан
+2020-12-20 21:49:03,176 DEBUG server.py Биндим сервер
+2020-12-20 21:49:03,176 DEBUG my_classes.py Создание сокета
+2020-12-20 21:49:03,176 DEBUG my_classes.py Атрибут "my_socket" установлен в <socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('0.0.0.0', 0)>
+2020-12-20 21:49:03,176 DEBUG my_classes.py Бинд сервера
+2020-12-20 21:49:03,176 INFO server.py Запуск сервера
+2020-12-20 21:49:06,440 INFO my_classes.py {'action': 'presence', 'time': 1608490146.4397714, 'user': {'account_name': 'Guest'}}
+2020-12-20 21:49:06,495 INFO my_classes.py {'action': 'presence', 'time': 1608490146.494835, 'user': {'account_name': 'Guest'}}
+2020-12-20 21:49:06,554 INFO my_classes.py {'action': 'presence', 'time': 1608490146.5542498, 'user': {'account_name': 'Guest'}}
+2020-12-20 21:49:06,615 INFO my_classes.py {'action': 'presence', 'time': 1608490146.6151214, 'user': {'account_name': 'Guest'}}
+2020-12-20 21:49:06,680 INFO my_classes.py {'action': 'presence', 'time': 1608490146.679794, 'user': {'account_name': 'Guest'}}
+2020-12-20 21:50:59,463 INFO server.py Запущен новый сервер
+2020-12-20 21:50:59,463 DEBUG server.py Переданы параметры командной строки ['server.py', 'ip_adr', '127.0.0.1', 'port', '7777']
+2020-12-20 21:50:59,464 DEBUG server.py Сформированы ключи {'ip_adr': '127.0.0.1', 'port': '7777'}
+2020-12-20 21:50:59,464 DEBUG server.py Попытка создать экземпляр Сервера
+2020-12-20 21:50:59,464 DEBUG my_classes.py Атрибут "ip_adr" установлен в 127.0.0.1
+2020-12-20 21:50:59,464 DEBUG my_classes.py Атрибут "port" установлен в 7777
+2020-12-20 21:50:59,465 DEBUG my_classes.py Атрибут "max_package_len" установлен в 1024
+2020-12-20 21:50:59,465 DEBUG my_classes.py Атрибут "my_socket" установлен в None
+2020-12-20 21:50:59,465 DEBUG my_classes.py Атрибут "max_connections" установлен в 5
+2020-12-20 21:50:59,465 INFO server.py Экземпляр Сервера создан
+2020-12-20 21:50:59,466 DEBUG server.py Биндим сервер
+2020-12-20 21:50:59,466 DEBUG my_classes.py Создание сокета
+2020-12-20 21:50:59,467 DEBUG my_classes.py Атрибут "my_socket" установлен в <socket.socket fd=7, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('0.0.0.0', 0)>
+2020-12-20 21:50:59,467 DEBUG my_classes.py Бинд сервера
+2020-12-20 21:50:59,468 INFO server.py Запуск сервера
+2020-12-20 21:53:34,562 INFO server.py Запущен новый сервер
+2020-12-20 21:53:34,562 DEBUG server.py Переданы параметры командной строки ['server.py', 'ip_adr', '127.0.0.1', 'port', '7777']
+2020-12-20 21:53:34,562 DEBUG server.py Сформированы ключи {'ip_adr': '127.0.0.1', 'port': '7777'}
+2020-12-20 21:53:34,562 DEBUG server.py Попытка создать экземпляр Сервера
+2020-12-20 21:54:29,964 INFO server.py Запущен новый сервер
+2020-12-20 21:54:29,964 DEBUG server.py Переданы параметры командной строки ['server.py', 'ip_adr', '127.0.0.1', 'port', '7777']
+2020-12-20 21:54:29,964 DEBUG server.py Сформированы ключи {'ip_adr': '127.0.0.1', 'port': '7777'}
+2020-12-20 21:54:29,964 DEBUG server.py Попытка создать экземпляр Сервера
+2020-12-20 21:54:29,964 DEBUG my_classes.py Атрибут "ip_adr" установлен в 127.0.0.1
+2020-12-20 21:54:29,964 DEBUG my_classes.py Атрибут "port" установлен в 7777
+2020-12-20 21:54:29,964 DEBUG my_classes.py Атрибут "max_package_len" установлен в 1024
+2020-12-20 21:54:29,964 DEBUG my_classes.py Атрибут "my_socket" установлен в None
+2020-12-20 21:54:29,965 DEBUG my_classes.py Атрибут "max_connections" установлен в 5
+2020-12-20 21:54:29,965 INFO server.py Экземпляр Сервера создан
+2020-12-20 21:54:29,965 DEBUG server.py Биндим сервер
+2020-12-20 21:54:29,965 DEBUG my_classes.py Создание сокета
+2020-12-20 21:54:29,965 DEBUG my_classes.py Атрибут "my_socket" установлен в <socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('0.0.0.0', 0)>
+2020-12-20 21:54:29,965 DEBUG my_classes.py Бинд сервера
+2020-12-20 21:54:29,965 INFO server.py Запуск сервера
+2020-12-20 21:55:50,225 INFO server.py Запущен новый сервер
+2020-12-20 21:55:50,225 DEBUG server.py Переданы параметры командной строки ['server.py', 'ip_adr', '127.0.0.1', 'port', '7777']
+2020-12-20 21:55:50,225 DEBUG server.py Сформированы ключи {'ip_adr': '127.0.0.1', 'port': '7777'}
+2020-12-20 21:55:50,225 DEBUG server.py Попытка создать экземпляр Сервера
+2020-12-20 21:55:50,226 DEBUG my_classes.py Атрибут "ip_adr" установлен в 127.0.0.1
+2020-12-20 21:55:50,226 DEBUG my_classes.py Атрибут "port" установлен в 7777
+2020-12-20 21:55:50,226 DEBUG my_classes.py Атрибут "max_package_len" установлен в 1024
+2020-12-20 21:55:50,226 DEBUG my_classes.py Атрибут "my_socket" установлен в None
+2020-12-20 21:55:50,226 DEBUG my_classes.py Атрибут "max_connections" установлен в 5
+2020-12-20 21:55:50,226 INFO server.py Экземпляр Сервера создан
+2020-12-20 21:55:50,226 DEBUG server.py Биндим сервер
+2020-12-20 21:55:50,226 DEBUG my_classes.py Создание сокета
+2020-12-20 21:55:50,226 DEBUG my_classes.py Атрибут "my_socket" установлен в <socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('0.0.0.0', 0)>
+2020-12-20 21:55:50,226 DEBUG my_classes.py Бинд сервера
+2020-12-20 21:55:50,226 INFO server.py Запуск сервера
+2020-12-20 21:55:53,741 INFO my_classes.py {'action': 'presence', 'time': 1608490553.7408638, 'user': {'account_name': 'Guest'}}
+2020-12-20 21:55:53,805 INFO my_classes.py {'action': 'presence', 'time': 1608490553.805157, 'user': {'account_name': 'Guest'}}
+2020-12-20 21:55:53,869 INFO my_classes.py {'action': 'presence', 'time': 1608490553.8685482, 'user': {'account_name': 'Guest'}}
+2020-12-20 21:55:53,929 INFO my_classes.py {'action': 'presence', 'time': 1608490553.9295423, 'user': {'account_name': 'Guest'}}
+2020-12-20 21:55:54,000 INFO my_classes.py {'action': 'presence', 'time': 1608490554.0003436, 'user': {'account_name': 'Guest'}}
+2020-12-20 22:12:02,479 INFO server.py Запущен новый сервер
+2020-12-20 22:12:02,480 DEBUG server.py Переданы параметры командной строки ['server.py', 'ip_adr', '127.0.0.1', 'port', '7777']
+2020-12-20 22:12:02,480 DEBUG server.py Сформированы ключи {'ip_adr': '127.0.0.1', 'port': '7777'}
+2020-12-20 22:12:02,480 DEBUG server.py Попытка создать экземпляр Сервера
+2020-12-20 22:12:02,480 DEBUG my_classes.py Атрибут "ip_adr" установлен в 127.0.0.1
+2020-12-20 22:12:02,480 DEBUG my_classes.py Атрибут "port" установлен в 7777
+2020-12-20 22:12:02,480 DEBUG my_classes.py Атрибут "max_package_len" установлен в 1024
+2020-12-20 22:12:02,480 DEBUG my_classes.py Атрибут "my_socket" установлен в None
+2020-12-20 22:12:02,480 DEBUG my_classes.py Атрибут "max_connections" установлен в 5
+2020-12-20 22:12:02,480 INFO server.py Экземпляр Сервера создан
+2020-12-20 22:12:02,481 DEBUG server.py Биндим сервер
+2020-12-20 22:12:02,481 DEBUG my_classes.py Создание сокета
+2020-12-20 22:12:02,481 DEBUG my_classes.py Атрибут "my_socket" установлен в <socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('0.0.0.0', 0)>
+2020-12-20 22:12:02,481 DEBUG my_classes.py Бинд сервера
+2020-12-20 22:12:02,481 INFO server.py Запуск сервера
+2020-12-20 22:12:37,062 INFO my_classes.py Вызвана функция <function BaseClass.__init__ at 0x7f817c32ac10>
+2020-12-20 22:14:28,830 INFO my_classes.py Вызвана функция <function BaseClass.__init__ at 0x7feca8e1d700>
+2020-12-20 22:14:47,754 DEBUG my_classes.py Атрибут "ip_adr" установлен в 127.0.0.1
+2020-12-20 22:14:47,754 DEBUG my_classes.py Атрибут "port" установлен в 7777
+2020-12-20 22:14:47,754 DEBUG my_classes.py Атрибут "max_package_len" установлен в 1024
+2020-12-20 22:14:47,754 DEBUG my_classes.py Атрибут "my_socket" установлен в None
+2020-12-20 22:14:47,755 DEBUG my_classes.py Атрибут "max_connections" установлен в 5
+2020-12-20 22:15:01,152 DEBUG my_classes.py Атрибут "ip_adr" установлен в 127.0.0.1
+2020-12-20 22:15:22,912 INFO my_classes.py Вызвана функция <function BaseClass.__init__ at 0x7f27a5889b80>
+2020-12-20 22:18:58,101 INFO my_classes.py Вызвана функция <function BaseClass.__init__ at 0x7f81e5ac8c10>
+2020-12-20 22:20:12,357 INFO my_classes.py Вызвана функция <function BaseClass.__init__ at 0x7f153ba2a790>
+2020-12-20 22:20:58,216 INFO my_classes.py Вызвана функция <method-wrapper '__str__' of function object at 0x7f151c228790>
+2020-12-20 22:22:52,512 INFO my_classes.py Вызвана функция __init__ c параметрами (<__main__.Log object at 0x7f678528e370>,), {}
+2020-12-20 22:23:20,625 INFO my_classes.py Вызвана функция __init__ c параметрами (<__main__.Log object at 0x7fbcaac7c370>,), {}
+2020-12-20 22:23:51,691 INFO my_classes.py Вызвана функция __init__ c параметрами (<__main__.Log object at 0x7f95cc0e7370>,), {}
+2020-12-20 22:24:20,961 INFO my_classes.py Вызвана функция __init__ c параметрами (<__main__.Log object at 0x7f4796b42370>,), {}
+2020-12-20 22:26:35,970 INFO my_classes.py Вызвана функция __init__ c параметрами (<__main__.Log object at 0x7f17da130e50>,), {}
+2020-12-20 22:26:40,404 INFO my_classes.py Вызвана функция __init__ c параметрами (<__main__.Log object at 0x7fc71a31ee50>,), {}
+2020-12-20 22:28:16,319 DEBUG my_classes.py Атрибут "ip_adr" установлен в 127.0.0.1
+2020-12-20 22:28:16,319 DEBUG my_classes.py Атрибут "port" установлен в 7777
+2020-12-20 22:28:16,319 DEBUG my_classes.py Атрибут "max_package_len" установлен в 1024
+2020-12-20 22:28:16,319 DEBUG my_classes.py Атрибут "my_socket" установлен в None
+2020-12-20 22:28:16,319 DEBUG my_classes.py Атрибут "max_connections" установлен в 5
+2020-12-20 22:28:43,002 INFO server.py Запущен новый сервер
+2020-12-20 22:28:43,002 DEBUG server.py Переданы параметры командной строки ['server.py', 'ip_adr', '127.0.0.1', 'port', '7777']
+2020-12-20 22:28:43,002 DEBUG server.py Сформированы ключи {'ip_adr': '127.0.0.1', 'port': '7777'}
+2020-12-20 22:28:43,002 DEBUG server.py Попытка создать экземпляр Сервера
+2020-12-20 22:28:43,002 DEBUG my_classes.py Атрибут "ip_adr" установлен в 127.0.0.1
+2020-12-20 22:28:43,002 DEBUG my_classes.py Атрибут "port" установлен в 7777
+2020-12-20 22:28:43,002 DEBUG my_classes.py Атрибут "max_package_len" установлен в 1024
+2020-12-20 22:28:43,002 DEBUG my_classes.py Атрибут "my_socket" установлен в None
+2020-12-20 22:28:43,002 DEBUG my_classes.py Атрибут "max_connections" установлен в 5
+2020-12-20 22:28:43,002 INFO server.py Экземпляр Сервера создан
+2020-12-20 22:28:43,003 DEBUG server.py Биндим сервер
+2020-12-20 22:28:43,003 DEBUG my_classes.py Создание сокета
+2020-12-20 22:28:43,003 DEBUG my_classes.py Атрибут "my_socket" установлен в <socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('0.0.0.0', 0)>
+2020-12-20 22:28:43,003 DEBUG my_classes.py Бинд сервера
+2020-12-20 22:28:43,003 INFO server.py Запуск сервера
+2020-12-20 22:28:45,650 INFO my_classes.py {'action': 'presence', 'time': 1608492525.650012, 'user': {'account_name': 'Guest'}}
+2020-12-20 22:28:45,687 INFO my_classes.py {'action': 'presence', 'time': 1608492525.6875188, 'user': {'account_name': 'Guest'}}
+2020-12-20 22:28:45,722 INFO my_classes.py {'action': 'presence', 'time': 1608492525.7219086, 'user': {'account_name': 'Guest'}}
+2020-12-20 22:28:45,769 INFO my_classes.py {'action': 'presence', 'time': 1608492525.7689316, 'user': {'account_name': 'Guest'}}
+2020-12-20 22:28:45,808 INFO my_classes.py {'action': 'presence', 'time': 1608492525.8083599, 'user': {'account_name': 'Guest'}}
+2020-12-20 22:28:48,626 INFO my_classes.py {'action': 'presence', 'time': 1608492528.6258762, 'user': {'account_name': 'Guest'}}
+2020-12-20 22:28:48,679 INFO my_classes.py {'action': 'presence', 'time': 1608492528.679013, 'user': {'account_name': 'Guest'}}
+2020-12-20 22:28:48,721 INFO my_classes.py {'action': 'presence', 'time': 1608492528.7214036, 'user': {'account_name': 'Guest'}}
+2020-12-20 22:28:48,764 INFO my_classes.py {'action': 'presence', 'time': 1608492528.7644188, 'user': {'account_name': 'Guest'}}
+2020-12-20 22:28:48,811 INFO my_classes.py {'action': 'presence', 'time': 1608492528.8109581, 'user': {'account_name': 'Guest'}}
+2020-12-20 22:29:36,887 DEBUG my_classes.py Атрибут "ip_adr" установлен в 127.0.0.1
+2020-12-20 22:29:36,888 DEBUG my_classes.py Атрибут "port" установлен в 7777
+2020-12-20 22:29:36,888 DEBUG my_classes.py Атрибут "max_package_len" установлен в 1024
+2020-12-20 22:29:36,888 DEBUG my_classes.py Атрибут "my_socket" установлен в None
+2020-12-20 22:29:36,888 DEBUG my_classes.py Атрибут "max_connections" установлен в 5
+2020-12-20 22:32:21,269 DEBUG my_classes.py Атрибут "ip_adr" установлен в 127.0.0.1
+2020-12-20 22:32:21,270 DEBUG my_classes.py Атрибут "port" установлен в 7777
+2020-12-20 22:32:21,270 DEBUG my_classes.py Атрибут "max_package_len" установлен в 1024
+2020-12-20 22:32:21,270 DEBUG my_classes.py Атрибут "my_socket" установлен в None
+2020-12-20 22:32:21,270 DEBUG my_classes.py Атрибут "max_connections" установлен в 5
+2020-12-20 22:34:00,359 DEBUG my_classes.py Атрибут "ip_adr" установлен в 127.0.0.1
+2020-12-20 22:34:00,359 DEBUG my_classes.py Атрибут "port" установлен в 7777
+2020-12-20 22:34:00,359 DEBUG my_classes.py Атрибут "max_package_len" установлен в 1024
+2020-12-20 22:34:00,359 DEBUG my_classes.py Атрибут "my_socket" установлен в None
+2020-12-20 22:34:00,360 DEBUG my_classes.py Атрибут "max_connections" установлен в 5
+2020-12-20 22:34:32,674 DEBUG my_classes.py Атрибут "ip_adr" установлен в 127.0.0.1
+2020-12-20 22:34:32,675 DEBUG my_classes.py Атрибут "port" установлен в 7777
+2020-12-20 22:34:32,675 DEBUG my_classes.py Атрибут "max_package_len" установлен в 1024
+2020-12-20 22:34:32,675 DEBUG my_classes.py Атрибут "my_socket" установлен в None
+2020-12-20 22:34:32,675 DEBUG my_classes.py Атрибут "max_connections" установлен в 5
+2020-12-20 22:34:41,914 DEBUG my_classes.py Атрибут "ip_adr" установлен в 127.0.0.1
+2020-12-20 22:34:41,914 DEBUG my_classes.py Атрибут "port" установлен в 7777
+2020-12-20 22:34:41,914 DEBUG my_classes.py Атрибут "max_package_len" установлен в 1024
+2020-12-20 22:34:41,914 DEBUG my_classes.py Атрибут "my_socket" установлен в None
+2020-12-20 22:34:41,914 DEBUG my_classes.py Атрибут "max_connections" установлен в 5
+2020-12-20 22:35:21,261 DEBUG my_classes.py Атрибут "ip_adr" установлен в 127.0.0.1
+2020-12-20 22:35:21,261 DEBUG my_classes.py Атрибут "port" установлен в 7777
+2020-12-20 22:35:21,262 DEBUG my_classes.py Атрибут "max_package_len" установлен в 1024
+2020-12-20 22:35:21,262 DEBUG my_classes.py Атрибут "my_socket" установлен в None
+2020-12-20 22:35:21,262 DEBUG my_classes.py Атрибут "max_connections" установлен в 5

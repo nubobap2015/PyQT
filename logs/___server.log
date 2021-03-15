@@ -1,0 +1,339 @@
+2020-12-23 17:41:31,485 DEBUG my_classes.py Атрибут "ip_adr" установлен в 127.0.0.1
+2020-12-23 17:41:31,486 DEBUG my_classes.py Атрибут "port" установлен в 7777
+2020-12-23 17:41:31,486 DEBUG my_classes.py Атрибут "max_package_len" установлен в 1024
+2020-12-23 17:41:31,486 DEBUG my_classes.py Атрибут "my_socket" установлен в None
+2020-12-23 17:41:31,486 DEBUG my_classes.py Атрибут "max_connections" установлен в 5
+2020-12-23 17:42:16,337 INFO my_classes.py Вызвана функция __init__ c параметрами (<__main__.Log object at 0x7f18619ce550>,), {}
+2020-12-23 17:44:38,273 INFO my_classes.py Вызвана функция __init__ c параметрами (<__main__.Log object at 0x7f1e7bf76e20>,), {}
+2020-12-23 17:45:51,357 INFO my_classes.py Вызвана функция __init__ c параметрами (<__main__.Log object at 0x7f2e58270e20>,), {}
+2020-12-23 17:47:22,660 INFO my_classes.py Вызвана функция __init__ c параметрами (<__main__.Log object at 0x7f0d0b8d6df0>,), {}
+2020-12-23 17:48:14,380 INFO my_classes.py Вызвана функция __init__ c параметрами (<__main__.Log object at 0x7f45253e4f40>,), {}
+2020-12-23 17:54:50,750 DEBUG my_classes.py Атрибут "ip_adr" установлен в 127.0.0.1
+2020-12-23 17:54:50,750 DEBUG my_classes.py Атрибут "port" установлен в 7777
+2020-12-23 17:54:50,750 DEBUG my_classes.py Атрибут "max_package_len" установлен в 1024
+2020-12-23 17:54:50,750 DEBUG my_classes.py Атрибут "my_socket" установлен в None
+2020-12-23 17:54:50,750 DEBUG my_classes.py Атрибут "max_connections" установлен в 5
+2020-12-23 18:03:47,014 DEBUG my_classes.py Атрибут "ip_adr" установлен в 127.0.0.1
+2020-12-23 18:03:47,014 DEBUG my_classes.py Атрибут "port" установлен в 7777
+2020-12-23 18:03:47,014 DEBUG my_classes.py Атрибут "max_package_len" установлен в 1024
+2020-12-23 18:03:47,014 DEBUG my_classes.py Атрибут "my_socket" установлен в None
+2020-12-23 18:03:47,014 DEBUG my_classes.py Атрибут "max_connections" установлен в 5
+2020-12-23 18:04:08,906 DEBUG my_classes.py Атрибут "ip_adr" установлен в 127.0.0.1
+2020-12-23 18:04:08,907 DEBUG my_classes.py Атрибут "port" установлен в 7777
+2020-12-23 18:04:08,907 DEBUG my_classes.py Атрибут "max_package_len" установлен в 1024
+2020-12-23 18:04:08,907 DEBUG my_classes.py Атрибут "my_socket" установлен в None
+2020-12-23 18:04:08,907 DEBUG my_classes.py Атрибут "max_connections" установлен в 5
+2020-12-23 18:04:30,800 DEBUG my_classes.py Атрибут "ip_adr" установлен в 127.0.0.1
+2020-12-23 18:04:30,801 DEBUG my_classes.py Атрибут "port" установлен в 7777
+2020-12-23 18:04:30,801 DEBUG my_classes.py Атрибут "max_package_len" установлен в 1024
+2020-12-23 18:04:30,801 DEBUG my_classes.py Атрибут "my_socket" установлен в None
+2020-12-23 18:04:30,801 DEBUG my_classes.py Атрибут "max_connections" установлен в 5
+2020-12-23 18:04:44,089 DEBUG my_classes.py Атрибут "ip_adr" установлен в 127.0.0.1
+2020-12-23 18:04:44,090 DEBUG my_classes.py Атрибут "port" установлен в 7777
+2020-12-23 18:04:44,090 DEBUG my_classes.py Атрибут "max_package_len" установлен в 1024
+2020-12-23 18:04:44,090 DEBUG my_classes.py Атрибут "my_socket" установлен в None
+2020-12-23 18:04:44,090 DEBUG my_classes.py Атрибут "max_connections" установлен в 5
+2020-12-23 18:05:19,656 DEBUG my_classes.py Атрибут "ip_adr" установлен в 127.0.0.1
+2020-12-23 18:05:19,657 DEBUG my_classes.py Атрибут "port" установлен в 7777
+2020-12-23 18:05:19,657 DEBUG my_classes.py Атрибут "max_package_len" установлен в 1024
+2020-12-23 18:05:19,657 DEBUG my_classes.py Атрибут "my_socket" установлен в None
+2020-12-23 18:05:19,657 DEBUG my_classes.py Атрибут "max_connections" установлен в 5
+2020-12-23 18:06:19,764 DEBUG my_classes.py Атрибут "ip_adr" установлен в 127.0.0.1
+2020-12-23 18:06:19,764 DEBUG my_classes.py Атрибут "port" установлен в 7777
+2020-12-23 18:06:19,764 DEBUG my_classes.py Атрибут "max_package_len" установлен в 1024
+2020-12-23 18:06:19,764 DEBUG my_classes.py Атрибут "my_socket" установлен в None
+2020-12-23 18:06:19,765 DEBUG my_classes.py Атрибут "max_connections" установлен в 5
+2020-12-23 18:06:38,000 DEBUG my_classes.py Атрибут "ip_adr" установлен в 127.0.0.1
+2020-12-23 18:06:38,001 DEBUG my_classes.py Атрибут "port" установлен в 7777
+2020-12-23 18:06:38,001 DEBUG my_classes.py Атрибут "max_package_len" установлен в 1024
+2020-12-23 18:06:38,001 DEBUG my_classes.py Атрибут "my_socket" установлен в None
+2020-12-23 18:06:38,001 DEBUG my_classes.py Атрибут "max_connections" установлен в 5
+2020-12-23 18:06:49,700 DEBUG my_classes.py Атрибут "ip_adr" установлен в 127.0.0.1
+2020-12-23 18:06:49,700 DEBUG my_classes.py Атрибут "port" установлен в 7777
+2020-12-23 18:06:49,700 DEBUG my_classes.py Атрибут "max_package_len" установлен в 1024
+2020-12-23 18:06:49,701 DEBUG my_classes.py Атрибут "my_socket" установлен в None
+2020-12-23 18:06:49,701 DEBUG my_classes.py Атрибут "max_connections" установлен в 5
+2020-12-23 18:07:26,178 DEBUG my_classes.py Атрибут "ip_adr" установлен в 127.0.0.1
+2020-12-23 18:07:26,178 DEBUG my_classes.py Атрибут "port" установлен в 7777
+2020-12-23 18:07:26,178 DEBUG my_classes.py Атрибут "max_package_len" установлен в 1024
+2020-12-23 18:07:26,178 DEBUG my_classes.py Атрибут "my_socket" установлен в None
+2020-12-23 18:07:26,178 DEBUG my_classes.py Атрибут "max_connections" установлен в 5
+2020-12-23 18:07:38,003 DEBUG my_classes.py Атрибут "ip_adr" установлен в 127.0.0.1
+2020-12-23 18:07:38,003 DEBUG my_classes.py Атрибут "port" установлен в 7777
+2020-12-23 18:07:38,003 DEBUG my_classes.py Атрибут "max_package_len" установлен в 1024
+2020-12-23 18:07:38,004 DEBUG my_classes.py Атрибут "my_socket" установлен в None
+2020-12-23 18:07:38,004 DEBUG my_classes.py Атрибут "max_connections" установлен в 5
+2020-12-23 18:07:40,360 DEBUG my_classes.py Атрибут "ip_adr" установлен в 127.0.0.1
+2020-12-23 18:07:40,361 DEBUG my_classes.py Атрибут "port" установлен в 7777
+2020-12-23 18:07:40,361 DEBUG my_classes.py Атрибут "max_package_len" установлен в 1024
+2020-12-23 18:07:40,361 DEBUG my_classes.py Атрибут "my_socket" установлен в None
+2020-12-23 18:07:40,361 DEBUG my_classes.py Атрибут "max_connections" установлен в 5
+2020-12-23 18:08:02,311 DEBUG my_classes.py Атрибут "ip_adr" установлен в 127.0.0.1
+2020-12-23 18:08:02,311 DEBUG my_classes.py Атрибут "port" установлен в 7777
+2020-12-23 18:08:02,311 DEBUG my_classes.py Атрибут "max_package_len" установлен в 1024
+2020-12-23 18:08:02,311 DEBUG my_classes.py Атрибут "my_socket" установлен в None
+2020-12-23 18:08:02,311 DEBUG my_classes.py Атрибут "max_connections" установлен в 5
+2020-12-23 18:08:18,009 DEBUG my_classes.py Атрибут "ip_adr" установлен в 127.0.0.1
+2020-12-23 18:08:18,009 DEBUG my_classes.py Атрибут "port" установлен в 7777
+2020-12-23 18:08:18,009 DEBUG my_classes.py Атрибут "max_package_len" установлен в 1024
+2020-12-23 18:08:18,009 DEBUG my_classes.py Атрибут "my_socket" установлен в None
+2020-12-23 18:08:18,009 DEBUG my_classes.py Атрибут "max_connections" установлен в 5
+2020-12-23 18:11:21,273 DEBUG my_classes.py Атрибут "ip_adr" установлен в 127.0.0.1
+2020-12-23 18:11:21,274 DEBUG my_classes.py Атрибут "port" установлен в 7777
+2020-12-23 18:11:21,274 DEBUG my_classes.py Атрибут "max_package_len" установлен в 1024
+2020-12-23 18:11:21,274 DEBUG my_classes.py Атрибут "my_socket" установлен в None
+2020-12-23 18:11:21,274 DEBUG my_classes.py Атрибут "max_connections" установлен в 5
+2020-12-23 18:11:33,266 DEBUG my_classes.py Атрибут "ip_adr" установлен в 127.0.0.1
+2020-12-23 18:11:33,266 DEBUG my_classes.py Атрибут "port" установлен в 7777
+2020-12-23 18:11:33,266 DEBUG my_classes.py Атрибут "max_package_len" установлен в 1024
+2020-12-23 18:11:33,266 DEBUG my_classes.py Атрибут "my_socket" установлен в None
+2020-12-23 18:11:33,267 DEBUG my_classes.py Атрибут "max_connections" установлен в 5
+2020-12-23 18:12:06,065 DEBUG my_classes.py Атрибут "ip_adr" установлен в 127.0.0.1
+2020-12-23 18:12:06,065 DEBUG my_classes.py Атрибут "port" установлен в 7777
+2020-12-23 18:12:06,065 DEBUG my_classes.py Атрибут "max_package_len" установлен в 1024
+2020-12-23 18:12:06,065 DEBUG my_classes.py Атрибут "my_socket" установлен в None
+2020-12-23 18:12:06,065 DEBUG my_classes.py Атрибут "max_connections" установлен в 5
+2020-12-23 18:12:56,155 DEBUG my_classes.py Атрибут "ip_adr" установлен в 127.0.0.1
+2020-12-23 18:12:56,155 DEBUG my_classes.py Атрибут "port" установлен в 7777
+2020-12-23 18:12:56,155 DEBUG my_classes.py Атрибут "max_package_len" установлен в 1024
+2020-12-23 18:12:56,156 DEBUG my_classes.py Атрибут "my_socket" установлен в None
+2020-12-23 18:12:56,156 DEBUG my_classes.py Атрибут "max_connections" установлен в 5
+2020-12-23 18:13:15,767 DEBUG my_classes.py Атрибут "ip_adr" установлен в 127.0.0.1
+2020-12-23 18:13:15,767 DEBUG my_classes.py Атрибут "port" установлен в 7777
+2020-12-23 18:13:15,767 DEBUG my_classes.py Атрибут "max_package_len" установлен в 1024
+2020-12-23 18:13:15,767 DEBUG my_classes.py Атрибут "my_socket" установлен в None
+2020-12-23 18:13:15,767 DEBUG my_classes.py Атрибут "max_connections" установлен в 5
+2020-12-23 18:13:27,427 DEBUG my_classes.py Атрибут "ip_adr" установлен в 127.0.0.1
+2020-12-23 18:13:27,427 DEBUG my_classes.py Атрибут "port" установлен в 7777
+2020-12-23 18:13:27,427 DEBUG my_classes.py Атрибут "max_package_len" установлен в 1024
+2020-12-23 18:13:27,427 DEBUG my_classes.py Атрибут "my_socket" установлен в None
+2020-12-23 18:13:27,427 DEBUG my_classes.py Атрибут "max_connections" установлен в 5
+2020-12-23 18:14:40,855 DEBUG my_classes.py Атрибут "ip_adr" установлен в 127.0.0.1
+2020-12-23 18:14:40,855 DEBUG my_classes.py Атрибут "port" установлен в 7777
+2020-12-23 18:14:40,856 DEBUG my_classes.py Атрибут "max_package_len" установлен в 1024
+2020-12-23 18:14:40,856 DEBUG my_classes.py Атрибут "my_socket" установлен в None
+2020-12-23 18:14:40,856 DEBUG my_classes.py Атрибут "max_connections" установлен в 5
+2020-12-23 18:14:46,176 DEBUG my_classes.py Атрибут "ip_adr" установлен в 127.0.0.1
+2020-12-23 18:14:46,176 DEBUG my_classes.py Атрибут "port" установлен в 7777
+2020-12-23 18:14:46,176 DEBUG my_classes.py Атрибут "max_package_len" установлен в 1024
+2020-12-23 18:14:46,176 DEBUG my_classes.py Атрибут "my_socket" установлен в None
+2020-12-23 18:14:46,176 DEBUG my_classes.py Атрибут "max_connections" установлен в 5
+2020-12-23 18:14:54,945 DEBUG my_classes.py Атрибут "ip_adr" установлен в 127.0.0.1
+2020-12-23 18:14:54,945 DEBUG my_classes.py Атрибут "port" установлен в 7777
+2020-12-23 18:14:54,945 DEBUG my_classes.py Атрибут "max_package_len" установлен в 1024
+2020-12-23 18:14:54,945 DEBUG my_classes.py Атрибут "my_socket" установлен в None
+2020-12-23 18:14:54,946 DEBUG my_classes.py Атрибут "max_connections" установлен в 5
+2020-12-23 18:15:49,286 INFO my_classes.py Вызвана функция __init__ c параметрами (<__main__.Server object at 0x7f89ad2324c0>,), {}
+2020-12-23 18:15:49,286 DEBUG my_classes.py Атрибут "ip_adr" установлен в 127.0.0.1
+2020-12-23 18:15:49,287 DEBUG my_classes.py Атрибут "port" установлен в 7777
+2020-12-23 18:15:49,287 DEBUG my_classes.py Атрибут "max_package_len" установлен в 1024
+2020-12-23 18:15:49,287 DEBUG my_classes.py Атрибут "my_socket" установлен в None
+2020-12-23 18:15:49,287 DEBUG my_classes.py Атрибут "max_connections" установлен в 5
+2020-12-23 18:17:49,357 INFO my_classes.py Вызвана функция __init__ c параметрами (<__main__.Server object at 0x7fb4ff6f04c0>, {'ip_adr': '127.0.0.1'}), {}
+2020-12-23 18:17:49,357 DEBUG my_classes.py Атрибут "ip_adr" установлен в 127.0.0.1
+2020-12-23 18:17:49,357 DEBUG my_classes.py Атрибут "port" установлен в 7777
+2020-12-23 18:17:49,357 DEBUG my_classes.py Атрибут "max_package_len" установлен в 1024
+2020-12-23 18:17:49,357 DEBUG my_classes.py Атрибут "my_socket" установлен в None
+2020-12-23 18:17:49,357 DEBUG my_classes.py Атрибут "max_connections" установлен в 5
+2020-12-23 18:18:20,048 INFO my_classes.py Вызвана функция __init__ c параметрами (<__main__.Server object at 0x7fc6b3f094c0>, {'ip_adr': '127.0.0.1'}), {}
+2020-12-23 18:18:20,048 DEBUG my_classes.py Атрибут "ip_adr" установлен в 127.0.0.1
+2020-12-23 18:18:20,049 DEBUG my_classes.py Атрибут "port" установлен в 7777
+2020-12-23 18:18:20,049 DEBUG my_classes.py Атрибут "max_package_len" установлен в 1024
+2020-12-23 18:18:20,049 DEBUG my_classes.py Атрибут "my_socket" установлен в None
+2020-12-23 18:18:20,049 DEBUG my_classes.py Атрибут "max_connections" установлен в 5
+2020-12-23 18:23:45,646 DEBUG my_classes.py Атрибут "ip_adr" установлен в 127.0.0.1
+2020-12-23 18:23:45,646 DEBUG my_classes.py Атрибут "port" установлен в 7777
+2020-12-23 18:23:45,646 DEBUG my_classes.py Атрибут "max_package_len" установлен в 1024
+2020-12-23 18:23:45,646 DEBUG my_classes.py Атрибут "my_socket" установлен в None
+2020-12-23 18:23:45,646 DEBUG my_classes.py Атрибут "max_connections" установлен в 5
+2020-12-23 18:24:13,612 DEBUG my_classes.py Атрибут "ip_adr" установлен в 127.0.0.1
+2020-12-23 18:24:13,613 DEBUG my_classes.py Атрибут "port" установлен в 7777
+2020-12-23 18:24:13,613 DEBUG my_classes.py Атрибут "max_package_len" установлен в 1024
+2020-12-23 18:24:13,613 DEBUG my_classes.py Атрибут "my_socket" установлен в None
+2020-12-23 18:24:13,613 DEBUG my_classes.py Атрибут "max_connections" установлен в 5
+2020-12-23 18:24:30,145 DEBUG my_classes.py Атрибут "ip_adr" установлен в 127.0.0.1
+2020-12-23 18:24:30,145 DEBUG my_classes.py Атрибут "port" установлен в 7777
+2020-12-23 18:24:30,145 DEBUG my_classes.py Атрибут "max_package_len" установлен в 1024
+2020-12-23 18:24:30,145 DEBUG my_classes.py Атрибут "my_socket" установлен в None
+2020-12-23 18:24:30,145 DEBUG my_classes.py Атрибут "max_connections" установлен в 5
+2020-12-23 18:24:38,715 DEBUG my_classes.py Атрибут "ip_adr" установлен в 127.0.0.1
+2020-12-23 18:24:38,716 DEBUG my_classes.py Атрибут "port" установлен в 7777
+2020-12-23 18:24:38,716 DEBUG my_classes.py Атрибут "max_package_len" установлен в 1024
+2020-12-23 18:24:38,716 DEBUG my_classes.py Атрибут "my_socket" установлен в None
+2020-12-23 18:24:38,716 DEBUG my_classes.py Атрибут "max_connections" установлен в 5
+2020-12-23 18:25:15,558 INFO my_classes.py Вызвана функция __init__ c параметрами (<__main__.Server object at 0x7f351acf2970>, {'ip_adr': '127.0.0.1'}), {}
+2020-12-23 18:25:15,558 INFO my_classes.py Вызвана функция __init__ c параметрами (<__main__.Server object at 0x7f351acf2970>, {'ip_adr': '127.0.0.1'}), {}
+2020-12-23 18:25:15,559 INFO my_classes.py Вызвана функция __setattr__ c параметрами (<__main__.Server object at 0x7f351acf2970>, 'ip_adr', '127.0.0.1'), {}
+2020-12-23 18:25:15,559 DEBUG my_classes.py Атрибут "ip_adr" установлен в 127.0.0.1
+2020-12-23 18:25:15,559 INFO my_classes.py Вызвана функция __setattr__ c параметрами (<__main__.Server object at 0x7f351acf2970>, 'port', 7777), {}
+2020-12-23 18:25:15,559 DEBUG my_classes.py Атрибут "port" установлен в 7777
+2020-12-23 18:25:15,559 INFO my_classes.py Вызвана функция __setattr__ c параметрами (<__main__.Server object at 0x7f351acf2970>, 'max_package_len', 1024), {}
+2020-12-23 18:25:15,559 DEBUG my_classes.py Атрибут "max_package_len" установлен в 1024
+2020-12-23 18:25:15,559 INFO my_classes.py Вызвана функция __setattr__ c параметрами (<__main__.Server object at 0x7f351acf2970>, 'my_socket', None), {}
+2020-12-23 18:25:15,559 DEBUG my_classes.py Атрибут "my_socket" установлен в None
+2020-12-23 18:25:15,559 INFO my_classes.py Вызвана функция __setattr__ c параметрами (<__main__.Server object at 0x7f351acf2970>, 'max_connections', 5), {}
+2020-12-23 18:25:15,559 DEBUG my_classes.py Атрибут "max_connections" установлен в 5
+2020-12-23 18:25:58,733 INFO my_classes.py Вызвана функция __init__ c параметрами ({'ip_adr': '127.0.0.1'},), {}
+2020-12-23 18:25:58,733 INFO my_classes.py Вызвана функция __init__ c параметрами ({'ip_adr': '127.0.0.1'},), {}
+2020-12-23 18:25:58,733 INFO my_classes.py Вызвана функция __setattr__ c параметрами ('ip_adr', '127.0.0.1'), {}
+2020-12-23 18:25:58,733 DEBUG my_classes.py Атрибут "ip_adr" установлен в 127.0.0.1
+2020-12-23 18:25:58,733 INFO my_classes.py Вызвана функция __setattr__ c параметрами ('port', 7777), {}
+2020-12-23 18:25:58,733 DEBUG my_classes.py Атрибут "port" установлен в 7777
+2020-12-23 18:25:58,734 INFO my_classes.py Вызвана функция __setattr__ c параметрами ('max_package_len', 1024), {}
+2020-12-23 18:25:58,734 DEBUG my_classes.py Атрибут "max_package_len" установлен в 1024
+2020-12-23 18:25:58,734 INFO my_classes.py Вызвана функция __setattr__ c параметрами ('my_socket', None), {}
+2020-12-23 18:25:58,734 DEBUG my_classes.py Атрибут "my_socket" установлен в None
+2020-12-23 18:25:58,734 INFO my_classes.py Вызвана функция __setattr__ c параметрами ('max_connections', 5), {}
+2020-12-23 18:25:58,734 DEBUG my_classes.py Атрибут "max_connections" установлен в 5
+2020-12-23 18:29:10,307 INFO my_classes.py Вызвана функция __init__ из модуля __main__ c параметрами ({'ip_adr': '127.0.0.1'},), {}
+2020-12-23 18:29:10,307 INFO my_classes.py Вызвана функция __init__ из модуля __main__ c параметрами ({'ip_adr': '127.0.0.1'},), {}
+2020-12-23 18:29:10,307 INFO my_classes.py Вызвана функция __setattr__ из модуля __main__ c параметрами ('ip_adr', '127.0.0.1'), {}
+2020-12-23 18:29:10,307 DEBUG my_classes.py Атрибут "ip_adr" установлен в 127.0.0.1
+2020-12-23 18:29:10,307 INFO my_classes.py Вызвана функция __setattr__ из модуля __main__ c параметрами ('port', 7777), {}
+2020-12-23 18:29:10,307 DEBUG my_classes.py Атрибут "port" установлен в 7777
+2020-12-23 18:29:10,307 INFO my_classes.py Вызвана функция __setattr__ из модуля __main__ c параметрами ('max_package_len', 1024), {}
+2020-12-23 18:29:10,308 DEBUG my_classes.py Атрибут "max_package_len" установлен в 1024
+2020-12-23 18:29:10,308 INFO my_classes.py Вызвана функция __setattr__ из модуля __main__ c параметрами ('my_socket', None), {}
+2020-12-23 18:29:10,308 DEBUG my_classes.py Атрибут "my_socket" установлен в None
+2020-12-23 18:29:10,308 INFO my_classes.py Вызвана функция __setattr__ из модуля __main__ c параметрами ('max_connections', 5), {}
+2020-12-23 18:29:10,308 DEBUG my_classes.py Атрибут "max_connections" установлен в 5
+2020-12-23 18:30:20,754 INFO my_classes.py Вызвана функция __init__ из модуля __main__ c параметрами ({'ip_adr': '127.0.0.1'},), {}
+2020-12-23 18:30:20,754 INFO my_classes.py Вызвана функция __init__ из модуля __main__ c параметрами ({'ip_adr': '127.0.0.1'},), {}
+2020-12-23 18:30:20,754 INFO my_classes.py Вызвана функция __setattr__ из модуля __main__ c параметрами ('ip_adr', '127.0.0.1'), {}
+2020-12-23 18:30:20,754 DEBUG my_classes.py Атрибут "ip_adr" установлен в 127.0.0.1
+2020-12-23 18:30:20,754 INFO my_classes.py Вызвана функция __setattr__ из модуля __main__ c параметрами ('port', 7777), {}
+2020-12-23 18:30:20,754 DEBUG my_classes.py Атрибут "port" установлен в 7777
+2020-12-23 18:30:20,755 INFO my_classes.py Вызвана функция __setattr__ из модуля __main__ c параметрами ('max_package_len', 1024), {}
+2020-12-23 18:30:20,755 DEBUG my_classes.py Атрибут "max_package_len" установлен в 1024
+2020-12-23 18:30:20,755 INFO my_classes.py Вызвана функция __setattr__ из модуля __main__ c параметрами ('my_socket', None), {}
+2020-12-23 18:30:20,755 DEBUG my_classes.py Атрибут "my_socket" установлен в None
+2020-12-23 18:30:20,755 INFO my_classes.py Вызвана функция __setattr__ из модуля __main__ c параметрами ('max_connections', 5), {}
+2020-12-23 18:30:20,755 DEBUG my_classes.py Атрибут "max_connections" установлен в 5
+2020-12-23 18:30:42,402 INFO my_classes.py Вызвана функция __init__ из модуля __main__ c параметрами ({'ip_adr': '127.0.0.1'},), {}
+2020-12-23 18:30:42,403 INFO my_classes.py Вызвана функция __init__ из модуля __main__ c параметрами ({'ip_adr': '127.0.0.1'},), {}
+2020-12-23 18:30:42,403 INFO my_classes.py Вызвана функция __setattr__ из модуля __main__ c параметрами ('ip_adr', '127.0.0.1'), {}
+2020-12-23 18:30:42,403 DEBUG my_classes.py Атрибут "ip_adr" установлен в 127.0.0.1
+2020-12-23 18:30:42,403 INFO my_classes.py Вызвана функция __setattr__ из модуля __main__ c параметрами ('port', 7777), {}
+2020-12-23 18:30:42,403 DEBUG my_classes.py Атрибут "port" установлен в 7777
+2020-12-23 18:30:42,403 INFO my_classes.py Вызвана функция __setattr__ из модуля __main__ c параметрами ('max_package_len', 1024), {}
+2020-12-23 18:30:42,403 DEBUG my_classes.py Атрибут "max_package_len" установлен в 1024
+2020-12-23 18:30:42,403 INFO my_classes.py Вызвана функция __setattr__ из модуля __main__ c параметрами ('my_socket', None), {}
+2020-12-23 18:30:42,403 DEBUG my_classes.py Атрибут "my_socket" установлен в None
+2020-12-23 18:30:42,403 INFO my_classes.py Вызвана функция __setattr__ из модуля __main__ c параметрами ('max_connections', 5), {}
+2020-12-23 18:30:42,403 DEBUG my_classes.py Атрибут "max_connections" установлен в 5
+2020-12-23 18:31:13,426 INFO my_classes.py Вызвана функция __init__ из модуля __main__ c параметрами ({'ip_adr': '127.0.0.1'},), {}
+2020-12-23 18:31:13,426 INFO my_classes.py Вызвана функция __init__ из модуля __main__ c параметрами ({'ip_adr': '127.0.0.1'},), {}
+2020-12-23 18:31:13,426 INFO my_classes.py Вызвана функция __setattr__ из модуля __main__ c параметрами ('ip_adr', '127.0.0.1'), {}
+2020-12-23 18:31:13,426 DEBUG my_classes.py Атрибут "ip_adr" установлен в 127.0.0.1
+2020-12-23 18:31:13,426 INFO my_classes.py Вызвана функция __setattr__ из модуля __main__ c параметрами ('port', 7777), {}
+2020-12-23 18:31:13,427 DEBUG my_classes.py Атрибут "port" установлен в 7777
+2020-12-23 18:31:13,427 INFO my_classes.py Вызвана функция __setattr__ из модуля __main__ c параметрами ('max_package_len', 1024), {}
+2020-12-23 18:31:13,427 DEBUG my_classes.py Атрибут "max_package_len" установлен в 1024
+2020-12-23 18:31:13,427 INFO my_classes.py Вызвана функция __setattr__ из модуля __main__ c параметрами ('my_socket', None), {}
+2020-12-23 18:31:13,427 DEBUG my_classes.py Атрибут "my_socket" установлен в None
+2020-12-23 18:31:13,427 INFO my_classes.py Вызвана функция __setattr__ из модуля __main__ c параметрами ('max_connections', 5), {}
+2020-12-23 18:31:13,427 DEBUG my_classes.py Атрибут "max_connections" установлен в 5
+2020-12-23 18:31:32,323 INFO my_classes.py Вызвана функция __init__ из модуля __main__ c параметрами ({'ip_adr': '127.0.0.1'},), {}
+2020-12-23 18:31:32,324 INFO my_classes.py Вызвана функция __init__ из модуля __main__ c параметрами ({'ip_adr': '127.0.0.1'},), {}
+2020-12-23 18:31:32,324 INFO my_classes.py Вызвана функция __setattr__ из модуля __main__ c параметрами ('ip_adr', '127.0.0.1'), {}
+2020-12-23 18:31:32,324 DEBUG my_classes.py Атрибут "ip_adr" установлен в 127.0.0.1
+2020-12-23 18:31:32,324 INFO my_classes.py Вызвана функция __setattr__ из модуля __main__ c параметрами ('port', 7777), {}
+2020-12-23 18:31:32,324 DEBUG my_classes.py Атрибут "port" установлен в 7777
+2020-12-23 18:31:32,324 INFO my_classes.py Вызвана функция __setattr__ из модуля __main__ c параметрами ('max_package_len', 1024), {}
+2020-12-23 18:31:32,324 DEBUG my_classes.py Атрибут "max_package_len" установлен в 1024
+2020-12-23 18:31:32,324 INFO my_classes.py Вызвана функция __setattr__ из модуля __main__ c параметрами ('my_socket', None), {}
+2020-12-23 18:31:32,324 DEBUG my_classes.py Атрибут "my_socket" установлен в None
+2020-12-23 18:31:32,324 INFO my_classes.py Вызвана функция __setattr__ из модуля __main__ c параметрами ('max_connections', 5), {}
+2020-12-23 18:31:32,324 DEBUG my_classes.py Атрибут "max_connections" установлен в 5
+2020-12-23 18:31:45,950 INFO my_classes.py Вызвана функция __init__ из модуля __main__ c параметрами ({'ip_adr': '127.0.0.1'},), {}
+2020-12-23 18:31:45,950 INFO my_classes.py Вызвана функция __init__ из модуля __main__ c параметрами ({'ip_adr': '127.0.0.1'},), {}
+2020-12-23 18:31:45,950 INFO my_classes.py Вызвана функция __setattr__ из модуля __main__ c параметрами ('ip_adr', '127.0.0.1'), {}
+2020-12-23 18:31:45,950 DEBUG my_classes.py Атрибут "ip_adr" установлен в 127.0.0.1
+2020-12-23 18:31:45,950 INFO my_classes.py Вызвана функция __setattr__ из модуля __main__ c параметрами ('port', 7777), {}
+2020-12-23 18:31:45,950 DEBUG my_classes.py Атрибут "port" установлен в 7777
+2020-12-23 18:31:45,950 INFO my_classes.py Вызвана функция __setattr__ из модуля __main__ c параметрами ('max_package_len', 1024), {}
+2020-12-23 18:31:45,950 DEBUG my_classes.py Атрибут "max_package_len" установлен в 1024
+2020-12-23 18:31:45,950 INFO my_classes.py Вызвана функция __setattr__ из модуля __main__ c параметрами ('my_socket', None), {}
+2020-12-23 18:31:45,951 DEBUG my_classes.py Атрибут "my_socket" установлен в None
+2020-12-23 18:31:45,951 INFO my_classes.py Вызвана функция __setattr__ из модуля __main__ c параметрами ('max_connections', 5), {}
+2020-12-23 18:31:45,951 DEBUG my_classes.py Атрибут "max_connections" установлен в 5
+2020-12-23 18:31:59,231 INFO server.py Запущен новый сервер
+2020-12-23 18:31:59,231 DEBUG server.py Переданы параметры командной строки ['server.py', 'ip_adr', '127.0.0.1', 'port', '7777']
+2020-12-23 18:31:59,231 DEBUG server.py Сформированы ключи {'ip_adr': '127.0.0.1', 'port': '7777'}
+2020-12-23 18:31:59,231 DEBUG server.py Попытка создать экземпляр Сервера
+2020-12-23 18:31:59,231 INFO my_classes.py Вызвана функция __init__ из модуля common.my_classes c параметрами (), {'ip_adr': '127.0.0.1', 'port': '7777'}
+2020-12-23 18:31:59,231 INFO my_classes.py Вызвана функция __init__ из модуля common.my_classes c параметрами (), {'ip_adr': '127.0.0.1', 'port': '7777'}
+2020-12-23 18:31:59,231 INFO my_classes.py Вызвана функция __setattr__ из модуля common.my_classes c параметрами ('ip_adr', '127.0.0.1'), {}
+2020-12-23 18:31:59,231 DEBUG my_classes.py Атрибут "ip_adr" установлен в 127.0.0.1
+2020-12-23 18:31:59,232 INFO my_classes.py Вызвана функция __setattr__ из модуля common.my_classes c параметрами ('port', 7777), {}
+2020-12-23 18:31:59,232 DEBUG my_classes.py Атрибут "port" установлен в 7777
+2020-12-23 18:31:59,232 INFO my_classes.py Вызвана функция __setattr__ из модуля common.my_classes c параметрами ('max_package_len', 1024), {}
+2020-12-23 18:31:59,232 DEBUG my_classes.py Атрибут "max_package_len" установлен в 1024
+2020-12-23 18:31:59,232 INFO my_classes.py Вызвана функция __setattr__ из модуля common.my_classes c параметрами ('my_socket', None), {}
+2020-12-23 18:31:59,232 DEBUG my_classes.py Атрибут "my_socket" установлен в None
+2020-12-23 18:31:59,232 INFO my_classes.py Вызвана функция __setattr__ из модуля common.my_classes c параметрами ('max_connections', 5), {}
+2020-12-23 18:31:59,232 DEBUG my_classes.py Атрибут "max_connections" установлен в 5
+2020-12-23 18:31:59,232 INFO server.py Экземпляр Сервера создан
+2020-12-23 18:31:59,232 DEBUG server.py Биндим сервер
+2020-12-23 18:31:59,232 INFO my_classes.py Вызвана функция bind из модуля common.my_classes c параметрами (), {}
+2020-12-23 18:31:59,232 DEBUG my_classes.py Создание сокета
+2020-12-23 18:31:59,232 INFO my_classes.py Вызвана функция __setattr__ из модуля common.my_classes c параметрами ('my_socket', <socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('0.0.0.0', 0)>), {}
+2020-12-23 18:31:59,232 DEBUG my_classes.py Атрибут "my_socket" установлен в <socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('0.0.0.0', 0)>
+2020-12-23 18:31:59,232 DEBUG my_classes.py Бинд сервера
+2020-12-23 18:31:59,232 INFO server.py Запуск сервера
+2020-12-23 18:31:59,232 INFO my_classes.py Вызвана функция start_server из модуля common.my_classes c параметрами (), {}
+2020-12-23 18:32:20,690 INFO my_classes.py Вызвана функция get_message из модуля common.my_classes c параметрами (<socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 57938)>,), {}
+2020-12-23 18:32:20,692 ERROR my_classes.py Принято некорретное сообщение от клиента.
+2020-12-23 18:32:20,692 DEBUG my_classes.py Закрытие соединения
+2020-12-23 18:32:20,730 INFO my_classes.py Вызвана функция get_message из модуля common.my_classes c параметрами (<socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 57940)>,), {}
+2020-12-23 18:32:20,732 ERROR my_classes.py Принято некорретное сообщение от клиента.
+2020-12-23 18:32:20,732 DEBUG my_classes.py Закрытие соединения
+2020-12-23 18:32:20,775 INFO my_classes.py Вызвана функция get_message из модуля common.my_classes c параметрами (<socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 57942)>,), {}
+2020-12-23 18:32:20,777 ERROR my_classes.py Принято некорретное сообщение от клиента.
+2020-12-23 18:32:20,778 DEBUG my_classes.py Закрытие соединения
+2020-12-23 18:32:20,820 INFO my_classes.py Вызвана функция get_message из модуля common.my_classes c параметрами (<socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 57944)>,), {}
+2020-12-23 18:32:20,822 ERROR my_classes.py Принято некорретное сообщение от клиента.
+2020-12-23 18:32:20,822 DEBUG my_classes.py Закрытие соединения
+2020-12-23 18:32:20,858 INFO my_classes.py Вызвана функция get_message из модуля common.my_classes c параметрами (<socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 57946)>,), {}
+2020-12-23 18:32:20,860 ERROR my_classes.py Принято некорретное сообщение от клиента.
+2020-12-23 18:32:20,860 DEBUG my_classes.py Закрытие соединения
+2020-12-23 18:34:22,969 INFO server.py Запущен новый сервер
+2020-12-23 18:34:22,970 DEBUG server.py Переданы параметры командной строки ['server.py', 'ip_adr', '127.0.0.1', 'port', '7777']
+2020-12-23 18:34:22,970 DEBUG server.py Сформированы ключи {'ip_adr': '127.0.0.1', 'port': '7777'}
+2020-12-23 18:34:22,970 DEBUG server.py Попытка создать экземпляр Сервера
+2020-12-23 18:34:22,970 INFO my_classes.py Вызвана функция __init__ из модуля common.my_classes c параметрами (), {'ip_adr': '127.0.0.1', 'port': '7777'}
+2020-12-23 18:34:22,970 INFO my_classes.py Вызвана функция __init__ из модуля common.my_classes c параметрами (), {'ip_adr': '127.0.0.1', 'port': '7777'}
+2020-12-23 18:34:22,970 INFO my_classes.py Вызвана функция __setattr__ из модуля common.my_classes c параметрами ('ip_adr', '127.0.0.1'), {}
+2020-12-23 18:34:22,970 DEBUG my_classes.py Атрибут "ip_adr" установлен в 127.0.0.1
+2020-12-23 18:34:22,970 INFO my_classes.py Вызвана функция __setattr__ из модуля common.my_classes c параметрами ('port', 7777), {}
+2020-12-23 18:34:22,971 DEBUG my_classes.py Атрибут "port" установлен в 7777
+2020-12-23 18:34:22,971 INFO my_classes.py Вызвана функция __setattr__ из модуля common.my_classes c параметрами ('max_package_len', 1024), {}
+2020-12-23 18:34:22,971 DEBUG my_classes.py Атрибут "max_package_len" установлен в 1024
+2020-12-23 18:34:22,971 INFO my_classes.py Вызвана функция __setattr__ из модуля common.my_classes c параметрами ('my_socket', None), {}
+2020-12-23 18:34:22,971 DEBUG my_classes.py Атрибут "my_socket" установлен в None
+2020-12-23 18:34:22,971 INFO my_classes.py Вызвана функция __setattr__ из модуля common.my_classes c параметрами ('max_connections', 5), {}
+2020-12-23 18:34:22,971 DEBUG my_classes.py Атрибут "max_connections" установлен в 5
+2020-12-23 18:34:22,971 INFO server.py Экземпляр Сервера создан
+2020-12-23 18:34:22,971 DEBUG server.py Биндим сервер
+2020-12-23 18:34:22,972 INFO my_classes.py Вызвана функция bind из модуля common.my_classes c параметрами (), {}
+2020-12-23 18:34:22,972 DEBUG my_classes.py Создание сокета
+2020-12-23 18:34:22,972 INFO my_classes.py Вызвана функция __setattr__ из модуля common.my_classes c параметрами ('my_socket', <socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('0.0.0.0', 0)>), {}
+2020-12-23 18:34:22,972 DEBUG my_classes.py Атрибут "my_socket" установлен в <socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('0.0.0.0', 0)>
+2020-12-23 18:34:22,972 DEBUG my_classes.py Бинд сервера
+2020-12-23 18:34:22,972 INFO server.py Запуск сервера
+2020-12-23 18:34:22,972 INFO my_classes.py Вызвана функция start_server из модуля common.my_classes c параметрами (), {}
+2020-12-23 18:34:32,652 INFO my_classes.py Вызвана функция get_message из модуля common.my_classes c параметрами (<socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 57960)>,), {}
+2020-12-23 18:34:32,652 INFO my_classes.py {'action': 'presence', 'time': 1608737672.652214, 'user': {'account_name': 'Guest'}}
+2020-12-23 18:34:32,652 INFO my_classes.py Вызвана функция process_client_message из модуля common.my_classes c параметрами ({'action': 'presence', 'time': 1608737672.652214, 'user': {'account_name': 'Guest'}},), {}
+2020-12-23 18:34:32,697 INFO my_classes.py Вызвана функция get_message из модуля common.my_classes c параметрами (<socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 57962)>,), {}
+2020-12-23 18:34:32,697 INFO my_classes.py {'action': 'presence', 'time': 1608737672.6971264, 'user': {'account_name': 'Guest'}}
+2020-12-23 18:34:32,697 INFO my_classes.py Вызвана функция process_client_message из модуля common.my_classes c параметрами ({'action': 'presence', 'time': 1608737672.6971264, 'user': {'account_name': 'Guest'}},), {}
+2020-12-23 18:34:32,747 INFO my_classes.py Вызвана функция get_message из модуля common.my_classes c параметрами (<socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 57964)>,), {}
+2020-12-23 18:34:32,747 INFO my_classes.py {'action': 'presence', 'time': 1608737672.747673, 'user': {'account_name': 'Guest'}}
+2020-12-23 18:34:32,748 INFO my_classes.py Вызвана функция process_client_message из модуля common.my_classes c параметрами ({'action': 'presence', 'time': 1608737672.747673, 'user': {'account_name': 'Guest'}},), {}
+2020-12-23 18:34:32,788 INFO my_classes.py Вызвана функция get_message из модуля common.my_classes c параметрами (<socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 57966)>,), {}
+2020-12-23 18:34:32,788 INFO my_classes.py {'action': 'presence', 'time': 1608737672.7884429, 'user': {'account_name': 'Guest'}}
+2020-12-23 18:34:32,788 INFO my_classes.py Вызвана функция process_client_message из модуля common.my_classes c параметрами ({'action': 'presence', 'time': 1608737672.7884429, 'user': {'account_name': 'Guest'}},), {}
+2020-12-23 18:34:32,829 INFO my_classes.py Вызвана функция get_message из модуля common.my_classes c параметрами (<socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 57968)>,), {}
+2020-12-23 18:34:32,830 INFO my_classes.py {'action': 'presence', 'time': 1608737672.8298554, 'user': {'account_name': 'Guest'}}
+2020-12-23 18:34:32,830 INFO my_classes.py Вызвана функция process_client_message из модуля common.my_classes c параметрами ({'action': 'presence', 'time': 1608737672.8298554, 'user': {'account_name': 'Guest'}},), {}
