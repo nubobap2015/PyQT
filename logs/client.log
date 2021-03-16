@@ -4881,3 +4881,681 @@
 2021-03-15 12:35:47,396 ERROR my_classes.py Ошибка получения сообщения от "<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 40808), raddr=('127.0.0.1', 7777)>":"Expecting value: line 1 column 1 (char 0)"
 2021-03-15 12:35:47,396 INFO my_classes.py Получено сообщение None
 2021-03-15 15:31:04,138 INFO my_classes.py Завершение работы по команде пользователя.
+2021-03-16 12:07:14,219 INFO client.py Запущен новый клиент
+2021-03-16 12:07:14,263 INFO client.py Запущен новый клиент
+2021-03-16 12:07:14,440 INFO client.py Запущен новый клиент
+2021-03-16 12:07:14,600 INFO client.py Запущен новый клиент
+2021-03-16 12:07:14,631 INFO client.py Запущен новый клиент
+2021-03-16 12:07:24,185 INFO my_classes.py Получено сообщение {'action': 'message', 'time': 1615885643.9520144, 'user': 'Guest', 'message_text': 'dffgh'}
+2021-03-16 12:07:24,185 INFO my_classes.py Получено сообщение {'action': 'message', 'time': 1615885643.9520144, 'user': 'Guest', 'message_text': 'dffgh'}
+2021-03-16 12:07:28,194 INFO my_classes.py Получено сообщение {'action': 'message', 'time': 1615885648.175535, 'user': 'Guest', 'message_text': 'fgfghfgh'}
+2021-03-16 12:07:28,195 INFO my_classes.py Получено сообщение {'action': 'message', 'time': 1615885648.175535, 'user': 'Guest', 'message_text': 'fgfghfgh'}
+2021-03-16 12:07:32,706 INFO my_classes.py Получено сообщение {'action': 'message', 'time': 1615885652.6954353, 'user': 'Guest', 'message_text': '{eq'}
+2021-03-16 12:07:32,706 INFO my_classes.py Получено сообщение {'action': 'message', 'time': 1615885652.6954353, 'user': 'Guest', 'message_text': '{eq'}
+2021-03-16 12:07:36,213 INFO my_classes.py Получено сообщение {'action': 'message', 'time': 1615885655.799453, 'user': 'Guest', 'message_text': 'хуй'}
+2021-03-16 12:07:36,213 INFO my_classes.py Получено сообщение {'action': 'message', 'time': 1615885655.799453, 'user': 'Guest', 'message_text': 'хуй'}
+2021-03-16 12:07:39,220 INFO my_classes.py Получено сообщение {'action': 'message', 'time': 1615885659.175279, 'user': 'Guest', 'message_text': 'пвапвап'}
+2021-03-16 12:07:39,221 INFO my_classes.py Получено сообщение {'action': 'message', 'time': 1615885659.175279, 'user': 'Guest', 'message_text': 'пвапвап'}
+2021-03-16 12:07:40,725 INFO my_classes.py Получено сообщение {'action': 'message', 'time': 1615885660.7194417, 'user': 'Guest', 'message_text': 'вавап'}
+2021-03-16 12:07:40,725 INFO my_classes.py Получено сообщение {'action': 'message', 'time': 1615885660.7194417, 'user': 'Guest', 'message_text': 'вавап'}
+2021-03-16 12:13:50,622 INFO client.py Запущен новый клиент
+2021-03-16 12:13:50,739 INFO client.py Запущен новый клиент
+2021-03-16 12:13:50,863 INFO client.py Запущен новый клиент
+2021-03-16 12:13:50,984 INFO client.py Запущен новый клиент
+2021-03-16 12:13:51,015 INFO client.py Запущен новый клиент
+2021-03-16 12:14:04,572 ERROR my_classes.py Ошибка получения сообщения от "<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 59652), raddr=('127.0.0.1', 7777)>":"Expecting value: line 1 column 1 (char 0)"
+2021-03-16 12:14:04,572 INFO my_classes.py Получено сообщение None
+2021-03-16 12:14:04,574 ERROR my_classes.py Ошибка получения сообщения от "<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 59646), raddr=('127.0.0.1', 7777)>":"Expecting value: line 1 column 1 (char 0)"
+2021-03-16 12:14:04,574 INFO my_classes.py Получено сообщение None
+2021-03-16 12:15:48,472 INFO client.py Запущен новый клиент
+2021-03-16 12:15:48,625 INFO client.py Запущен новый клиент
+2021-03-16 12:15:48,665 INFO client.py Запущен новый клиент
+2021-03-16 12:15:48,727 INFO client.py Запущен новый клиент
+2021-03-16 12:15:48,895 INFO client.py Запущен новый клиент
+2021-03-16 12:15:58,997 INFO my_classes.py Получено сообщение {'action': 'message', 'time': 1615886158.763005, 'user': 'Guest', 'message_text': 'fghfgh'}
+2021-03-16 12:15:59,501 INFO my_classes.py Получено сообщение {'action': 'message', 'time': 1615886159.0588856, 'user': 'Guest', 'message_text': ''}
+2021-03-16 12:16:01,005 INFO my_classes.py Получено сообщение {'action': 'message', 'time': 1615886160.826896, 'user': 'Guest', 'message_text': 'ghghj'}
+2021-03-16 12:16:01,882 ERROR my_classes.py Ошибка отправки сообщения "{'action': 'message', 'time': 1615886161.8827505, 'user': 'Guest', 'message_text': ''}" клиенту "<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 59674)>":"[Errno 32] Broken pipe"
+2021-03-16 12:16:09,841 ERROR my_classes.py Ошибка получения сообщения от "<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 59676), raddr=('127.0.0.1', 7777)>":"Expecting value: line 1 column 1 (char 0)"
+2021-03-16 12:16:09,841 INFO my_classes.py Получено сообщение None
+2021-03-16 12:16:22,811 ERROR my_classes.py Ошибка отправки сообщения "{'action': 'message', 'time': 1615886182.8115733, 'user': 'Guest', 'message_text': '!!!!'}" клиенту "<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 59674)>":"[Errno 32] Broken pipe"
+2021-03-16 12:16:26,035 INFO my_classes.py Завершение работы по команде пользователя.
+2021-03-16 12:17:23,974 INFO client.py Запущен новый клиент
+2021-03-16 12:17:23,982 INFO client.py Запущен новый клиент
+2021-03-16 12:17:23,992 INFO client.py Запущен новый клиент
+2021-03-16 12:17:24,098 INFO client.py Запущен новый клиент
+2021-03-16 12:17:24,117 INFO client.py Запущен новый клиент
+2021-03-16 12:17:27,634 ERROR my_classes.py Ошибка получения сообщения от "<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 59688), raddr=('127.0.0.1', 7777)>":"Expecting value: line 1 column 1 (char 0)"
+2021-03-16 12:17:27,634 INFO my_classes.py Получено сообщение None
+2021-03-16 12:18:36,509 INFO client.py Запущен новый клиент
+2021-03-16 12:18:36,515 ERROR my_classes.py Ошибка коннекта:[Errno 111] Connection refused
+2021-03-16 12:18:36,515 CRITICAL my_classes.py Ошибка подключения
+2021-03-16 12:18:36,632 INFO client.py Запущен новый клиент
+2021-03-16 12:18:36,634 ERROR my_classes.py Ошибка коннекта:[Errno 111] Connection refused
+2021-03-16 12:18:36,635 CRITICAL my_classes.py Ошибка подключения
+2021-03-16 12:18:36,851 INFO client.py Запущен новый клиент
+2021-03-16 12:18:36,854 ERROR my_classes.py Ошибка коннекта:[Errno 111] Connection refused
+2021-03-16 12:18:36,854 CRITICAL my_classes.py Ошибка подключения
+2021-03-16 12:18:37,034 INFO client.py Запущен новый клиент
+2021-03-16 12:18:37,035 ERROR my_classes.py Ошибка коннекта:[Errno 111] Connection refused
+2021-03-16 12:18:37,035 CRITICAL my_classes.py Ошибка подключения
+2021-03-16 12:18:37,140 INFO client.py Запущен новый клиент
+2021-03-16 12:18:37,140 ERROR my_classes.py Ошибка коннекта:[Errno 111] Connection refused
+2021-03-16 12:18:37,140 CRITICAL my_classes.py Ошибка подключения
+2021-03-16 12:19:22,287 INFO client.py Запущен новый клиент
+2021-03-16 12:19:22,297 INFO client.py Запущен новый клиент
+2021-03-16 12:19:22,306 INFO client.py Запущен новый клиент
+2021-03-16 12:19:22,313 INFO client.py Запущен новый клиент
+2021-03-16 12:19:22,320 INFO client.py Запущен новый клиент
+2021-03-16 12:19:56,153 INFO client.py Запущен новый клиент
+2021-03-16 12:19:56,149 INFO client.py Запущен новый клиент
+2021-03-16 12:19:56,178 INFO client.py Запущен новый клиент
+2021-03-16 12:19:56,183 INFO client.py Запущен новый клиент
+2021-03-16 12:19:56,226 INFO client.py Запущен новый клиент
+2021-03-16 12:19:59,736 INFO my_classes.py Получено сообщение {'action': 'message', 'time': 1615886399.2795305, 'user': 'Guest', 'message_text': 'ccvxcv'}
+2021-03-16 12:20:18,950 INFO client.py Запущен новый клиент
+2021-03-16 12:20:18,954 ERROR my_classes.py Ошибка коннекта:[Errno 111] Connection refused
+2021-03-16 12:20:18,957 CRITICAL my_classes.py Ошибка подключения
+2021-03-16 12:20:18,969 INFO client.py Запущен новый клиент
+2021-03-16 12:20:18,972 ERROR my_classes.py Ошибка коннекта:[Errno 111] Connection refused
+2021-03-16 12:20:18,974 CRITICAL my_classes.py Ошибка подключения
+2021-03-16 12:20:19,003 INFO client.py Запущен новый клиент
+2021-03-16 12:20:19,004 ERROR my_classes.py Ошибка коннекта:[Errno 111] Connection refused
+2021-03-16 12:20:19,007 CRITICAL my_classes.py Ошибка подключения
+2021-03-16 12:20:18,993 INFO client.py Запущен новый клиент
+2021-03-16 12:20:19,008 ERROR my_classes.py Ошибка коннекта:[Errno 111] Connection refused
+2021-03-16 12:20:19,008 CRITICAL my_classes.py Ошибка подключения
+2021-03-16 12:20:19,003 INFO client.py Запущен новый клиент
+2021-03-16 12:20:19,014 ERROR my_classes.py Ошибка коннекта:[Errno 111] Connection refused
+2021-03-16 12:20:19,014 CRITICAL my_classes.py Ошибка подключения
+2021-03-16 12:20:47,132 INFO client.py Запущен новый клиент
+2021-03-16 12:20:47,135 INFO client.py Запущен новый клиент
+2021-03-16 12:20:47,164 INFO client.py Запущен новый клиент
+2021-03-16 12:20:47,167 INFO client.py Запущен новый клиент
+2021-03-16 12:20:47,261 INFO client.py Запущен новый клиент
+2021-03-16 12:20:51,638 ERROR my_classes.py Ошибка получения сообщения от "<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 59758), raddr=('127.0.0.1', 7777)>":"Expecting value: line 1 column 1 (char 0)"
+2021-03-16 12:20:51,638 INFO my_classes.py Получено сообщение None
+2021-03-16 12:23:44,282 INFO client.py Запущен новый клиент
+2021-03-16 12:23:44,282 ERROR my_classes.py Ошибка коннекта:[Errno 111] Connection refused
+2021-03-16 12:23:44,283 CRITICAL my_classes.py Ошибка подключения
+2021-03-16 12:23:44,277 INFO client.py Запущен новый клиент
+2021-03-16 12:23:44,305 INFO client.py Запущен новый клиент
+2021-03-16 12:23:44,305 ERROR my_classes.py Ошибка коннекта:[Errno 111] Connection refused
+2021-03-16 12:23:44,302 INFO client.py Запущен новый клиент
+2021-03-16 12:23:44,306 CRITICAL my_classes.py Ошибка подключения
+2021-03-16 12:23:44,306 ERROR my_classes.py Ошибка коннекта:[Errno 111] Connection refused
+2021-03-16 12:23:44,306 CRITICAL my_classes.py Ошибка подключения
+2021-03-16 12:23:44,305 ERROR my_classes.py Ошибка коннекта:[Errno 111] Connection refused
+2021-03-16 12:23:44,312 CRITICAL my_classes.py Ошибка подключения
+2021-03-16 12:23:44,334 INFO client.py Запущен новый клиент
+2021-03-16 12:23:44,334 ERROR my_classes.py Ошибка коннекта:[Errno 111] Connection refused
+2021-03-16 12:23:44,335 CRITICAL my_classes.py Ошибка подключения
+2021-03-16 12:24:27,850 INFO client.py Запущен новый клиент
+2021-03-16 12:24:27,862 ERROR my_classes.py Ошибка коннекта:[Errno 111] Connection refused
+2021-03-16 12:24:27,866 CRITICAL my_classes.py Ошибка подключения
+2021-03-16 12:24:27,895 INFO client.py Запущен новый клиент
+2021-03-16 12:24:27,895 ERROR my_classes.py Ошибка коннекта:[Errno 111] Connection refused
+2021-03-16 12:24:27,895 CRITICAL my_classes.py Ошибка подключения
+2021-03-16 12:24:27,896 INFO client.py Запущен новый клиент
+2021-03-16 12:24:27,897 ERROR my_classes.py Ошибка коннекта:[Errno 111] Connection refused
+2021-03-16 12:24:27,897 CRITICAL my_classes.py Ошибка подключения
+2021-03-16 12:24:27,902 INFO client.py Запущен новый клиент
+2021-03-16 12:24:27,902 ERROR my_classes.py Ошибка коннекта:[Errno 111] Connection refused
+2021-03-16 12:24:27,902 CRITICAL my_classes.py Ошибка подключения
+2021-03-16 12:24:27,901 INFO client.py Запущен новый клиент
+2021-03-16 12:24:27,922 ERROR my_classes.py Ошибка коннекта:[Errno 111] Connection refused
+2021-03-16 12:24:27,922 CRITICAL my_classes.py Ошибка подключения
+2021-03-16 12:24:36,373 INFO client.py Запущен новый клиент
+2021-03-16 12:24:36,378 ERROR my_classes.py Ошибка коннекта:[Errno 111] Connection refused
+2021-03-16 12:24:36,382 CRITICAL my_classes.py Ошибка подключения
+2021-03-16 12:24:36,434 INFO client.py Запущен новый клиент
+2021-03-16 12:24:36,434 INFO client.py Запущен новый клиент
+2021-03-16 12:24:36,434 ERROR my_classes.py Ошибка коннекта:[Errno 111] Connection refused
+2021-03-16 12:24:36,435 ERROR my_classes.py Ошибка коннекта:[Errno 111] Connection refused
+2021-03-16 12:24:36,435 CRITICAL my_classes.py Ошибка подключения
+2021-03-16 12:24:36,417 INFO client.py Запущен новый клиент
+2021-03-16 12:24:36,436 ERROR my_classes.py Ошибка коннекта:[Errno 111] Connection refused
+2021-03-16 12:24:36,435 CRITICAL my_classes.py Ошибка подключения
+2021-03-16 12:24:36,436 CRITICAL my_classes.py Ошибка подключения
+2021-03-16 12:24:36,467 INFO client.py Запущен новый клиент
+2021-03-16 12:24:36,468 ERROR my_classes.py Ошибка коннекта:[Errno 111] Connection refused
+2021-03-16 12:24:36,468 CRITICAL my_classes.py Ошибка подключения
+2021-03-16 12:24:42,996 INFO client.py Запущен новый клиент
+2021-03-16 12:24:43,012 INFO client.py Запущен новый клиент
+2021-03-16 12:24:43,014 INFO client.py Запущен новый клиент
+2021-03-16 12:24:43,030 INFO client.py Запущен новый клиент
+2021-03-16 12:24:43,046 INFO client.py Запущен новый клиент
+2021-03-16 12:24:50,579 INFO my_classes.py Получено сообщение {'action': 'message', 'time': 1615886690.1861773, 'user': 'Guest', 'message_text': 'fghgh '}
+2021-03-16 12:24:50,579 INFO my_classes.py Получено сообщение {'action': 'message', 'time': 1615886690.1861773, 'user': 'Guest', 'message_text': 'fghgh '}
+2021-03-16 12:24:50,579 INFO my_classes.py Получено сообщение {'action': 'message', 'time': 1615886690.1861773, 'user': 'Guest', 'message_text': 'fghgh '}
+2021-03-16 12:24:50,579 INFO my_classes.py Получено сообщение {'action': 'message', 'time': 1615886690.1861773, 'user': 'Guest', 'message_text': 'fghgh '}
+2021-03-16 12:24:57,152 ERROR my_classes.py Ошибка получения сообщения от "<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 59808), raddr=('127.0.0.1', 7777)>":"Expecting value: line 1 column 1 (char 0)"
+2021-03-16 12:24:57,152 ERROR my_classes.py Ошибка получения сообщения от "<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 59810), raddr=('127.0.0.1', 7777)>":"Expecting value: line 1 column 1 (char 0)"
+2021-03-16 12:24:57,153 INFO my_classes.py Получено сообщение None
+2021-03-16 12:24:57,153 INFO my_classes.py Получено сообщение None
+2021-03-16 12:24:57,162 ERROR my_classes.py Ошибка получения сообщения от "<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 59806), raddr=('127.0.0.1', 7777)>":"Expecting value: line 1 column 1 (char 0)"
+2021-03-16 12:24:57,162 INFO my_classes.py Получено сообщение None
+2021-03-16 12:24:57,171 ERROR my_classes.py Ошибка получения сообщения от "<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 59802), raddr=('127.0.0.1', 7777)>":"Expecting value: line 1 column 1 (char 0)"
+2021-03-16 12:24:57,172 INFO my_classes.py Получено сообщение None
+2021-03-16 12:25:08,017 INFO my_classes.py Завершение работы по команде пользователя.
+2021-03-16 12:30:15,843 INFO client.py Запущен новый клиент
+2021-03-16 12:30:15,842 INFO client.py Запущен новый клиент
+2021-03-16 12:30:15,852 INFO client.py Запущен новый клиент
+2021-03-16 12:30:15,853 INFO client.py Запущен новый клиент
+2021-03-16 12:30:15,869 INFO client.py Запущен новый клиент
+2021-03-16 12:30:22,134 ERROR my_classes.py Ошибка получения сообщения от "<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 59820), raddr=('127.0.0.1', 7777)>":"Expecting value: line 1 column 1 (char 0)"
+2021-03-16 12:30:22,134 ERROR my_classes.py Ошибка получения сообщения от "<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 59822), raddr=('127.0.0.1', 7777)>":"Expecting value: line 1 column 1 (char 0)"
+2021-03-16 12:30:22,134 INFO my_classes.py Получено сообщение None
+2021-03-16 12:30:22,134 INFO my_classes.py Получено сообщение None
+2021-03-16 12:30:22,142 ERROR my_classes.py Ошибка получения сообщения от "<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 59816), raddr=('127.0.0.1', 7777)>":"Expecting value: line 1 column 1 (char 0)"
+2021-03-16 12:30:22,142 INFO my_classes.py Получено сообщение None
+2021-03-16 12:30:22,144 ERROR my_classes.py Ошибка получения сообщения от "<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 59818), raddr=('127.0.0.1', 7777)>":"Expecting value: line 1 column 1 (char 0)"
+2021-03-16 12:30:22,145 INFO my_classes.py Получено сообщение None
+2021-03-16 12:30:45,393 INFO client.py Запущен новый клиент
+2021-03-16 12:30:45,393 INFO client.py Запущен новый клиент
+2021-03-16 12:30:45,394 ERROR my_classes.py Ошибка коннекта:[Errno 111] Connection refused
+2021-03-16 12:30:45,398 CRITICAL my_classes.py Ошибка подключения
+2021-03-16 12:30:45,398 ERROR my_classes.py Ошибка коннекта:[Errno 111] Connection refused
+2021-03-16 12:30:45,399 CRITICAL my_classes.py Ошибка подключения
+2021-03-16 12:30:45,410 INFO client.py Запущен новый клиент
+2021-03-16 12:30:45,410 ERROR my_classes.py Ошибка коннекта:[Errno 111] Connection refused
+2021-03-16 12:30:45,410 CRITICAL my_classes.py Ошибка подключения
+2021-03-16 12:30:45,424 INFO client.py Запущен новый клиент
+2021-03-16 12:30:45,424 ERROR my_classes.py Ошибка коннекта:[Errno 111] Connection refused
+2021-03-16 12:30:45,424 CRITICAL my_classes.py Ошибка подключения
+2021-03-16 12:30:45,429 INFO client.py Запущен новый клиент
+2021-03-16 12:30:45,429 ERROR my_classes.py Ошибка коннекта:[Errno 111] Connection refused
+2021-03-16 12:30:45,441 CRITICAL my_classes.py Ошибка подключения
+2021-03-16 12:31:57,267 INFO client.py Запущен новый клиент
+2021-03-16 12:31:57,278 INFO client.py Запущен новый клиент
+2021-03-16 12:31:57,293 INFO client.py Запущен новый клиент
+2021-03-16 12:31:57,301 INFO client.py Запущен новый клиент
+2021-03-16 12:31:57,308 INFO client.py Запущен новый клиент
+2021-03-16 12:32:16,968 ERROR my_classes.py Ошибка получения сообщения от "<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 59848), raddr=('127.0.0.1', 7777)>":"Expecting value: line 1 column 1 (char 0)"
+2021-03-16 12:32:16,968 INFO my_classes.py Получено сообщение None
+2021-03-16 12:32:16,970 ERROR my_classes.py Ошибка получения сообщения от "<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 59846), raddr=('127.0.0.1', 7777)>":"Expecting value: line 1 column 1 (char 0)"
+2021-03-16 12:32:16,970 INFO my_classes.py Получено сообщение None
+2021-03-16 12:32:16,974 ERROR my_classes.py Ошибка получения сообщения от "<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 59844), raddr=('127.0.0.1', 7777)>":"Expecting value: line 1 column 1 (char 0)"
+2021-03-16 12:32:16,974 INFO my_classes.py Получено сообщение None
+2021-03-16 12:32:16,978 ERROR my_classes.py Ошибка получения сообщения от "<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 59840), raddr=('127.0.0.1', 7777)>":"Expecting value: line 1 column 1 (char 0)"
+2021-03-16 12:32:16,978 INFO my_classes.py Получено сообщение None
+2021-03-16 12:36:09,014 INFO client.py Запущен новый клиент
+2021-03-16 12:36:09,059 INFO client.py Запущен новый клиент
+2021-03-16 12:36:09,057 INFO client.py Запущен новый клиент
+2021-03-16 12:36:09,072 INFO client.py Запущен новый клиент
+2021-03-16 12:36:09,073 INFO client.py Запущен новый клиент
+2021-03-16 12:36:15,590 INFO my_classes.py Получено сообщение {'action': 'message', 'time': 1615887375.2974744, 'user': 'Guest', 'message_text': 'xfv'}
+2021-03-16 12:36:15,590 INFO my_classes.py Получено сообщение {'action': 'message', 'time': 1615887375.2974744, 'user': 'Guest', 'message_text': 'xfv'}
+2021-03-16 12:36:15,591 INFO my_classes.py Получено сообщение {'action': 'message', 'time': 1615887375.2974744, 'user': 'Guest', 'message_text': 'xfv'}
+2021-03-16 12:36:15,591 INFO my_classes.py Получено сообщение {'action': 'message', 'time': 1615887375.2974744, 'user': 'Guest', 'message_text': 'xfv'}
+2021-03-16 12:36:18,426 ERROR my_classes.py Ошибка получения сообщения от "<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 59862), raddr=('127.0.0.1', 7777)>":"Expecting value: line 1 column 1 (char 0)"
+2021-03-16 12:36:18,426 INFO my_classes.py Получено сообщение None
+2021-03-16 12:36:18,430 ERROR my_classes.py Ошибка получения сообщения от "<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 59860), raddr=('127.0.0.1', 7777)>":"Expecting value: line 1 column 1 (char 0)"
+2021-03-16 12:36:18,430 INFO my_classes.py Получено сообщение None
+2021-03-16 12:36:18,434 ERROR my_classes.py Ошибка получения сообщения от "<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 59858), raddr=('127.0.0.1', 7777)>":"Expecting value: line 1 column 1 (char 0)"
+2021-03-16 12:36:18,434 INFO my_classes.py Получено сообщение None
+2021-03-16 12:36:18,436 ERROR my_classes.py Ошибка получения сообщения от "<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 59854), raddr=('127.0.0.1', 7777)>":"Expecting value: line 1 column 1 (char 0)"
+2021-03-16 12:36:18,436 INFO my_classes.py Получено сообщение None
+2021-03-16 12:39:15,625 INFO client.py Запущен новый клиент
+2021-03-16 12:39:15,632 INFO client.py Запущен новый клиент
+2021-03-16 12:39:15,687 INFO client.py Запущен новый клиент
+2021-03-16 12:39:15,692 INFO client.py Запущен новый клиент
+2021-03-16 12:39:15,695 INFO client.py Запущен новый клиент
+2021-03-16 12:39:24,885 ERROR my_classes.py Ошибка получения сообщения от "<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 59928), raddr=('127.0.0.1', 7777)>":"Expecting value: line 1 column 1 (char 0)"
+2021-03-16 12:39:24,885 ERROR my_classes.py Ошибка получения сообщения от "<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 59934), raddr=('127.0.0.1', 7777)>":"Expecting value: line 1 column 1 (char 0)"
+2021-03-16 12:39:24,885 INFO my_classes.py Получено сообщение None
+2021-03-16 12:39:24,885 INFO my_classes.py Получено сообщение None
+2021-03-16 12:39:24,885 ERROR my_classes.py Ошибка получения сообщения от "<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 59932), raddr=('127.0.0.1', 7777)>":"Expecting value: line 1 column 1 (char 0)"
+2021-03-16 12:39:24,885 INFO my_classes.py Получено сообщение None
+2021-03-16 12:39:24,890 ERROR my_classes.py Ошибка получения сообщения от "<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 59930), raddr=('127.0.0.1', 7777)>":"Expecting value: line 1 column 1 (char 0)"
+2021-03-16 12:39:24,890 INFO my_classes.py Получено сообщение None
+2021-03-16 12:45:43,949 INFO client.py Запущен новый клиент
+2021-03-16 12:45:43,964 INFO client.py Запущен новый клиент
+2021-03-16 12:45:43,972 INFO client.py Запущен новый клиент
+2021-03-16 12:45:43,978 INFO client.py Запущен новый клиент
+2021-03-16 12:45:43,986 INFO client.py Запущен новый клиент
+2021-03-16 12:45:49,391 ERROR my_classes.py Ошибка получения сообщения от "<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 59942), raddr=('127.0.0.1', 7777)>":"Expecting value: line 1 column 1 (char 0)"
+2021-03-16 12:45:49,391 INFO my_classes.py Получено сообщение None
+2021-03-16 12:45:49,391 ERROR my_classes.py Ошибка получения сообщения от "<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 59944), raddr=('127.0.0.1', 7777)>":"Expecting value: line 1 column 1 (char 0)"
+2021-03-16 12:45:49,392 INFO my_classes.py Получено сообщение None
+2021-03-16 12:45:49,391 ERROR my_classes.py Ошибка получения сообщения от "<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 59946), raddr=('127.0.0.1', 7777)>":"Expecting value: line 1 column 1 (char 0)"
+2021-03-16 12:45:49,394 INFO my_classes.py Получено сообщение None
+2021-03-16 12:45:49,402 ERROR my_classes.py Ошибка получения сообщения от "<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 59940), raddr=('127.0.0.1', 7777)>":"Expecting value: line 1 column 1 (char 0)"
+2021-03-16 12:45:49,402 INFO my_classes.py Получено сообщение None
+2021-03-16 13:07:59,285 INFO client.py Запущен новый клиент
+2021-03-16 13:07:59,415 INFO client.py Запущен новый клиент
+2021-03-16 13:07:59,434 INFO client.py Запущен новый клиент
+2021-03-16 13:07:59,623 INFO client.py Запущен новый клиент
+2021-03-16 13:07:59,670 INFO client.py Запущен новый клиент
+2021-03-16 13:08:07,696 INFO my_classes.py Получено сообщение {'action': 'message', 'time': 1615889287.4222894, 'user': 'Guest', 'message_text': 'dfgfgh'}
+2021-03-16 13:08:07,697 INFO my_classes.py Получено сообщение {'action': 'message', 'time': 1615889287.4222894, 'user': 'Guest', 'message_text': 'dfgfgh'}
+2021-03-16 13:08:07,697 INFO my_classes.py Получено сообщение {'action': 'message', 'time': 1615889287.4222894, 'user': 'Guest', 'message_text': 'dfgfgh'}
+2021-03-16 13:08:07,697 INFO my_classes.py Получено сообщение {'action': 'message', 'time': 1615889287.4222894, 'user': 'Guest', 'message_text': 'dfgfgh'}
+2021-03-16 13:08:13,235 ERROR my_classes.py Ошибка получения сообщения от "<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 60438), raddr=('127.0.0.1', 7777)>":"Expecting value: line 1 column 1 (char 0)"
+2021-03-16 13:08:13,235 INFO my_classes.py Получено сообщение None
+2021-03-16 13:08:13,240 ERROR my_classes.py Ошибка получения сообщения от "<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 60434), raddr=('127.0.0.1', 7777)>":"Expecting value: line 1 column 1 (char 0)"
+2021-03-16 13:08:13,240 INFO my_classes.py Получено сообщение None
+2021-03-16 13:08:13,245 ERROR my_classes.py Ошибка получения сообщения от "<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 60432), raddr=('127.0.0.1', 7777)>":"Expecting value: line 1 column 1 (char 0)"
+2021-03-16 13:08:13,245 INFO my_classes.py Получено сообщение None
+2021-03-16 13:08:13,260 ERROR my_classes.py Ошибка получения сообщения от "<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 60430), raddr=('127.0.0.1', 7777)>":"Expecting value: line 1 column 1 (char 0)"
+2021-03-16 13:08:13,260 INFO my_classes.py Получено сообщение None
+2021-03-16 13:41:12,797 INFO client.py Запущен новый клиент
+2021-03-16 13:41:12,814 INFO client.py Запущен новый клиент
+2021-03-16 13:41:12,815 INFO client.py Запущен новый клиент
+2021-03-16 13:41:12,831 INFO client.py Запущен новый клиент
+2021-03-16 13:41:12,833 INFO client.py Запущен новый клиент
+2021-03-16 13:42:04,657 INFO client.py Запущен новый клиент
+2021-03-16 13:42:04,767 INFO client.py Запущен новый клиент
+2021-03-16 13:42:04,894 INFO client.py Запущен новый клиент
+2021-03-16 13:42:05,058 INFO client.py Запущен новый клиент
+2021-03-16 13:42:05,088 INFO client.py Запущен новый клиент
+2021-03-16 16:18:13,013 INFO client.py Запущен новый клиент
+2021-03-16 16:18:13,033 INFO client.py Запущен новый клиент
+2021-03-16 16:18:13,046 INFO client.py Запущен новый клиент
+2021-03-16 16:18:13,047 INFO client.py Запущен новый клиент
+2021-03-16 16:18:13,048 INFO client.py Запущен новый клиент
+2021-03-16 16:18:34,589 INFO my_classes.py Получено сообщение {'action': 'message', 'time': 1615900714.1336446, 'user': 'Guest', 'message_text': 'bghgk'}
+2021-03-16 16:18:34,589 INFO my_classes.py Получено сообщение {'action': 'message', 'time': 1615900714.1336446, 'user': 'Guest', 'message_text': 'bghgk'}
+2021-03-16 16:18:34,589 INFO my_classes.py Получено сообщение {'action': 'message', 'time': 1615900714.1336446, 'user': 'Guest', 'message_text': 'bghgk'}
+2021-03-16 16:18:34,590 INFO my_classes.py Получено сообщение {'action': 'message', 'time': 1615900714.1336446, 'user': 'Guest', 'message_text': 'bghgk'}
+2021-03-16 16:20:56,145 INFO client.py Запущен новый клиент
+2021-03-16 16:20:56,146 INFO client.py Запущен новый клиент
+2021-03-16 16:20:56,147 INFO client.py Запущен новый клиент
+2021-03-16 16:20:56,164 INFO client.py Запущен новый клиент
+2021-03-16 16:20:56,172 INFO client.py Запущен новый клиент
+2021-03-16 16:21:19,314 ERROR my_classes.py Ошибка получения сообщения от "<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 35758), raddr=('127.0.0.1', 7777)>":"Expecting value: line 1 column 1 (char 0)"
+2021-03-16 16:21:19,314 INFO my_classes.py Получено сообщение None
+2021-03-16 16:21:19,316 ERROR my_classes.py Ошибка получения сообщения от "<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 35760), raddr=('127.0.0.1', 7777)>":"Expecting value: line 1 column 1 (char 0)"
+2021-03-16 16:21:19,316 INFO my_classes.py Получено сообщение None
+2021-03-16 16:21:19,319 ERROR my_classes.py Ошибка получения сообщения от "<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 35756), raddr=('127.0.0.1', 7777)>":"Expecting value: line 1 column 1 (char 0)"
+2021-03-16 16:21:19,319 INFO my_classes.py Получено сообщение None
+2021-03-16 16:21:19,322 ERROR my_classes.py Ошибка получения сообщения от "<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 35754), raddr=('127.0.0.1', 7777)>":"Expecting value: line 1 column 1 (char 0)"
+2021-03-16 16:21:19,322 INFO my_classes.py Получено сообщение None
+2021-03-16 16:25:52,266 INFO client.py Запущен новый клиент
+2021-03-16 16:25:52,280 INFO client.py Запущен новый клиент
+2021-03-16 16:25:52,327 INFO client.py Запущен новый клиент
+2021-03-16 16:25:52,378 INFO client.py Запущен новый клиент
+2021-03-16 16:25:52,399 INFO client.py Запущен новый клиент
+2021-03-16 16:26:10,857 INFO client.py Запущен новый клиент
+2021-03-16 16:26:10,869 INFO client.py Запущен новый клиент
+2021-03-16 16:26:10,907 INFO client.py Запущен новый клиент
+2021-03-16 16:26:10,914 INFO client.py Запущен новый клиент
+2021-03-16 16:26:10,914 INFO client.py Запущен новый клиент
+2021-03-16 16:26:13,792 ERROR my_classes.py Ошибка получения сообщения от "<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 35790), raddr=('127.0.0.1', 7777)>":"Expecting value: line 1 column 1 (char 0)"
+2021-03-16 16:26:13,792 ERROR my_classes.py Ошибка получения сообщения от "<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 35792), raddr=('127.0.0.1', 7777)>":"Expecting value: line 1 column 1 (char 0)"
+2021-03-16 16:26:13,792 INFO my_classes.py Получено сообщение None
+2021-03-16 16:26:13,792 INFO my_classes.py Получено сообщение None
+2021-03-16 16:26:13,804 ERROR my_classes.py Ошибка получения сообщения от "<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 35788), raddr=('127.0.0.1', 7777)>":"Expecting value: line 1 column 1 (char 0)"
+2021-03-16 16:26:13,804 INFO my_classes.py Получено сообщение None
+2021-03-16 16:26:13,814 ERROR my_classes.py Ошибка получения сообщения от "<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 35784), raddr=('127.0.0.1', 7777)>":"Expecting value: line 1 column 1 (char 0)"
+2021-03-16 16:26:13,814 INFO my_classes.py Получено сообщение None
+2021-03-16 16:28:13,057 INFO client.py Запущен новый клиент
+2021-03-16 16:28:13,059 INFO client.py Запущен новый клиент
+2021-03-16 16:28:13,061 INFO client.py Запущен новый клиент
+2021-03-16 16:28:13,069 INFO client.py Запущен новый клиент
+2021-03-16 16:28:13,070 INFO client.py Запущен новый клиент
+2021-03-16 16:30:08,753 INFO client.py Запущен новый клиент
+2021-03-16 16:30:08,755 INFO client.py Запущен новый клиент
+2021-03-16 16:30:08,758 INFO client.py Запущен новый клиент
+2021-03-16 16:30:08,771 INFO client.py Запущен новый клиент
+2021-03-16 16:30:08,800 INFO client.py Запущен новый клиент
+2021-03-16 16:30:24,973 INFO client.py Запущен новый клиент
+2021-03-16 16:30:25,002 INFO client.py Запущен новый клиент
+2021-03-16 16:30:25,068 INFO client.py Запущен новый клиент
+2021-03-16 16:30:25,076 INFO client.py Запущен новый клиент
+2021-03-16 16:30:25,079 INFO client.py Запущен новый клиент
+2021-03-16 16:32:13,941 INFO client.py Запущен новый клиент
+2021-03-16 16:32:13,958 INFO client.py Запущен новый клиент
+2021-03-16 16:32:13,972 INFO client.py Запущен новый клиент
+2021-03-16 16:32:13,993 INFO client.py Запущен новый клиент
+2021-03-16 16:32:13,998 INFO client.py Запущен новый клиент
+2021-03-16 16:32:22,703 ERROR my_classes.py Ошибка получения сообщения от "<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 35880), raddr=('127.0.0.1', 7777)>":"Expecting value: line 1 column 1 (char 0)"
+2021-03-16 16:32:22,703 INFO my_classes.py Получено сообщение None
+2021-03-16 16:32:22,704 ERROR my_classes.py Ошибка получения сообщения от "<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 35876), raddr=('127.0.0.1', 7777)>":"Expecting value: line 1 column 1 (char 0)"
+2021-03-16 16:32:22,704 INFO my_classes.py Получено сообщение None
+2021-03-16 16:32:22,709 ERROR my_classes.py Ошибка получения сообщения от "<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 35878), raddr=('127.0.0.1', 7777)>":"Expecting value: line 1 column 1 (char 0)"
+2021-03-16 16:32:22,713 INFO my_classes.py Получено сообщение None
+2021-03-16 16:33:07,410 INFO client.py Запущен новый клиент
+2021-03-16 16:33:07,410 ERROR my_classes.py Ошибка коннекта:[Errno 111] Connection refused
+2021-03-16 16:33:07,411 CRITICAL my_classes.py Ошибка подключения
+2021-03-16 16:33:07,534 INFO client.py Запущен новый клиент
+2021-03-16 16:33:07,535 ERROR my_classes.py Ошибка коннекта:[Errno 111] Connection refused
+2021-03-16 16:33:07,535 CRITICAL my_classes.py Ошибка подключения
+2021-03-16 16:33:07,617 INFO client.py Запущен новый клиент
+2021-03-16 16:33:07,617 ERROR my_classes.py Ошибка коннекта:[Errno 111] Connection refused
+2021-03-16 16:33:07,618 CRITICAL my_classes.py Ошибка подключения
+2021-03-16 16:33:07,686 INFO client.py Запущен новый клиент
+2021-03-16 16:33:07,697 ERROR my_classes.py Ошибка коннекта:[Errno 111] Connection refused
+2021-03-16 16:33:07,697 CRITICAL my_classes.py Ошибка подключения
+2021-03-16 16:33:07,783 INFO client.py Запущен новый клиент
+2021-03-16 16:33:07,784 ERROR my_classes.py Ошибка коннекта:[Errno 111] Connection refused
+2021-03-16 16:33:07,784 CRITICAL my_classes.py Ошибка подключения
+2021-03-16 16:33:35,242 INFO client.py Запущен новый клиент
+2021-03-16 16:33:35,261 INFO client.py Запущен новый клиент
+2021-03-16 16:33:35,268 INFO client.py Запущен новый клиент
+2021-03-16 16:33:35,283 INFO client.py Запущен новый клиент
+2021-03-16 16:33:35,287 INFO client.py Запущен новый клиент
+2021-03-16 16:33:56,604 ERROR my_classes.py Ошибка получения сообщения от "<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 35898), raddr=('127.0.0.1', 7777)>":"Expecting value: line 1 column 1 (char 0)"
+2021-03-16 16:33:56,604 ERROR my_classes.py Ошибка получения сообщения от "<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 35902), raddr=('127.0.0.1', 7777)>":"Expecting value: line 1 column 1 (char 0)"
+2021-03-16 16:33:56,604 INFO my_classes.py Получено сообщение None
+2021-03-16 16:33:56,604 INFO my_classes.py Получено сообщение None
+2021-03-16 16:33:56,609 ERROR my_classes.py Ошибка получения сообщения от "<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 35900), raddr=('127.0.0.1', 7777)>":"Expecting value: line 1 column 1 (char 0)"
+2021-03-16 16:33:56,610 INFO my_classes.py Получено сообщение None
+2021-03-16 16:33:56,614 ERROR my_classes.py Ошибка получения сообщения от "<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 35896), raddr=('127.0.0.1', 7777)>":"Expecting value: line 1 column 1 (char 0)"
+2021-03-16 16:33:56,614 INFO my_classes.py Получено сообщение None
+2021-03-16 16:34:21,396 INFO client.py Запущен новый клиент
+2021-03-16 16:34:21,403 INFO client.py Запущен новый клиент
+2021-03-16 16:34:21,409 ERROR my_classes.py Ошибка коннекта:[Errno 111] Connection refused
+2021-03-16 16:34:21,411 CRITICAL my_classes.py Ошибка подключения
+2021-03-16 16:34:21,397 ERROR my_classes.py Ошибка коннекта:[Errno 111] Connection refused
+2021-03-16 16:34:21,413 CRITICAL my_classes.py Ошибка подключения
+2021-03-16 16:34:21,438 INFO client.py Запущен новый клиент
+2021-03-16 16:34:21,439 ERROR my_classes.py Ошибка коннекта:[Errno 111] Connection refused
+2021-03-16 16:34:21,439 CRITICAL my_classes.py Ошибка подключения
+2021-03-16 16:34:21,618 INFO client.py Запущен новый клиент
+2021-03-16 16:34:21,618 ERROR my_classes.py Ошибка коннекта:[Errno 111] Connection refused
+2021-03-16 16:34:21,619 CRITICAL my_classes.py Ошибка подключения
+2021-03-16 16:34:21,633 INFO client.py Запущен новый клиент
+2021-03-16 16:34:21,634 ERROR my_classes.py Ошибка коннекта:[Errno 111] Connection refused
+2021-03-16 16:34:21,634 CRITICAL my_classes.py Ошибка подключения
+2021-03-16 16:35:17,053 INFO client.py Запущен новый клиент
+2021-03-16 16:35:17,054 ERROR my_classes.py Ошибка коннекта:[Errno 111] Connection refused
+2021-03-16 16:35:17,054 CRITICAL my_classes.py Ошибка подключения
+2021-03-16 16:35:17,086 INFO client.py Запущен новый клиент
+2021-03-16 16:35:17,087 INFO client.py Запущен новый клиент
+2021-03-16 16:35:17,086 ERROR my_classes.py Ошибка коннекта:[Errno 111] Connection refused
+2021-03-16 16:35:17,087 CRITICAL my_classes.py Ошибка подключения
+2021-03-16 16:35:17,087 ERROR my_classes.py Ошибка коннекта:[Errno 111] Connection refused
+2021-03-16 16:35:17,090 CRITICAL my_classes.py Ошибка подключения
+2021-03-16 16:35:17,105 INFO client.py Запущен новый клиент
+2021-03-16 16:35:17,106 ERROR my_classes.py Ошибка коннекта:[Errno 111] Connection refused
+2021-03-16 16:35:17,113 CRITICAL my_classes.py Ошибка подключения
+2021-03-16 16:35:17,117 INFO client.py Запущен новый клиент
+2021-03-16 16:35:17,119 ERROR my_classes.py Ошибка коннекта:[Errno 111] Connection refused
+2021-03-16 16:35:17,125 CRITICAL my_classes.py Ошибка подключения
+2021-03-16 16:35:19,451 INFO client.py Запущен новый клиент
+2021-03-16 16:35:19,454 ERROR my_classes.py Ошибка коннекта:[Errno 111] Connection refused
+2021-03-16 16:35:19,454 CRITICAL my_classes.py Ошибка подключения
+2021-03-16 16:35:19,455 INFO client.py Запущен новый клиент
+2021-03-16 16:35:19,455 ERROR my_classes.py Ошибка коннекта:[Errno 111] Connection refused
+2021-03-16 16:35:19,456 CRITICAL my_classes.py Ошибка подключения
+2021-03-16 16:35:19,459 INFO client.py Запущен новый клиент
+2021-03-16 16:35:19,459 ERROR my_classes.py Ошибка коннекта:[Errno 111] Connection refused
+2021-03-16 16:35:19,459 CRITICAL my_classes.py Ошибка подключения
+2021-03-16 16:35:19,483 INFO client.py Запущен новый клиент
+2021-03-16 16:35:19,484 ERROR my_classes.py Ошибка коннекта:[Errno 111] Connection refused
+2021-03-16 16:35:19,484 CRITICAL my_classes.py Ошибка подключения
+2021-03-16 16:35:19,511 INFO client.py Запущен новый клиент
+2021-03-16 16:35:19,511 ERROR my_classes.py Ошибка коннекта:[Errno 111] Connection refused
+2021-03-16 16:35:19,512 CRITICAL my_classes.py Ошибка подключения
+2021-03-16 16:35:30,609 INFO client.py Запущен новый клиент
+2021-03-16 16:35:30,610 INFO client.py Запущен новый клиент
+2021-03-16 16:35:30,610 ERROR my_classes.py Ошибка коннекта:[Errno 111] Connection refused
+2021-03-16 16:35:30,611 CRITICAL my_classes.py Ошибка подключения
+2021-03-16 16:35:30,614 ERROR my_classes.py Ошибка коннекта:[Errno 111] Connection refused
+2021-03-16 16:35:30,614 CRITICAL my_classes.py Ошибка подключения
+2021-03-16 16:35:30,621 INFO client.py Запущен новый клиент
+2021-03-16 16:35:30,622 ERROR my_classes.py Ошибка коннекта:[Errno 111] Connection refused
+2021-03-16 16:35:30,622 CRITICAL my_classes.py Ошибка подключения
+2021-03-16 16:35:30,633 INFO client.py Запущен новый клиент
+2021-03-16 16:35:30,642 ERROR my_classes.py Ошибка коннекта:[Errno 111] Connection refused
+2021-03-16 16:35:30,642 CRITICAL my_classes.py Ошибка подключения
+2021-03-16 16:35:30,646 INFO client.py Запущен новый клиент
+2021-03-16 16:35:30,646 ERROR my_classes.py Ошибка коннекта:[Errno 111] Connection refused
+2021-03-16 16:35:30,646 CRITICAL my_classes.py Ошибка подключения
+2021-03-16 16:36:05,822 INFO client.py Запущен новый клиент
+2021-03-16 16:36:05,826 INFO client.py Запущен новый клиент
+2021-03-16 16:36:05,837 INFO client.py Запущен новый клиент
+2021-03-16 16:36:05,842 INFO client.py Запущен новый клиент
+2021-03-16 16:36:05,846 INFO client.py Запущен новый клиент
+2021-03-16 16:36:32,332 ERROR my_classes.py Ошибка получения сообщения от "<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 35954), raddr=('127.0.0.1', 7777)>":"Expecting value: line 1 column 1 (char 0)"
+2021-03-16 16:36:32,332 INFO my_classes.py Получено сообщение None
+2021-03-16 16:36:32,334 ERROR my_classes.py Ошибка получения сообщения от "<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 35952), raddr=('127.0.0.1', 7777)>":"Expecting value: line 1 column 1 (char 0)"
+2021-03-16 16:36:32,334 INFO my_classes.py Получено сообщение None
+2021-03-16 16:36:32,342 ERROR my_classes.py Ошибка получения сообщения от "<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 35948), raddr=('127.0.0.1', 7777)>":"Expecting value: line 1 column 1 (char 0)"
+2021-03-16 16:36:32,342 INFO my_classes.py Получено сообщение None
+2021-03-16 16:36:32,349 ERROR my_classes.py Ошибка получения сообщения от "<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 35946), raddr=('127.0.0.1', 7777)>":"Expecting value: line 1 column 1 (char 0)"
+2021-03-16 16:36:32,349 INFO my_classes.py Получено сообщение None
+2021-03-16 16:36:43,510 INFO client.py Запущен новый клиент
+2021-03-16 16:36:43,510 ERROR my_classes.py Ошибка коннекта:[Errno 111] Connection refused
+2021-03-16 16:36:43,510 CRITICAL my_classes.py Ошибка подключения
+2021-03-16 16:36:43,541 INFO client.py Запущен новый клиент
+2021-03-16 16:36:43,542 ERROR my_classes.py Ошибка коннекта:[Errno 111] Connection refused
+2021-03-16 16:36:43,542 CRITICAL my_classes.py Ошибка подключения
+2021-03-16 16:36:43,677 INFO client.py Запущен новый клиент
+2021-03-16 16:36:43,681 ERROR my_classes.py Ошибка коннекта:[Errno 111] Connection refused
+2021-03-16 16:36:43,682 CRITICAL my_classes.py Ошибка подключения
+2021-03-16 16:36:43,874 INFO client.py Запущен новый клиент
+2021-03-16 16:36:43,876 ERROR my_classes.py Ошибка коннекта:[Errno 111] Connection refused
+2021-03-16 16:36:43,876 CRITICAL my_classes.py Ошибка подключения
+2021-03-16 16:36:43,890 INFO client.py Запущен новый клиент
+2021-03-16 16:36:43,891 ERROR my_classes.py Ошибка коннекта:[Errno 111] Connection refused
+2021-03-16 16:36:43,892 CRITICAL my_classes.py Ошибка подключения
+2021-03-16 16:36:49,891 INFO client.py Запущен новый клиент
+2021-03-16 16:36:49,894 ERROR my_classes.py Ошибка коннекта:[Errno 111] Connection refused
+2021-03-16 16:36:49,894 CRITICAL my_classes.py Ошибка подключения
+2021-03-16 16:36:49,926 INFO client.py Запущен новый клиент
+2021-03-16 16:36:49,927 ERROR my_classes.py Ошибка коннекта:[Errno 111] Connection refused
+2021-03-16 16:36:49,927 CRITICAL my_classes.py Ошибка подключения
+2021-03-16 16:36:50,065 INFO client.py Запущен новый клиент
+2021-03-16 16:36:50,066 ERROR my_classes.py Ошибка коннекта:[Errno 111] Connection refused
+2021-03-16 16:36:50,066 CRITICAL my_classes.py Ошибка подключения
+2021-03-16 16:36:50,135 INFO client.py Запущен новый клиент
+2021-03-16 16:36:50,140 ERROR my_classes.py Ошибка коннекта:[Errno 111] Connection refused
+2021-03-16 16:36:50,140 CRITICAL my_classes.py Ошибка подключения
+2021-03-16 16:36:50,312 INFO client.py Запущен новый клиент
+2021-03-16 16:36:50,314 ERROR my_classes.py Ошибка коннекта:[Errno 111] Connection refused
+2021-03-16 16:36:50,314 CRITICAL my_classes.py Ошибка подключения
+2021-03-16 16:37:21,661 INFO client.py Запущен новый клиент
+2021-03-16 16:37:21,663 ERROR my_classes.py Ошибка коннекта:[Errno 111] Connection refused
+2021-03-16 16:37:21,665 CRITICAL my_classes.py Ошибка подключения
+2021-03-16 16:37:21,687 INFO client.py Запущен новый клиент
+2021-03-16 16:37:21,687 ERROR my_classes.py Ошибка коннекта:[Errno 111] Connection refused
+2021-03-16 16:37:21,687 CRITICAL my_classes.py Ошибка подключения
+2021-03-16 16:37:21,689 INFO client.py Запущен новый клиент
+2021-03-16 16:37:21,690 INFO client.py Запущен новый клиент
+2021-03-16 16:37:21,694 INFO client.py Запущен новый клиент
+2021-03-16 16:37:21,695 ERROR my_classes.py Ошибка коннекта:[Errno 111] Connection refused
+2021-03-16 16:37:21,694 ERROR my_classes.py Ошибка коннекта:[Errno 111] Connection refused
+2021-03-16 16:37:21,695 CRITICAL my_classes.py Ошибка подключения
+2021-03-16 16:37:21,695 CRITICAL my_classes.py Ошибка подключения
+2021-03-16 16:37:21,697 ERROR my_classes.py Ошибка коннекта:[Errno 111] Connection refused
+2021-03-16 16:37:21,697 CRITICAL my_classes.py Ошибка подключения
+2021-03-16 16:37:23,663 INFO client.py Запущен новый клиент
+2021-03-16 16:37:23,663 ERROR my_classes.py Ошибка коннекта:[Errno 111] Connection refused
+2021-03-16 16:37:23,666 CRITICAL my_classes.py Ошибка подключения
+2021-03-16 16:37:23,690 INFO client.py Запущен новый клиент
+2021-03-16 16:37:23,690 INFO client.py Запущен новый клиент
+2021-03-16 16:37:23,690 ERROR my_classes.py Ошибка коннекта:[Errno 111] Connection refused
+2021-03-16 16:37:23,691 ERROR my_classes.py Ошибка коннекта:[Errno 111] Connection refused
+2021-03-16 16:37:23,692 CRITICAL my_classes.py Ошибка подключения
+2021-03-16 16:37:23,695 CRITICAL my_classes.py Ошибка подключения
+2021-03-16 16:37:23,698 INFO client.py Запущен новый клиент
+2021-03-16 16:37:23,701 ERROR my_classes.py Ошибка коннекта:[Errno 111] Connection refused
+2021-03-16 16:37:23,701 CRITICAL my_classes.py Ошибка подключения
+2021-03-16 16:37:23,707 INFO client.py Запущен новый клиент
+2021-03-16 16:37:23,707 ERROR my_classes.py Ошибка коннекта:[Errno 111] Connection refused
+2021-03-16 16:37:23,707 CRITICAL my_classes.py Ошибка подключения
+2021-03-16 16:38:09,771 INFO client.py Запущен новый клиент
+2021-03-16 16:38:09,774 INFO client.py Запущен новый клиент
+2021-03-16 16:38:09,799 INFO client.py Запущен новый клиент
+2021-03-16 16:38:09,816 INFO client.py Запущен новый клиент
+2021-03-16 16:38:09,825 INFO client.py Запущен новый клиент
+2021-03-16 16:38:16,841 INFO my_classes.py Получено сообщение {'action': 'message', 'time': 1615901896.644828, 'user': 'Guest', 'message_text': 'sfgdfgd'}
+2021-03-16 16:38:16,841 INFO my_classes.py Получено сообщение {'action': 'message', 'time': 1615901896.644828, 'user': 'Guest', 'message_text': 'sfgdfgd'}
+2021-03-16 16:38:16,842 INFO my_classes.py Получено сообщение {'action': 'message', 'time': 1615901896.644828, 'user': 'Guest', 'message_text': 'sfgdfgd'}
+2021-03-16 16:38:16,842 INFO my_classes.py Получено сообщение {'action': 'message', 'time': 1615901896.644828, 'user': 'Guest', 'message_text': 'sfgdfgd'}
+2021-03-16 16:38:21,539 ERROR my_classes.py Ошибка получения сообщения от "<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 36004), raddr=('127.0.0.1', 7777)>":"Expecting value: line 1 column 1 (char 0)"
+2021-03-16 16:38:21,539 INFO my_classes.py Получено сообщение None
+2021-03-16 16:38:21,540 ERROR my_classes.py Ошибка получения сообщения от "<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 36002), raddr=('127.0.0.1', 7777)>":"Expecting value: line 1 column 1 (char 0)"
+2021-03-16 16:38:21,541 INFO my_classes.py Получено сообщение None
+2021-03-16 16:38:21,551 ERROR my_classes.py Ошибка получения сообщения от "<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 36000), raddr=('127.0.0.1', 7777)>":"Expecting value: line 1 column 1 (char 0)"
+2021-03-16 16:38:21,551 ERROR my_classes.py Ошибка получения сообщения от "<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 35998), raddr=('127.0.0.1', 7777)>":"Expecting value: line 1 column 1 (char 0)"
+2021-03-16 16:38:21,551 INFO my_classes.py Получено сообщение None
+2021-03-16 16:38:21,551 INFO my_classes.py Получено сообщение None
+2021-03-16 16:41:25,035 INFO client.py Запущен новый клиент
+2021-03-16 16:41:25,042 INFO client.py Запущен новый клиент
+2021-03-16 16:41:25,059 INFO client.py Запущен новый клиент
+2021-03-16 16:41:25,072 INFO client.py Запущен новый клиент
+2021-03-16 16:41:25,072 INFO client.py Запущен новый клиент
+2021-03-16 16:41:33,347 INFO my_classes.py Завершение работы по команде пользователя.
+2021-03-16 16:41:36,271 ERROR my_classes.py Ошибка получения сообщения от "<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 36014), raddr=('127.0.0.1', 7777)>":"Expecting value: line 1 column 1 (char 0)"
+2021-03-16 16:41:36,271 INFO my_classes.py Получено сообщение None
+2021-03-16 16:41:36,273 ERROR my_classes.py Ошибка получения сообщения от "<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 36012), raddr=('127.0.0.1', 7777)>":"Expecting value: line 1 column 1 (char 0)"
+2021-03-16 16:41:36,274 INFO my_classes.py Получено сообщение None
+2021-03-16 16:41:36,283 ERROR my_classes.py Ошибка получения сообщения от "<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 36010), raddr=('127.0.0.1', 7777)>":"Expecting value: line 1 column 1 (char 0)"
+2021-03-16 16:41:36,283 INFO my_classes.py Получено сообщение None
+2021-03-16 16:41:36,292 ERROR my_classes.py Ошибка получения сообщения от "<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 36008), raddr=('127.0.0.1', 7777)>":"Expecting value: line 1 column 1 (char 0)"
+2021-03-16 16:41:36,292 INFO my_classes.py Получено сообщение None
+2021-03-16 17:00:50,096 INFO client.py Запущен новый клиент
+2021-03-16 17:00:50,095 INFO client.py Запущен новый клиент
+2021-03-16 17:00:50,128 INFO client.py Запущен новый клиент
+2021-03-16 17:00:50,151 INFO client.py Запущен новый клиент
+2021-03-16 17:00:50,155 INFO client.py Запущен новый клиент
+2021-03-16 17:00:54,279 ERROR my_classes.py Ошибка получения сообщения от "<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 36034), raddr=('127.0.0.1', 7777)>":"Expecting value: line 1 column 1 (char 0)"
+2021-03-16 17:00:54,279 INFO my_classes.py Получено сообщение None
+2021-03-16 17:00:54,279 ERROR my_classes.py Ошибка получения сообщения от "<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 36040), raddr=('127.0.0.1', 7777)>":"Expecting value: line 1 column 1 (char 0)"
+2021-03-16 17:00:54,279 INFO my_classes.py Получено сообщение None
+2021-03-16 17:00:54,281 ERROR my_classes.py Ошибка получения сообщения от "<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 36038), raddr=('127.0.0.1', 7777)>":"Expecting value: line 1 column 1 (char 0)"
+2021-03-16 17:00:54,281 INFO my_classes.py Получено сообщение None
+2021-03-16 17:00:54,286 ERROR my_classes.py Ошибка получения сообщения от "<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 36032), raddr=('127.0.0.1', 7777)>":"Expecting value: line 1 column 1 (char 0)"
+2021-03-16 17:00:54,286 INFO my_classes.py Получено сообщение None
+2021-03-16 17:01:26,995 INFO client.py Запущен новый клиент
+2021-03-16 17:01:26,995 ERROR my_classes.py Ошибка коннекта:[Errno 111] Connection refused
+2021-03-16 17:01:26,995 CRITICAL my_classes.py Ошибка подключения
+2021-03-16 17:01:27,098 INFO client.py Запущен новый клиент
+2021-03-16 17:01:27,098 ERROR my_classes.py Ошибка коннекта:[Errno 111] Connection refused
+2021-03-16 17:01:27,098 CRITICAL my_classes.py Ошибка подключения
+2021-03-16 17:01:27,246 INFO client.py Запущен новый клиент
+2021-03-16 17:01:27,246 ERROR my_classes.py Ошибка коннекта:[Errno 111] Connection refused
+2021-03-16 17:01:27,246 CRITICAL my_classes.py Ошибка подключения
+2021-03-16 17:01:27,407 INFO client.py Запущен новый клиент
+2021-03-16 17:01:27,408 ERROR my_classes.py Ошибка коннекта:[Errno 111] Connection refused
+2021-03-16 17:01:27,408 CRITICAL my_classes.py Ошибка подключения
+2021-03-16 17:01:27,462 INFO client.py Запущен новый клиент
+2021-03-16 17:01:27,463 ERROR my_classes.py Ошибка коннекта:[Errno 111] Connection refused
+2021-03-16 17:01:27,463 CRITICAL my_classes.py Ошибка подключения
+2021-03-16 17:01:47,406 INFO client.py Запущен новый клиент
+2021-03-16 17:01:47,407 ERROR my_classes.py Ошибка коннекта:[Errno 111] Connection refused
+2021-03-16 17:01:47,407 CRITICAL my_classes.py Ошибка подключения
+2021-03-16 17:01:47,414 INFO client.py Запущен новый клиент
+2021-03-16 17:01:47,414 ERROR my_classes.py Ошибка коннекта:[Errno 111] Connection refused
+2021-03-16 17:01:47,414 CRITICAL my_classes.py Ошибка подключения
+2021-03-16 17:01:47,422 INFO client.py Запущен новый клиент
+2021-03-16 17:01:47,422 ERROR my_classes.py Ошибка коннекта:[Errno 111] Connection refused
+2021-03-16 17:01:47,422 CRITICAL my_classes.py Ошибка подключения
+2021-03-16 17:01:47,423 INFO client.py Запущен новый клиент
+2021-03-16 17:01:47,423 ERROR my_classes.py Ошибка коннекта:[Errno 111] Connection refused
+2021-03-16 17:01:47,424 CRITICAL my_classes.py Ошибка подключения
+2021-03-16 17:01:47,439 INFO client.py Запущен новый клиент
+2021-03-16 17:01:47,439 ERROR my_classes.py Ошибка коннекта:[Errno 111] Connection refused
+2021-03-16 17:01:47,439 CRITICAL my_classes.py Ошибка подключения
+2021-03-16 17:06:44,043 INFO client.py Запущен новый клиент
+2021-03-16 17:06:44,060 INFO client.py Запущен новый клиент
+2021-03-16 17:06:44,134 INFO client.py Запущен новый клиент
+2021-03-16 17:06:44,135 INFO client.py Запущен новый клиент
+2021-03-16 17:06:44,158 INFO client.py Запущен новый клиент
+2021-03-16 17:07:30,727 ERROR my_classes.py Ошибка получения сообщения от "<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 36076), raddr=('127.0.0.1', 7777)>":"Expecting value: line 1 column 1 (char 0)"
+2021-03-16 17:07:30,727 INFO my_classes.py Получено сообщение None
+2021-03-16 17:07:30,729 ERROR my_classes.py Ошибка получения сообщения от "<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 36070), raddr=('127.0.0.1', 7777)>":"Expecting value: line 1 column 1 (char 0)"
+2021-03-16 17:07:30,730 INFO my_classes.py Получено сообщение None
+2021-03-16 17:07:30,734 ERROR my_classes.py Ошибка получения сообщения от "<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 36072), raddr=('127.0.0.1', 7777)>":"Expecting value: line 1 column 1 (char 0)"
+2021-03-16 17:07:30,734 INFO my_classes.py Получено сообщение None
+2021-03-16 17:15:58,109 INFO client.py Запущен новый клиент
+2021-03-16 17:15:58,119 INFO client.py Запущен новый клиент
+2021-03-16 17:15:58,117 INFO client.py Запущен новый клиент
+2021-03-16 17:15:58,123 INFO client.py Запущен новый клиент
+2021-03-16 17:15:58,125 INFO client.py Запущен новый клиент
+2021-03-16 17:16:33,677 INFO client.py Запущен новый клиент
+2021-03-16 17:16:33,692 INFO client.py Запущен новый клиент
+2021-03-16 17:16:33,698 INFO client.py Запущен новый клиент
+2021-03-16 17:16:33,707 INFO client.py Запущен новый клиент
+2021-03-16 17:16:33,718 INFO client.py Запущен новый клиент
+2021-03-16 17:27:19,153 INFO client.py Запущен новый клиент
+2021-03-16 17:27:19,171 INFO client.py Запущен новый клиент
+2021-03-16 17:27:19,181 INFO client.py Запущен новый клиент
+2021-03-16 17:27:19,208 INFO client.py Запущен новый клиент
+2021-03-16 17:27:19,235 INFO client.py Запущен новый клиент
+2021-03-16 17:27:37,686 ERROR my_classes.py Ошибка получения сообщения от "<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 37704), raddr=('127.0.0.1', 7777)>":"Expecting value: line 1 column 1 (char 0)"
+2021-03-16 17:27:37,686 INFO my_classes.py Получено сообщение None
+2021-03-16 17:27:37,691 ERROR my_classes.py Ошибка получения сообщения от "<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 37700), raddr=('127.0.0.1', 7777)>":"Expecting value: line 1 column 1 (char 0)"
+2021-03-16 17:27:37,692 INFO my_classes.py Получено сообщение None
+2021-03-16 17:27:37,694 ERROR my_classes.py Ошибка получения сообщения от "<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 37702), raddr=('127.0.0.1', 7777)>":"Expecting value: line 1 column 1 (char 0)"
+2021-03-16 17:27:37,694 INFO my_classes.py Получено сообщение None
+2021-03-16 17:27:37,699 ERROR my_classes.py Ошибка получения сообщения от "<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 37698), raddr=('127.0.0.1', 7777)>":"Expecting value: line 1 column 1 (char 0)"
+2021-03-16 17:27:37,699 INFO my_classes.py Получено сообщение None
+2021-03-16 17:28:02,049 INFO client.py Запущен новый клиент
+2021-03-16 17:28:02,049 ERROR my_classes.py Ошибка коннекта:[Errno 111] Connection refused
+2021-03-16 17:28:02,049 CRITICAL my_classes.py Ошибка подключения
+2021-03-16 17:28:02,125 INFO client.py Запущен новый клиент
+2021-03-16 17:28:02,127 ERROR my_classes.py Ошибка коннекта:[Errno 111] Connection refused
+2021-03-16 17:28:02,127 CRITICAL my_classes.py Ошибка подключения
+2021-03-16 17:28:02,254 INFO client.py Запущен новый клиент
+2021-03-16 17:28:02,255 ERROR my_classes.py Ошибка коннекта:[Errno 111] Connection refused
+2021-03-16 17:28:02,255 CRITICAL my_classes.py Ошибка подключения
+2021-03-16 17:28:02,407 INFO client.py Запущен новый клиент
+2021-03-16 17:28:02,408 ERROR my_classes.py Ошибка коннекта:[Errno 111] Connection refused
+2021-03-16 17:28:02,408 CRITICAL my_classes.py Ошибка подключения
+2021-03-16 17:28:02,464 INFO client.py Запущен новый клиент
+2021-03-16 17:28:02,464 ERROR my_classes.py Ошибка коннекта:[Errno 111] Connection refused
+2021-03-16 17:28:02,464 CRITICAL my_classes.py Ошибка подключения
+2021-03-16 17:28:18,458 INFO client.py Запущен новый клиент
+2021-03-16 17:28:18,459 ERROR my_classes.py Ошибка коннекта:[Errno 111] Connection refused
+2021-03-16 17:28:18,459 CRITICAL my_classes.py Ошибка подключения
+2021-03-16 17:28:18,522 INFO client.py Запущен новый клиент
+2021-03-16 17:28:18,523 ERROR my_classes.py Ошибка коннекта:[Errno 111] Connection refused
+2021-03-16 17:28:18,523 CRITICAL my_classes.py Ошибка подключения
+2021-03-16 17:28:18,735 INFO client.py Запущен новый клиент
+2021-03-16 17:28:18,737 ERROR my_classes.py Ошибка коннекта:[Errno 111] Connection refused
+2021-03-16 17:28:18,737 CRITICAL my_classes.py Ошибка подключения
+2021-03-16 17:28:18,943 INFO client.py Запущен новый клиент
+2021-03-16 17:28:18,943 ERROR my_classes.py Ошибка коннекта:[Errno 111] Connection refused
+2021-03-16 17:28:18,943 CRITICAL my_classes.py Ошибка подключения
+2021-03-16 17:28:19,012 INFO client.py Запущен новый клиент
+2021-03-16 17:28:19,013 ERROR my_classes.py Ошибка коннекта:[Errno 111] Connection refused
+2021-03-16 17:28:19,013 CRITICAL my_classes.py Ошибка подключения
+2021-03-16 17:28:20,579 INFO client.py Запущен новый клиент
+2021-03-16 17:28:20,581 ERROR my_classes.py Ошибка коннекта:[Errno 111] Connection refused
+2021-03-16 17:28:20,581 CRITICAL my_classes.py Ошибка подключения
+2021-03-16 17:28:20,601 INFO client.py Запущен новый клиент
+2021-03-16 17:28:20,601 ERROR my_classes.py Ошибка коннекта:[Errno 111] Connection refused
+2021-03-16 17:28:20,602 CRITICAL my_classes.py Ошибка подключения
+2021-03-16 17:28:20,754 INFO client.py Запущен новый клиент
+2021-03-16 17:28:20,755 ERROR my_classes.py Ошибка коннекта:[Errno 111] Connection refused
+2021-03-16 17:28:20,755 CRITICAL my_classes.py Ошибка подключения
+2021-03-16 17:28:20,890 INFO client.py Запущен новый клиент
+2021-03-16 17:28:20,890 ERROR my_classes.py Ошибка коннекта:[Errno 111] Connection refused
+2021-03-16 17:28:20,891 CRITICAL my_classes.py Ошибка подключения
+2021-03-16 17:28:20,978 INFO client.py Запущен новый клиент
+2021-03-16 17:28:20,981 ERROR my_classes.py Ошибка коннекта:[Errno 111] Connection refused
+2021-03-16 17:28:20,981 CRITICAL my_classes.py Ошибка подключения
+2021-03-16 17:28:22,046 INFO client.py Запущен новый клиент
+2021-03-16 17:28:22,046 ERROR my_classes.py Ошибка коннекта:[Errno 111] Connection refused
+2021-03-16 17:28:22,048 CRITICAL my_classes.py Ошибка подключения
+2021-03-16 17:28:22,137 INFO client.py Запущен новый клиент
+2021-03-16 17:28:22,139 ERROR my_classes.py Ошибка коннекта:[Errno 111] Connection refused
+2021-03-16 17:28:22,139 CRITICAL my_classes.py Ошибка подключения
+2021-03-16 17:28:22,337 INFO client.py Запущен новый клиент
+2021-03-16 17:28:22,340 ERROR my_classes.py Ошибка коннекта:[Errno 111] Connection refused
+2021-03-16 17:28:22,340 CRITICAL my_classes.py Ошибка подключения
+2021-03-16 17:28:22,476 INFO client.py Запущен новый клиент
+2021-03-16 17:28:22,476 ERROR my_classes.py Ошибка коннекта:[Errno 111] Connection refused
+2021-03-16 17:28:22,476 CRITICAL my_classes.py Ошибка подключения
+2021-03-16 17:28:22,559 INFO client.py Запущен новый клиент
+2021-03-16 17:28:22,560 ERROR my_classes.py Ошибка коннекта:[Errno 111] Connection refused
+2021-03-16 17:28:22,560 CRITICAL my_classes.py Ошибка подключения
+2021-03-16 17:28:23,615 INFO client.py Запущен новый клиент
+2021-03-16 17:28:23,615 ERROR my_classes.py Ошибка коннекта:[Errno 111] Connection refused
+2021-03-16 17:28:23,615 CRITICAL my_classes.py Ошибка подключения
+2021-03-16 17:28:23,650 INFO client.py Запущен новый клиент
+2021-03-16 17:28:23,650 ERROR my_classes.py Ошибка коннекта:[Errno 111] Connection refused
+2021-03-16 17:28:23,650 CRITICAL my_classes.py Ошибка подключения
+2021-03-16 17:28:23,675 INFO client.py Запущен новый клиент
+2021-03-16 17:28:23,676 ERROR my_classes.py Ошибка коннекта:[Errno 111] Connection refused
+2021-03-16 17:28:23,676 CRITICAL my_classes.py Ошибка подключения
+2021-03-16 17:28:23,910 INFO client.py Запущен новый клиент
+2021-03-16 17:28:23,911 ERROR my_classes.py Ошибка коннекта:[Errno 111] Connection refused
+2021-03-16 17:28:23,911 CRITICAL my_classes.py Ошибка подключения
+2021-03-16 17:28:23,955 INFO client.py Запущен новый клиент
+2021-03-16 17:28:23,955 ERROR my_classes.py Ошибка коннекта:[Errno 111] Connection refused
+2021-03-16 17:28:23,955 CRITICAL my_classes.py Ошибка подключения

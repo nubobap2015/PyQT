@@ -26,13 +26,23 @@ while True:
     if ACTION == 'q':
         break
     elif ACTION == 's':
-        PROCESS.append(subprocess.Popen(['python3', 'server.py'] + my_params, stdout=subprocess.PIPE))
+        PROCESS.append(subprocess.Popen(['python3', 'server.py'] + my_params,
+                                        stdin=subprocess.PIPE,
+                                        stdout=subprocess.PIPE,
+                                        stderr=subprocess.PIPE,
+                                        text=True))
     elif ACTION == 'c':
         for i in range(5):
-            my_params2 = my_params[:]
+            my_params2 = ['gnome-terminal', '--wait', '--', 'python3', 'client.py'] + my_params
             my_params2.append('mode')
-            my_params2.append('listen' if (i % 3) == 0 else 'send')
-            _ = subprocess.Popen(['python3', 'client.py'] + my_params2, stdout=subprocess.PIPE)
+            my_params2.append('listen' if (i != 3) else 'send')
+            # print(my_params2)
+            _ = subprocess.Popen(my_params2,
+                                 stdin=subprocess.PIPE,
+                                 stdout=subprocess.PIPE,
+                                 stderr=subprocess.PIPE,
+                                 text=True)
+
             # out, err = _.communicate()
             # if out:
             #     print('OUT:', out.decode(encoding=ENCODING))
@@ -42,4 +52,11 @@ while True:
     elif ACTION == 'x':
         while PROCESS:
             VICTIM = PROCESS.pop()
+            VICTIM.send_signal(15)
             VICTIM.kill()
+
+
+
+            # VICTIM.send_signal(2)
+            # print(VICTIM.returncode)
+            # VICTIM.kill()

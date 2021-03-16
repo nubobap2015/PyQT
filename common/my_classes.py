@@ -6,6 +6,8 @@ import time
 import logging
 import inspect
 
+from common.metaclasses import MetaVerifier
+
 from common.settings import DEFAULT_IP_ADDRESS, DEFAULT_PORT, MAX_PACKAGE_LENGTH, \
     ENCODING, MAX_CONNECTIONS, PROTOCOL_JIM_KEYS_DICT, PROTOCOL_OTHER_KEYS_DICT, SRV_MSG_DICT
 
@@ -25,7 +27,7 @@ def log(f):
     return wrapper
 
 
-class BaseClass:
+class BaseClass(metaclass=MetaVerifier):
     objects_count = 0
     LOGGER = logging.getLogger('server')
 
