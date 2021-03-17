@@ -27,7 +27,7 @@ def log(f):
     return wrapper
 
 
-class BaseClass(metaclass=MetaVerifier):
+class BaseClass:
     objects_count = 0
     LOGGER = logging.getLogger('server')
 
@@ -75,7 +75,7 @@ class BaseClass(metaclass=MetaVerifier):
             self.__class__.LOGGER.error(f'Ошибка отправки сообщения "{response}" клиенту "{client}":"{err}"')
 
 
-class Client(BaseClass):
+class Client(BaseClass, metaclass=MetaVerifier):
 
     @log
     def __init__(self, *args, **kwargs):
