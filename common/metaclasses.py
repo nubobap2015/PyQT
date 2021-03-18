@@ -7,29 +7,28 @@ class MetaVerifier(type):
         methods = set()
         attrs = set()
 
-        # if clsname == 'Client':
-        #     for _ in clsdict:
-        #         if str(type(clsdict[_])) == "<class 'function'>":
-        #             for __ in dis.get_instructions(clsdict[_]):
-        #                 if __.opname == 'LOAD_GLOBAL':
-        #                     methods.add(__.argval)
-        #                 elif __.opname == 'LOAD_ATTR':
-        #                     attrs.add(__.argval)
-        # elif clsname == 'Server':
-        #     pass
-        # elif clsname == 'BaseClass':
-        #     pass
-        # else:
-        #     pass
-
         for _ in clsdict:
             if str(type(clsdict[_])) == "<class 'function'>":
-                for __ in dis.get_instructions(_):
-                    # print(__)
-                    if __.opname == 'LOAD_NAME':
+                for __ in dis.get_instructions(clsdict[_]):
+                    if __.opname in ['LOAD_GLOBAL', 'LOAD_METHOD', 'LOAD_DEREF']:
                         methods.add(__.argval)
-                    elif __.opname == 'LOAD_ATTR':
+                    elif __.opname in ['LOAD_FAST', 'STORE_FAST', 'LOAD_ATTR']:
                         attrs.add(__.argval)
+                for __ in dis.get_instructions(_):
+                    if __.opname in ['LOAD_GLOBAL', 'LOAD_METHOD', 'LOAD_DEREF', 'LOAD_NAME']:
+                        methods.add(__.argval)
+                    elif __.opname in ['LOAD_FAST', 'STORE_FAST', 'LOAD_ATTR']:
+                        attrs.add(__.argval)
+
+        if clsname == 'Client':
+            pass
+        elif clsname == 'Server':
+            pass
+        elif clsname == 'BaseClass':
+            pass
+        else:
+            pass
+
         print('Методы:', clsname, methods)
         print('Атрибуты:', clsname, attrs)
         # print(tabulate(methods)) #, tablefmt="grid"

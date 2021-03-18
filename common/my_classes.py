@@ -7,6 +7,7 @@ import logging
 import inspect
 
 from common.metaclasses import MetaVerifier
+from common.descriptors import ServerPort
 
 from common.settings import DEFAULT_IP_ADDRESS, DEFAULT_PORT, MAX_PACKAGE_LENGTH, \
     ENCODING, MAX_CONNECTIONS, PROTOCOL_JIM_KEYS_DICT, PROTOCOL_OTHER_KEYS_DICT, SRV_MSG_DICT
@@ -15,26 +16,28 @@ import logs.cfg.server_log_config
 import logs.cfg.client_log_config
 
 
-def log(f):
+def log(func_func):
     def wrapper(*args, **kwargs):
         # print(args[0].__class__.__name__.lower())
         # LOGGER = logging.getLogger(inspect.currentframe().f_back.f_locals['__class__'].__name__.lower())
         LOGGER = logging.getLogger(args[0].__class__.__name__.lower())
         LOGGER.debug(
-            f'Вызвана функция {f.__name__} из модуля {f.__module__} c параметрами args: {args[1:]}, kwargs: {kwargs}')
-        return f(*args, **kwargs)
+            f'Вызвана функция {func_func.__name__} из модуля {func_func.__module__} c параметрами args: {args[1:]}, kwargs: {kwargs}')
+        return func_func(*args, **kwargs)
 
     return wrapper
 
 
-class BaseClass:
+class BaseClass(metaclass=MetaVerifier):
     objects_count = 0
     LOGGER = logging.getLogger('server')
+    port = ServerPort()
 
     @log
     def __init__(self, *args, **kwargs):
         self.ip_adr = DEFAULT_IP_ADDRESS if not kwargs.get('ip_adr') else kwargs.get('ip_adr')
-        self.port = int(DEFAULT_PORT if not kwargs.get('port') else kwargs.get('port'))
+        print(int(DEFAULT_PORT if not kwargs.get('port') else kwargs.get('port')))
+        BaseClass.port = int(DEFAULT_PORT if not kwargs.get('port') else kwargs.get('port'))
         self.max_package_len = int(MAX_PACKAGE_LENGTH if not kwargs.get('max_package_len')
                                    else kwargs.get('max_package_len'))
         self.my_socket = None
@@ -75,7 +78,7 @@ class BaseClass:
             self.__class__.LOGGER.error(f'Ошибка отправки сообщения "{response}" клиенту "{client}":"{err}"')
 
 
-class Client(BaseClass, metaclass=MetaVerifier):
+class Client(BaseClass):
 
     @log
     def __init__(self, *args, **kwargs):
@@ -91,7 +94,7 @@ class Client(BaseClass, metaclass=MetaVerifier):
         self.my_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
         self.__class__.LOGGER.debug('Открытие коннекта')
         try:
-            self.my_socket.connect((self.ip_adr, self.port))
+            self.my_socket.connect((self.ip_adr, self.__class__.port))
             return True
         except Exception as err:
             self.__class__.LOGGER.error(f'Ошибка коннекта:{err}')
@@ -190,7 +193,7 @@ class Server(BaseClass):
         self.my_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
         self.__class__.LOGGER.debug('Бинд сервера')
         try:
-            self.my_socket.bind((self.ip_adr, self.port))
+            self.my_socket.bind((self.ip_adr, self.__class__.port))
         except Exception as err:
             self.__class__.LOGGER.critical(f'ОШИБКА!: {err}')
             return False

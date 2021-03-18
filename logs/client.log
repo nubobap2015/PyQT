@@ -5717,3 +5717,22 @@
 2021-03-17 16:43:13,852 INFO client.py Запущен новый клиент
 2021-03-17 17:08:24,243 INFO client.py Запущен новый клиент
 2021-03-17 17:16:53,343 INFO client.py Запущен новый клиент
+2021-03-18 18:03:01,744 INFO client.py Запущен новый клиент
+2021-03-18 18:03:29,411 INFO client.py Запущен новый клиент
+2021-03-18 18:03:53,046 INFO client.py Запущен новый клиент
+2021-03-18 18:03:55,551 INFO my_classes.py Получено сообщение {'action': 'message', 'time': 1616079835.3595657, 'user': 'Guest', 'message_text': 'sdfgdfg'}
+2021-03-18 18:04:00,561 INFO my_classes.py Получено сообщение {'action': 'message', 'time': 1616079840.143604, 'user': 'Guest', 'message_text': 'dfgdfgdfg'}
+2021-03-18 18:04:40,819 ERROR my_classes.py Ошибка получения сообщения от "<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 56724), raddr=('127.0.0.1', 7777)>":"Expecting value: line 1 column 1 (char 0)"
+2021-03-18 18:04:40,819 INFO my_classes.py Получено сообщение None
+2021-03-18 18:05:32,762 INFO client.py Запущен новый клиент
+2021-03-18 18:05:32,762 ERROR my_classes.py Ошибка коннекта:[Errno 111] Connection refused
+2021-03-18 18:05:32,762 CRITICAL my_classes.py Ошибка подключения
+2021-03-18 18:07:52,051 INFO client.py Запущен новый клиент
+2021-03-18 18:08:08,090 ERROR my_classes.py Ошибка получения сообщения от "<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 56738), raddr=('127.0.0.1', 7777)>":"Expecting value: line 1 column 1 (char 0)"
+2021-03-18 18:08:08,090 INFO my_classes.py Получено сообщение None
+2021-03-18 18:15:21,608 INFO client.py Запущен новый клиент
+2021-03-18 18:15:55,688 INFO client.py Запущен новый клиент
+2021-03-18 18:16:24,708 ERROR my_classes.py Ошибка получения сообщения от "<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 56764), raddr=('127.0.0.1', 7777)>":"Expecting value: line 1 column 1 (char 0)"
+2021-03-18 18:16:24,708 INFO my_classes.py Получено сообщение None
+2021-03-18 18:16:24,710 ERROR my_classes.py Ошибка получения сообщения от "<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 56760), raddr=('127.0.0.1', 7777)>":"Expecting value: line 1 column 1 (char 0)"
+2021-03-18 18:16:24,710 INFO my_classes.py Получено сообщение None

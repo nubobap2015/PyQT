@@ -1,0 +1,206 @@
+2021-03-17 15:56:07,963 INFO server.py Запущен новый сервер
+2021-03-17 15:56:07,964 INFO server.py Экземпляр Сервера создан
+2021-03-17 15:56:07,964 INFO server.py Запуск сервера
+2021-03-17 15:56:12,502 INFO my_classes.py Установлено соедение с ПК ('127.0.0.1', 44562)
+2021-03-17 15:56:12,502 INFO my_classes.py В список клиентов [] добавляем <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 44562)>
+2021-03-17 15:56:12,513 INFO my_classes.py Установлено соедение с ПК ('127.0.0.1', 44564)
+2021-03-17 15:56:12,513 INFO my_classes.py В список клиентов [<socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 44562)>] добавляем <socket.socket fd=7, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 44564)>
+2021-03-17 15:56:12,528 INFO my_classes.py Установлено соедение с ПК ('127.0.0.1', 44566)
+2021-03-17 15:56:12,528 INFO my_classes.py В список клиентов [<socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 44562)>, <socket.socket fd=7, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 44564)>] добавляем <socket.socket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 44566)>
+2021-03-17 15:56:12,539 INFO my_classes.py Установлено соедение с ПК ('127.0.0.1', 44568)
+2021-03-17 15:56:12,539 INFO my_classes.py В список клиентов [<socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 44562)>, <socket.socket fd=7, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 44564)>, <socket.socket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 44566)>] добавляем <socket.socket fd=9, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 44568)>
+2021-03-17 15:56:12,553 INFO my_classes.py Установлено соедение с ПК ('127.0.0.1', 44570)
+2021-03-17 15:56:12,553 INFO my_classes.py В список клиентов [<socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 44562)>, <socket.socket fd=7, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 44564)>, <socket.socket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 44566)>, <socket.socket fd=9, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 44568)>] добавляем <socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 44570)>
+2021-03-17 15:57:43,984 INFO server.py Запущен новый сервер
+2021-03-17 15:57:43,984 INFO server.py Экземпляр Сервера создан
+2021-03-17 15:57:43,984 CRITICAL my_classes.py ОШИБКА!: [Errno 98] Address already in use
+2021-03-17 15:57:43,984 CRITICAL server.py Запуск сервера провален!
+2021-03-17 15:58:08,276 INFO server.py Запущен новый сервер
+2021-03-17 15:58:08,277 INFO server.py Экземпляр Сервера создан
+2021-03-17 15:58:08,277 CRITICAL my_classes.py ОШИБКА!: [Errno 98] Address already in use
+2021-03-17 15:58:08,277 CRITICAL server.py Запуск сервера провален!
+2021-03-17 15:59:12,938 INFO server.py Запущен новый сервер
+2021-03-17 15:59:12,938 INFO server.py Экземпляр Сервера создан
+2021-03-17 15:59:12,938 CRITICAL my_classes.py ОШИБКА!: [Errno 98] Address already in use
+2021-03-17 15:59:12,938 CRITICAL server.py Запуск сервера провален!
+2021-03-17 16:00:41,588 INFO server.py Запущен новый сервер
+2021-03-17 16:00:41,589 INFO server.py Экземпляр Сервера создан
+2021-03-17 16:00:41,589 INFO server.py Запуск сервера
+2021-03-17 16:01:46,359 INFO my_classes.py Установлено соедение с ПК ('127.0.0.1', 44618)
+2021-03-17 16:01:46,359 INFO my_classes.py В список клиентов [] добавляем <socket.socket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 44618)>
+2021-03-17 16:03:18,717 INFO server.py Запущен новый сервер
+2021-03-17 16:03:18,718 INFO server.py Экземпляр Сервера создан
+2021-03-17 16:03:18,718 CRITICAL my_classes.py ОШИБКА!: [Errno 98] Address already in use
+2021-03-17 16:03:18,718 CRITICAL server.py Запуск сервера провален!
+2021-03-17 16:04:22,030 INFO server.py Запущен новый сервер
+2021-03-17 16:04:22,030 INFO server.py Экземпляр Сервера создан
+2021-03-17 16:04:22,030 INFO server.py Запуск сервера
+2021-03-17 16:04:24,146 INFO my_classes.py Установлено соедение с ПК ('127.0.0.1', 44626)
+2021-03-17 16:04:24,146 INFO my_classes.py В список клиентов [] добавляем <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 44626)>
+2021-03-17 16:04:24,163 INFO my_classes.py Установлено соедение с ПК ('127.0.0.1', 44628)
+2021-03-17 16:04:24,164 INFO my_classes.py В список клиентов [<socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 44626)>] добавляем <socket.socket fd=7, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 44628)>
+2021-03-17 16:04:24,166 INFO my_classes.py Установлено соедение с ПК ('127.0.0.1', 44630)
+2021-03-17 16:04:24,166 INFO my_classes.py В список клиентов [<socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 44626)>, <socket.socket fd=7, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 44628)>] добавляем <socket.socket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 44630)>
+2021-03-17 16:04:24,166 INFO my_classes.py Установлено соедение с ПК ('127.0.0.1', 44632)
+2021-03-17 16:04:24,166 INFO my_classes.py В список клиентов [<socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 44626)>, <socket.socket fd=7, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 44628)>, <socket.socket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 44630)>] добавляем <socket.socket fd=9, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 44632)>
+2021-03-17 16:04:24,193 INFO my_classes.py Установлено соедение с ПК ('127.0.0.1', 44634)
+2021-03-17 16:04:24,193 INFO my_classes.py В список клиентов [<socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 44626)>, <socket.socket fd=7, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 44628)>, <socket.socket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 44630)>, <socket.socket fd=9, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 44632)>] добавляем <socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 44634)>
+2021-03-17 16:05:01,269 ERROR my_classes.py Ошибка получения сообщения от "<socket.socket fd=7, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 44628)>":"Expecting value: line 1 column 1 (char 0)"
+2021-03-17 16:05:01,269 INFO my_classes.py Из списка клиентов [<socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 44626)>, <socket.socket fd=7, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 44628)>, <socket.socket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 44630)>, <socket.socket fd=9, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 44632)>, <socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 44634)>] удаляем <socket.socket fd=7, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 44628)>
+2021-03-17 16:07:11,584 INFO server.py Запущен новый сервер
+2021-03-17 16:07:11,584 INFO server.py Экземпляр Сервера создан
+2021-03-17 16:07:11,584 INFO server.py Запуск сервера
+2021-03-17 16:07:13,110 INFO my_classes.py Установлено соедение с ПК ('127.0.0.1', 44638)
+2021-03-17 16:07:13,110 INFO my_classes.py В список клиентов [] добавляем <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 44638)>
+2021-03-17 16:07:13,197 INFO my_classes.py Установлено соедение с ПК ('127.0.0.1', 44640)
+2021-03-17 16:07:13,197 INFO my_classes.py В список клиентов [<socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 44638)>] добавляем <socket.socket fd=7, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 44640)>
+2021-03-17 16:07:13,261 INFO my_classes.py Установлено соедение с ПК ('127.0.0.1', 44642)
+2021-03-17 16:07:13,261 INFO my_classes.py В список клиентов [<socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 44638)>, <socket.socket fd=7, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 44640)>] добавляем <socket.socket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 44642)>
+2021-03-17 16:07:13,446 INFO my_classes.py Установлено соедение с ПК ('127.0.0.1', 44644)
+2021-03-17 16:07:13,446 INFO my_classes.py В список клиентов [<socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 44638)>, <socket.socket fd=7, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 44640)>, <socket.socket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 44642)>] добавляем <socket.socket fd=9, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 44644)>
+2021-03-17 16:07:13,490 INFO my_classes.py Установлено соедение с ПК ('127.0.0.1', 44646)
+2021-03-17 16:07:13,490 INFO my_classes.py В список клиентов [<socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 44638)>, <socket.socket fd=7, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 44640)>, <socket.socket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 44642)>, <socket.socket fd=9, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 44644)>] добавляем <socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 44646)>
+2021-03-17 16:07:53,433 INFO server.py Запущен новый сервер
+2021-03-17 16:07:53,433 INFO server.py Экземпляр Сервера создан
+2021-03-17 16:07:53,433 CRITICAL my_classes.py ОШИБКА!: [Errno 98] Address already in use
+2021-03-17 16:07:53,433 CRITICAL server.py Запуск сервера провален!
+2021-03-17 16:08:10,998 INFO server.py Запущен новый сервер
+2021-03-17 16:08:10,998 INFO server.py Экземпляр Сервера создан
+2021-03-17 16:08:10,998 CRITICAL my_classes.py ОШИБКА!: [Errno 98] Address already in use
+2021-03-17 16:08:10,998 CRITICAL server.py Запуск сервера провален!
+2021-03-17 16:09:57,853 INFO server.py Запущен новый сервер
+2021-03-17 16:09:57,853 INFO server.py Экземпляр Сервера создан
+2021-03-17 16:09:57,854 INFO server.py Запуск сервера
+2021-03-17 16:10:00,318 INFO my_classes.py Установлено соедение с ПК ('127.0.0.1', 44670)
+2021-03-17 16:10:00,318 INFO my_classes.py В список клиентов [] добавляем <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 44670)>
+2021-03-17 16:10:00,424 INFO my_classes.py Установлено соедение с ПК ('127.0.0.1', 44672)
+2021-03-17 16:10:00,424 INFO my_classes.py В список клиентов [<socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 44670)>] добавляем <socket.socket fd=7, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 44672)>
+2021-03-17 16:10:00,515 INFO my_classes.py Установлено соедение с ПК ('127.0.0.1', 44674)
+2021-03-17 16:10:00,515 INFO my_classes.py В список клиентов [<socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 44670)>, <socket.socket fd=7, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 44672)>] добавляем <socket.socket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 44674)>
+2021-03-17 16:10:00,550 INFO my_classes.py Установлено соедение с ПК ('127.0.0.1', 44676)
+2021-03-17 16:10:00,550 INFO my_classes.py В список клиентов [<socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 44670)>, <socket.socket fd=7, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 44672)>, <socket.socket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 44674)>] добавляем <socket.socket fd=9, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 44676)>
+2021-03-17 16:10:00,649 INFO my_classes.py Установлено соедение с ПК ('127.0.0.1', 44678)
+2021-03-17 16:10:00,649 INFO my_classes.py В список клиентов [<socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 44670)>, <socket.socket fd=7, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 44672)>, <socket.socket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 44674)>, <socket.socket fd=9, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 44676)>] добавляем <socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 44678)>
+2021-03-17 16:43:09,174 INFO server.py Запущен новый сервер
+2021-03-17 16:43:09,174 INFO server.py Экземпляр Сервера создан
+2021-03-17 16:43:09,175 INFO server.py Запуск сервера
+2021-03-17 16:43:13,852 INFO my_classes.py Установлено соедение с ПК ('127.0.0.1', 44730)
+2021-03-17 16:43:13,852 INFO my_classes.py В список клиентов [] добавляем <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 44730)>
+2021-03-17 16:43:27,880 ERROR my_classes.py Ошибка получения сообщения от "<socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 44730)>":"Expecting value: line 1 column 1 (char 0)"
+2021-03-17 16:43:27,881 INFO my_classes.py Из списка клиентов [<socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 44730)>] удаляем <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 44730)>
+2021-03-17 16:43:41,466 INFO server.py Запущен новый сервер
+2021-03-17 16:43:41,466 INFO server.py Экземпляр Сервера создан
+2021-03-17 16:43:41,466 INFO server.py Запуск сервера
+2021-03-17 16:45:01,768 INFO server.py Запущен новый сервер
+2021-03-17 16:45:01,768 INFO server.py Экземпляр Сервера создан
+2021-03-17 16:45:01,769 INFO server.py Запуск сервера
+2021-03-17 16:47:17,260 INFO server.py Запущен новый сервер
+2021-03-17 16:47:17,260 INFO server.py Экземпляр Сервера создан
+2021-03-17 16:47:17,260 INFO server.py Запуск сервера
+2021-03-17 16:47:37,212 INFO server.py Запущен новый сервер
+2021-03-17 16:47:37,213 INFO server.py Экземпляр Сервера создан
+2021-03-17 16:47:37,213 INFO server.py Запуск сервера
+2021-03-17 16:49:13,857 INFO server.py Запущен новый сервер
+2021-03-17 16:49:13,857 INFO server.py Экземпляр Сервера создан
+2021-03-17 16:49:13,858 CRITICAL my_classes.py ОШИБКА!: [Errno 98] Address already in use
+2021-03-17 16:49:13,858 CRITICAL server.py Запуск сервера провален!
+2021-03-17 16:49:40,171 INFO server.py Запущен новый сервер
+2021-03-17 16:49:40,171 INFO server.py Экземпляр Сервера создан
+2021-03-17 16:49:40,172 CRITICAL my_classes.py ОШИБКА!: [Errno 98] Address already in use
+2021-03-17 16:49:40,172 CRITICAL server.py Запуск сервера провален!
+2021-03-17 16:50:50,668 INFO server.py Запущен новый сервер
+2021-03-17 16:50:50,668 INFO server.py Экземпляр Сервера создан
+2021-03-17 16:50:50,668 CRITICAL my_classes.py ОШИБКА!: [Errno 98] Address already in use
+2021-03-17 16:50:50,668 CRITICAL server.py Запуск сервера провален!
+2021-03-17 16:51:52,994 INFO server.py Запущен новый сервер
+2021-03-17 16:51:52,994 INFO server.py Экземпляр Сервера создан
+2021-03-17 16:51:52,995 CRITICAL my_classes.py ОШИБКА!: [Errno 98] Address already in use
+2021-03-17 16:51:52,995 CRITICAL server.py Запуск сервера провален!
+2021-03-17 16:52:44,151 INFO server.py Запущен новый сервер
+2021-03-17 16:52:44,152 INFO server.py Экземпляр Сервера создан
+2021-03-17 16:52:44,152 CRITICAL my_classes.py ОШИБКА!: [Errno 98] Address already in use
+2021-03-17 16:52:44,152 CRITICAL server.py Запуск сервера провален!
+2021-03-17 16:53:28,746 INFO server.py Запущен новый сервер
+2021-03-17 16:53:28,747 INFO server.py Экземпляр Сервера создан
+2021-03-17 16:53:28,747 CRITICAL my_classes.py ОШИБКА!: [Errno 98] Address already in use
+2021-03-17 16:53:28,747 CRITICAL server.py Запуск сервера провален!
+2021-03-17 16:59:08,318 INFO server.py Запущен новый сервер
+2021-03-17 16:59:08,318 INFO server.py Экземпляр Сервера создан
+2021-03-17 16:59:08,318 CRITICAL my_classes.py ОШИБКА!: [Errno 98] Address already in use
+2021-03-17 16:59:08,318 CRITICAL server.py Запуск сервера провален!
+2021-03-17 17:03:44,916 INFO server.py Запущен новый сервер
+2021-03-17 17:03:44,917 INFO server.py Экземпляр Сервера создан
+2021-03-17 17:03:44,917 CRITICAL my_classes.py ОШИБКА!: [Errno 98] Address already in use
+2021-03-17 17:03:44,917 CRITICAL server.py Запуск сервера провален!
+2021-03-17 17:04:03,249 INFO server.py Запущен новый сервер
+2021-03-17 17:04:03,249 INFO server.py Экземпляр Сервера создан
+2021-03-17 17:04:03,250 CRITICAL my_classes.py ОШИБКА!: [Errno 98] Address already in use
+2021-03-17 17:04:03,250 CRITICAL server.py Запуск сервера провален!
+2021-03-17 17:04:24,690 INFO server.py Запущен новый сервер
+2021-03-17 17:04:24,691 INFO server.py Экземпляр Сервера создан
+2021-03-17 17:04:24,691 CRITICAL my_classes.py ОШИБКА!: [Errno 98] Address already in use
+2021-03-17 17:04:24,691 CRITICAL server.py Запуск сервера провален!
+2021-03-17 17:04:48,436 INFO server.py Запущен новый сервер
+2021-03-17 17:04:48,436 INFO server.py Экземпляр Сервера создан
+2021-03-17 17:04:48,437 CRITICAL my_classes.py ОШИБКА!: [Errno 98] Address already in use
+2021-03-17 17:04:48,437 CRITICAL server.py Запуск сервера провален!
+2021-03-17 17:04:51,659 INFO server.py Запущен новый сервер
+2021-03-17 17:04:51,660 INFO server.py Экземпляр Сервера создан
+2021-03-17 17:04:51,660 CRITICAL my_classes.py ОШИБКА!: [Errno 98] Address already in use
+2021-03-17 17:04:51,660 CRITICAL server.py Запуск сервера провален!
+2021-03-17 17:05:19,357 INFO server.py Запущен новый сервер
+2021-03-17 17:05:19,357 INFO server.py Экземпляр Сервера создан
+2021-03-17 17:05:19,358 CRITICAL my_classes.py ОШИБКА!: [Errno 98] Address already in use
+2021-03-17 17:05:19,358 CRITICAL server.py Запуск сервера провален!
+2021-03-17 17:06:51,772 INFO server.py Запущен новый сервер
+2021-03-17 17:06:51,772 INFO server.py Экземпляр Сервера создан
+2021-03-17 17:06:51,772 CRITICAL my_classes.py ОШИБКА!: [Errno 98] Address already in use
+2021-03-17 17:06:51,772 CRITICAL server.py Запуск сервера провален!
+2021-03-17 17:07:17,727 INFO server.py Запущен новый сервер
+2021-03-17 17:07:17,727 INFO server.py Экземпляр Сервера создан
+2021-03-17 17:07:17,727 CRITICAL my_classes.py ОШИБКА!: [Errno 98] Address already in use
+2021-03-17 17:07:17,727 CRITICAL server.py Запуск сервера провален!
+2021-03-17 17:07:42,664 INFO server.py Запущен новый сервер
+2021-03-17 17:07:42,664 INFO server.py Экземпляр Сервера создан
+2021-03-17 17:07:42,665 CRITICAL my_classes.py ОШИБКА!: [Errno 98] Address already in use
+2021-03-17 17:07:42,665 CRITICAL server.py Запуск сервера провален!
+2021-03-17 17:08:24,243 INFO my_classes.py Установлено соедение с ПК ('127.0.0.1', 44842)
+2021-03-17 17:08:24,243 INFO my_classes.py В список клиентов [] добавляем <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 44842)>
+2021-03-17 17:08:26,749 ERROR my_classes.py Ошибка получения сообщения от "<socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 44842)>":"Expecting value: line 1 column 1 (char 0)"
+2021-03-17 17:08:26,749 INFO my_classes.py Из списка клиентов [<socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 44842)>] удаляем <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 44842)>
+2021-03-17 17:08:28,146 INFO server.py Запущен новый сервер
+2021-03-17 17:08:28,147 INFO server.py Экземпляр Сервера создан
+2021-03-17 17:08:28,148 CRITICAL my_classes.py ОШИБКА!: [Errno 98] Address already in use
+2021-03-17 17:08:28,148 CRITICAL server.py Запуск сервера провален!
+2021-03-17 17:09:09,090 INFO server.py Запущен новый сервер
+2021-03-17 17:09:09,091 INFO server.py Экземпляр Сервера создан
+2021-03-17 17:09:09,093 CRITICAL my_classes.py ОШИБКА!: [Errno 98] Address already in use
+2021-03-17 17:09:09,093 CRITICAL server.py Запуск сервера провален!
+2021-03-17 17:10:09,586 INFO server.py Запущен новый сервер
+2021-03-17 17:10:09,586 INFO server.py Экземпляр Сервера создан
+2021-03-17 17:10:09,586 CRITICAL my_classes.py ОШИБКА!: [Errno 98] Address already in use
+2021-03-17 17:10:09,587 CRITICAL server.py Запуск сервера провален!
+2021-03-17 17:11:03,333 INFO server.py Запущен новый сервер
+2021-03-17 17:11:03,334 INFO server.py Экземпляр Сервера создан
+2021-03-17 17:11:03,334 CRITICAL my_classes.py ОШИБКА!: [Errno 98] Address already in use
+2021-03-17 17:11:03,334 CRITICAL server.py Запуск сервера провален!
+2021-03-17 17:11:33,971 INFO server.py Запущен новый сервер
+2021-03-17 17:11:33,971 INFO server.py Экземпляр Сервера создан
+2021-03-17 17:11:33,971 CRITICAL my_classes.py ОШИБКА!: [Errno 98] Address already in use
+2021-03-17 17:11:33,972 CRITICAL server.py Запуск сервера провален!
+2021-03-17 17:11:59,346 INFO server.py Запущен новый сервер
+2021-03-17 17:11:59,346 INFO server.py Экземпляр Сервера создан
+2021-03-17 17:11:59,346 CRITICAL my_classes.py ОШИБКА!: [Errno 98] Address already in use
+2021-03-17 17:11:59,346 CRITICAL server.py Запуск сервера провален!
+2021-03-17 17:12:10,233 INFO server.py Запущен новый сервер
+2021-03-17 17:12:10,233 INFO server.py Экземпляр Сервера создан
+2021-03-17 17:12:10,234 CRITICAL my_classes.py ОШИБКА!: [Errno 98] Address already in use
+2021-03-17 17:12:10,234 CRITICAL server.py Запуск сервера провален!
+2021-03-17 17:16:45,675 INFO server.py Запущен новый сервер
+2021-03-17 17:16:45,675 INFO server.py Экземпляр Сервера создан
+2021-03-17 17:16:45,675 CRITICAL my_classes.py ОШИБКА!: [Errno 98] Address already in use
+2021-03-17 17:16:45,675 CRITICAL server.py Запуск сервера провален!
+2021-03-17 17:16:53,344 INFO my_classes.py Установлено соедение с ПК ('127.0.0.1', 44848)
+2021-03-17 17:16:53,344 INFO my_classes.py В список клиентов [] добавляем <socket.socket fd=7, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 44848)>
+2021-03-17 17:17:36,935 ERROR my_classes.py Ошибка получения сообщения от "<socket.socket fd=7, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 44848)>":"Expecting value: line 1 column 1 (char 0)"
+2021-03-17 17:17:36,935 INFO my_classes.py Из списка клиентов [<socket.socket fd=7, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 44848)>] удаляем <socket.socket fd=7, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 44848)>
