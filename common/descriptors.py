@@ -1,10 +1,14 @@
+from common.settings import DEFAULT_PORT
+
 
 class ServerPort:
     def __init__(self):
-        self._value = 7776
+        self._value = DEFAULT_PORT
 
     def __set__(self, instance, value):
-        print('__set__: ', value)
         if int(value) < 0:
             raise ValueError('Порт дожен быть > 0')
-        self._value = value
+        instance.__dict__[self.name] = value
+
+    def __set_name__(self, owner, name):
+        self.name = name

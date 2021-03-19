@@ -36,8 +36,7 @@ class BaseClass(metaclass=MetaVerifier):
     @log
     def __init__(self, *args, **kwargs):
         self.ip_adr = DEFAULT_IP_ADDRESS if not kwargs.get('ip_adr') else kwargs.get('ip_adr')
-        print(int(DEFAULT_PORT if not kwargs.get('port') else kwargs.get('port')))
-        BaseClass.port = int(DEFAULT_PORT if not kwargs.get('port') else kwargs.get('port'))
+        self.port = int(DEFAULT_PORT if not kwargs.get('port') else kwargs.get('port'))
         self.max_package_len = int(MAX_PACKAGE_LENGTH if not kwargs.get('max_package_len')
                                    else kwargs.get('max_package_len'))
         self.my_socket = None
@@ -94,7 +93,7 @@ class Client(BaseClass):
         self.my_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
         self.__class__.LOGGER.debug('Открытие коннекта')
         try:
-            self.my_socket.connect((self.ip_adr, self.__class__.port))
+            self.my_socket.connect((self.ip_adr, self.port))
             return True
         except Exception as err:
             self.__class__.LOGGER.error(f'Ошибка коннекта:{err}')
@@ -193,7 +192,7 @@ class Server(BaseClass):
         self.my_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
         self.__class__.LOGGER.debug('Бинд сервера')
         try:
-            self.my_socket.bind((self.ip_adr, self.__class__.port))
+            self.my_socket.bind((self.ip_adr, self.port))
         except Exception as err:
             self.__class__.LOGGER.critical(f'ОШИБКА!: {err}')
             return False

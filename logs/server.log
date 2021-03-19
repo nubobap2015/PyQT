@@ -1,162 +1,122 @@
-2021-03-18 16:29:09,613 INFO server.py Запущен новый сервер
-2021-03-18 16:29:09,613 INFO server.py Экземпляр Сервера создан
-2021-03-18 16:29:09,613 INFO server.py Запуск сервера
-2021-03-18 16:29:46,220 INFO server.py Запущен новый сервер
-2021-03-18 16:29:46,220 INFO server.py Экземпляр Сервера создан
-2021-03-18 16:29:46,221 INFO server.py Запуск сервера
-2021-03-18 16:30:38,021 INFO server.py Запущен новый сервер
-2021-03-18 16:30:38,022 INFO server.py Экземпляр Сервера создан
-2021-03-18 16:30:38,022 INFO server.py Запуск сервера
-2021-03-18 16:31:11,803 INFO server.py Запущен новый сервер
-2021-03-18 16:31:11,804 INFO server.py Экземпляр Сервера создан
-2021-03-18 16:31:11,804 INFO server.py Запуск сервера
-2021-03-18 16:31:38,013 INFO server.py Запущен новый сервер
-2021-03-18 16:31:38,013 INFO server.py Экземпляр Сервера создан
-2021-03-18 16:31:38,013 INFO server.py Запуск сервера
-2021-03-18 16:32:29,417 INFO server.py Запущен новый сервер
-2021-03-18 16:32:29,417 INFO server.py Экземпляр Сервера создан
-2021-03-18 16:32:29,419 INFO server.py Запуск сервера
-2021-03-18 16:32:55,987 INFO server.py Запущен новый сервер
-2021-03-18 16:32:55,988 INFO server.py Экземпляр Сервера создан
-2021-03-18 16:32:55,988 INFO server.py Запуск сервера
-2021-03-18 16:33:15,940 INFO server.py Запущен новый сервер
-2021-03-18 16:33:15,941 INFO server.py Экземпляр Сервера создан
-2021-03-18 16:33:15,941 INFO server.py Запуск сервера
-2021-03-18 16:33:34,708 INFO server.py Запущен новый сервер
-2021-03-18 16:33:34,708 INFO server.py Экземпляр Сервера создан
-2021-03-18 16:33:34,708 INFO server.py Запуск сервера
-2021-03-18 16:33:55,693 INFO server.py Запущен новый сервер
-2021-03-18 16:33:55,694 INFO server.py Экземпляр Сервера создан
-2021-03-18 16:33:55,695 INFO server.py Запуск сервера
-2021-03-18 16:34:56,471 INFO server.py Запущен новый сервер
-2021-03-18 16:34:56,472 INFO server.py Экземпляр Сервера создан
-2021-03-18 16:34:56,472 INFO server.py Запуск сервера
-2021-03-18 16:35:36,302 INFO server.py Запущен новый сервер
-2021-03-18 16:35:36,302 INFO server.py Экземпляр Сервера создан
-2021-03-18 16:35:36,302 INFO server.py Запуск сервера
-2021-03-18 16:35:52,215 INFO server.py Запущен новый сервер
-2021-03-18 16:35:52,215 INFO server.py Экземпляр Сервера создан
-2021-03-18 16:35:52,215 INFO server.py Запуск сервера
-2021-03-18 16:36:39,683 INFO server.py Запущен новый сервер
-2021-03-18 16:36:39,684 INFO server.py Экземпляр Сервера создан
-2021-03-18 16:36:39,684 INFO server.py Запуск сервера
-2021-03-18 16:37:46,973 INFO server.py Запущен новый сервер
-2021-03-18 16:37:46,973 INFO server.py Экземпляр Сервера создан
-2021-03-18 16:37:46,973 INFO server.py Запуск сервера
-2021-03-18 16:38:07,686 INFO server.py Запущен новый сервер
-2021-03-18 16:38:07,687 INFO server.py Экземпляр Сервера создан
-2021-03-18 16:38:07,687 INFO server.py Запуск сервера
-2021-03-18 16:39:28,927 INFO server.py Запущен новый сервер
-2021-03-18 16:39:28,927 INFO server.py Экземпляр Сервера создан
-2021-03-18 16:39:28,927 INFO server.py Запуск сервера
-2021-03-18 16:41:35,047 INFO server.py Запущен новый сервер
-2021-03-18 16:41:35,047 INFO server.py Экземпляр Сервера создан
-2021-03-18 16:41:35,047 INFO server.py Запуск сервера
-2021-03-18 16:43:10,469 INFO server.py Запущен новый сервер
-2021-03-18 16:43:10,469 INFO server.py Экземпляр Сервера создан
-2021-03-18 16:43:10,469 INFO server.py Запуск сервера
-2021-03-18 16:43:45,645 INFO server.py Запущен новый сервер
-2021-03-18 16:43:45,646 INFO server.py Экземпляр Сервера создан
-2021-03-18 16:43:45,646 INFO server.py Запуск сервера
-2021-03-18 16:45:05,513 INFO server.py Запущен новый сервер
-2021-03-18 16:45:05,513 INFO server.py Экземпляр Сервера создан
-2021-03-18 16:45:05,513 INFO server.py Запуск сервера
-2021-03-18 16:45:34,538 INFO server.py Запущен новый сервер
-2021-03-18 16:45:34,539 INFO server.py Экземпляр Сервера создан
-2021-03-18 16:45:34,539 INFO server.py Запуск сервера
-2021-03-18 16:46:08,350 INFO server.py Запущен новый сервер
-2021-03-18 16:46:08,350 INFO server.py Экземпляр Сервера создан
-2021-03-18 16:46:08,350 INFO server.py Запуск сервера
-2021-03-18 16:46:26,154 INFO server.py Запущен новый сервер
-2021-03-18 16:46:26,154 INFO server.py Экземпляр Сервера создан
-2021-03-18 16:46:26,154 INFO server.py Запуск сервера
-2021-03-18 16:47:14,478 INFO server.py Запущен новый сервер
-2021-03-18 16:47:14,479 INFO server.py Экземпляр Сервера создан
-2021-03-18 16:47:14,479 INFO server.py Запуск сервера
-2021-03-18 16:47:36,149 INFO server.py Запущен новый сервер
-2021-03-18 16:47:36,149 INFO server.py Экземпляр Сервера создан
-2021-03-18 16:47:36,150 INFO server.py Запуск сервера
-2021-03-18 16:51:58,352 INFO server.py Запущен новый сервер
-2021-03-18 16:51:58,353 INFO server.py Экземпляр Сервера создан
-2021-03-18 16:51:58,353 INFO server.py Запуск сервера
-2021-03-18 17:04:18,572 INFO server.py Запущен новый сервер
-2021-03-18 17:04:18,572 INFO server.py Экземпляр Сервера создан
-2021-03-18 17:04:18,572 INFO server.py Запуск сервера
-2021-03-18 17:06:58,833 INFO server.py Запущен новый сервер
-2021-03-18 17:06:58,834 INFO server.py Экземпляр Сервера создан
-2021-03-18 17:06:58,834 INFO server.py Запуск сервера
-2021-03-18 17:34:58,599 INFO server.py Запущен новый сервер
-2021-03-18 17:34:58,600 INFO server.py Экземпляр Сервера создан
-2021-03-18 17:34:58,600 INFO server.py Запуск сервера
-2021-03-18 17:36:59,104 INFO server.py Запущен новый сервер
-2021-03-18 17:36:59,104 INFO server.py Экземпляр Сервера создан
-2021-03-18 17:36:59,104 INFO server.py Запуск сервера
-2021-03-18 17:54:16,982 INFO server.py Запущен новый сервер
-2021-03-18 17:54:16,982 INFO server.py Экземпляр Сервера создан
-2021-03-18 17:54:16,982 CRITICAL my_classes.py ОШИБКА!: an integer is required (got type ServerPort)
-2021-03-18 17:54:16,982 CRITICAL server.py Запуск сервера провален!
-2021-03-18 17:55:05,640 INFO server.py Запущен новый сервер
-2021-03-18 17:55:05,640 INFO server.py Экземпляр Сервера создан
-2021-03-18 17:55:05,640 CRITICAL my_classes.py ОШИБКА!: an integer is required (got type ServerPort)
-2021-03-18 17:55:05,640 CRITICAL server.py Запуск сервера провален!
-2021-03-18 17:57:43,528 INFO server.py Запущен новый сервер
-2021-03-18 17:57:43,528 INFO server.py Экземпляр Сервера создан
-2021-03-18 17:57:43,529 CRITICAL my_classes.py ОШИБКА!: an integer is required (got type ServerPort)
-2021-03-18 17:57:43,529 CRITICAL server.py Запуск сервера провален!
-2021-03-18 17:58:27,289 INFO server.py Запущен новый сервер
-2021-03-18 17:58:27,290 INFO server.py Экземпляр Сервера создан
-2021-03-18 17:58:27,290 CRITICAL my_classes.py ОШИБКА!: int() argument must be a string, a bytes-like object or a number, not 'ServerPort'
-2021-03-18 17:58:27,290 CRITICAL server.py Запуск сервера провален!
-2021-03-18 17:59:16,788 INFO server.py Запущен новый сервер
-2021-03-18 17:59:16,788 INFO server.py Экземпляр Сервера создан
-2021-03-18 17:59:16,788 INFO server.py Запуск сервера
-2021-03-18 18:02:20,405 INFO server.py Запущен новый сервер
-2021-03-18 18:02:20,405 INFO server.py Экземпляр Сервера создан
-2021-03-18 18:02:20,406 INFO server.py Запуск сервера
-2021-03-18 18:03:01,755 INFO my_classes.py Установлено соедение с ПК ('127.0.0.1', 56724)
-2021-03-18 18:03:01,755 INFO my_classes.py В список клиентов [] добавляем <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 56724)>
-2021-03-18 18:03:29,412 INFO my_classes.py Установлено соедение с ПК ('127.0.0.1', 56726)
-2021-03-18 18:03:29,412 INFO my_classes.py В список клиентов [<socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 56724)>] добавляем <socket.socket fd=7, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 56726)>
-2021-03-18 18:03:48,950 ERROR my_classes.py Ошибка получения сообщения от "<socket.socket fd=7, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 56726)>":"Expecting value: line 1 column 1 (char 0)"
-2021-03-18 18:03:48,950 INFO my_classes.py Из списка клиентов [<socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 56724)>, <socket.socket fd=7, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 56726)>] удаляем <socket.socket fd=7, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 56726)>
-2021-03-18 18:03:53,046 INFO my_classes.py Установлено соедение с ПК ('127.0.0.1', 56728)
-2021-03-18 18:03:53,046 INFO my_classes.py В список клиентов [<socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 56724)>] добавляем <socket.socket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 56728)>
-2021-03-18 18:03:55,551 INFO my_classes.py В список сообщений [] добавляем {'action': 'message', 'time': 1616079835.3595657, 'user': 'Guest', 'message_text': 'sdfgdfg'}
-2021-03-18 18:03:55,551 INFO my_classes.py Из списка сообщений [{'action': 'message', 'time': 1616079835.3595657, 'user': 'Guest', 'message_text': 'sdfgdfg'}] удаляем {'action': 'message', 'time': 1616079835.3595657, 'user': 'Guest', 'message_text': 'sdfgdfg'}
-2021-03-18 18:04:00,560 INFO my_classes.py В список сообщений [] добавляем {'action': 'message', 'time': 1616079840.143604, 'user': 'Guest', 'message_text': 'dfgdfgdfg'}
-2021-03-18 18:04:00,561 INFO my_classes.py Из списка сообщений [{'action': 'message', 'time': 1616079840.143604, 'user': 'Guest', 'message_text': 'dfgdfgdfg'}] удаляем {'action': 'message', 'time': 1616079840.143604, 'user': 'Guest', 'message_text': 'dfgdfgdfg'}
-2021-03-18 18:05:45,131 INFO server.py Запущен новый сервер
-2021-03-18 18:05:45,131 INFO server.py Экземпляр Сервера создан
-2021-03-18 18:05:45,131 INFO server.py Запуск сервера
-2021-03-18 18:05:54,557 INFO server.py Запущен новый сервер
-2021-03-18 18:05:54,557 INFO server.py Экземпляр Сервера создан
-2021-03-18 18:05:54,559 CRITICAL my_classes.py ОШИБКА!: bind(): port must be 0-65535.
-2021-03-18 18:05:54,559 CRITICAL server.py Запуск сервера провален!
-2021-03-18 18:07:33,503 INFO server.py Запущен новый сервер
-2021-03-18 18:07:33,503 INFO server.py Экземпляр Сервера создан
-2021-03-18 18:07:33,503 CRITICAL my_classes.py ОШИБКА!: bind(): port must be 0-65535.
-2021-03-18 18:07:33,503 CRITICAL server.py Запуск сервера провален!
-2021-03-18 18:07:36,758 INFO server.py Запущен новый сервер
-2021-03-18 18:07:36,759 INFO server.py Экземпляр Сервера создан
-2021-03-18 18:07:36,759 INFO server.py Запуск сервера
-2021-03-18 18:07:52,052 INFO my_classes.py Установлено соедение с ПК ('127.0.0.1', 56738)
-2021-03-18 18:07:52,052 INFO my_classes.py В список клиентов [] добавляем <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 56738)>
-2021-03-18 18:11:18,701 INFO server.py Запущен новый сервер
-2021-03-18 18:11:18,702 INFO server.py Экземпляр Сервера создан
-2021-03-18 18:11:18,702 INFO server.py Запуск сервера
-2021-03-18 18:12:18,324 INFO server.py Запущен новый сервер
-2021-03-18 18:12:18,326 INFO server.py Экземпляр Сервера создан
-2021-03-18 18:12:18,330 INFO server.py Запуск сервера
-2021-03-18 18:13:17,249 INFO server.py Запущен новый сервер
-2021-03-18 18:13:17,249 INFO server.py Экземпляр Сервера создан
-2021-03-18 18:13:17,249 INFO server.py Запуск сервера
-2021-03-18 18:14:45,935 INFO server.py Запущен новый сервер
-2021-03-18 18:14:45,935 INFO server.py Экземпляр Сервера создан
-2021-03-18 18:14:45,935 INFO server.py Запуск сервера
-2021-03-18 18:15:09,151 INFO server.py Запущен новый сервер
-2021-03-18 18:15:09,151 INFO server.py Экземпляр Сервера создан
-2021-03-18 18:15:09,152 INFO server.py Запуск сервера
-2021-03-18 18:15:21,609 INFO my_classes.py Установлено соедение с ПК ('127.0.0.1', 56760)
-2021-03-18 18:15:21,609 INFO my_classes.py В список клиентов [] добавляем <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 56760)>
-2021-03-18 18:15:55,688 INFO my_classes.py Установлено соедение с ПК ('127.0.0.1', 56764)
-2021-03-18 18:15:55,688 INFO my_classes.py В список клиентов [<socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 56760)>] добавляем <socket.socket fd=7, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 56764)>
+2021-03-19 14:05:28,956 INFO server.py Запущен новый сервер
+2021-03-19 14:05:28,957 INFO server.py Экземпляр Сервера создан
+2021-03-19 14:05:28,957 INFO server.py Запуск сервера
+2021-03-19 14:43:11,938 INFO server.py Запущен новый сервер
+2021-03-19 14:43:11,938 INFO server.py Экземпляр Сервера создан
+2021-03-19 14:43:11,938 INFO server.py Запуск сервера
+2021-03-19 14:44:07,510 INFO server.py Запущен новый сервер
+2021-03-19 14:44:07,511 INFO server.py Экземпляр Сервера создан
+2021-03-19 14:44:07,511 INFO server.py Запуск сервера
+2021-03-19 14:44:12,352 INFO my_classes.py Установлено соедение с ПК ('127.0.0.1', 39938)
+2021-03-19 14:44:12,352 INFO my_classes.py В список клиентов [] добавляем <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 39938)>
+2021-03-19 14:44:25,878 ERROR my_classes.py Ошибка получения сообщения от "<socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 39938)>":"Expecting value: line 1 column 1 (char 0)"
+2021-03-19 14:44:25,878 INFO my_classes.py Из списка клиентов [<socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 39938)>] удаляем <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 39938)>
+2021-03-19 14:45:10,478 INFO server.py Запущен новый сервер
+2021-03-19 14:45:10,478 INFO server.py Экземпляр Сервера создан
+2021-03-19 14:45:10,480 INFO server.py Запуск сервера
+2021-03-19 14:46:04,187 INFO server.py Запущен новый сервер
+2021-03-19 14:46:04,187 INFO server.py Экземпляр Сервера создан
+2021-03-19 14:46:04,188 INFO server.py Запуск сервера
+2021-03-19 14:49:25,842 INFO server.py Запущен новый сервер
+2021-03-19 14:49:25,843 INFO server.py Экземпляр Сервера создан
+2021-03-19 14:49:25,843 INFO server.py Запуск сервера
+2021-03-19 15:03:27,036 INFO server.py Запущен новый сервер
+2021-03-19 15:03:27,037 INFO server.py Экземпляр Сервера создан
+2021-03-19 15:03:27,037 INFO server.py Запуск сервера
+2021-03-19 15:03:52,055 INFO server.py Запущен новый сервер
+2021-03-19 15:03:52,057 INFO server.py Экземпляр Сервера создан
+2021-03-19 15:03:52,057 INFO server.py Запуск сервера
+2021-03-19 15:04:12,534 INFO server.py Запущен новый сервер
+2021-03-19 15:04:12,534 INFO server.py Экземпляр Сервера создан
+2021-03-19 15:04:12,534 INFO server.py Запуск сервера
+2021-03-19 15:05:31,753 INFO server.py Запущен новый сервер
+2021-03-19 15:05:31,756 INFO server.py Экземпляр Сервера создан
+2021-03-19 15:05:31,756 INFO server.py Запуск сервера
+2021-03-19 15:07:44,394 INFO server.py Запущен новый сервер
+2021-03-19 15:07:44,395 INFO server.py Экземпляр Сервера создан
+2021-03-19 15:07:44,395 INFO server.py Запуск сервера
+2021-03-19 15:08:22,704 INFO server.py Запущен новый сервер
+2021-03-19 15:13:34,711 INFO server.py Запущен новый сервер
+2021-03-19 15:13:34,711 INFO server.py Экземпляр Сервера создан
+2021-03-19 15:13:34,712 INFO server.py Запуск сервера
+2021-03-19 15:13:58,418 INFO server.py Запущен новый сервер
+2021-03-19 15:13:58,421 INFO server.py Экземпляр Сервера создан
+2021-03-19 15:13:58,421 INFO server.py Запуск сервера
+2021-03-19 15:14:31,882 INFO server.py Запущен новый сервер
+2021-03-19 15:14:31,882 INFO server.py Экземпляр Сервера создан
+2021-03-19 15:14:31,883 INFO server.py Запуск сервера
+2021-03-19 15:17:18,293 INFO server.py Запущен новый сервер
+2021-03-19 15:17:18,294 INFO server.py Экземпляр Сервера создан
+2021-03-19 15:17:18,294 INFO server.py Запуск сервера
+2021-03-19 15:17:39,940 INFO server.py Запущен новый сервер
+2021-03-19 15:17:39,940 INFO server.py Экземпляр Сервера создан
+2021-03-19 15:17:39,940 INFO server.py Запуск сервера
+2021-03-19 15:22:27,235 INFO server.py Запущен новый сервер
+2021-03-19 15:22:27,235 INFO server.py Экземпляр Сервера создан
+2021-03-19 15:22:27,236 INFO server.py Запуск сервера
+2021-03-19 15:23:48,028 INFO server.py Запущен новый сервер
+2021-03-19 15:23:48,029 INFO server.py Экземпляр Сервера создан
+2021-03-19 15:23:48,029 INFO server.py Запуск сервера
+2021-03-19 15:24:31,971 INFO server.py Запущен новый сервер
+2021-03-19 15:24:31,971 INFO server.py Экземпляр Сервера создан
+2021-03-19 15:24:31,972 INFO server.py Запуск сервера
+2021-03-19 15:24:45,579 INFO server.py Запущен новый сервер
+2021-03-19 15:24:45,579 INFO server.py Экземпляр Сервера создан
+2021-03-19 15:24:45,580 INFO server.py Запуск сервера
+2021-03-19 15:25:12,532 INFO server.py Запущен новый сервер
+2021-03-19 15:25:12,532 INFO server.py Экземпляр Сервера создан
+2021-03-19 15:25:12,532 INFO server.py Запуск сервера
+2021-03-19 15:25:56,946 INFO server.py Запущен новый сервер
+2021-03-19 15:25:56,947 INFO server.py Экземпляр Сервера создан
+2021-03-19 15:25:56,947 INFO server.py Запуск сервера
+2021-03-19 15:26:13,595 INFO server.py Запущен новый сервер
+2021-03-19 15:26:13,596 INFO server.py Экземпляр Сервера создан
+2021-03-19 15:26:13,596 INFO server.py Запуск сервера
+2021-03-19 15:27:22,733 INFO server.py Запущен новый сервер
+2021-03-19 15:27:22,734 INFO server.py Экземпляр Сервера создан
+2021-03-19 15:27:22,734 INFO server.py Запуск сервера
+2021-03-19 15:28:14,100 INFO server.py Запущен новый сервер
+2021-03-19 15:28:14,100 INFO server.py Экземпляр Сервера создан
+2021-03-19 15:28:14,100 INFO server.py Запуск сервера
+2021-03-19 15:28:36,721 INFO server.py Запущен новый сервер
+2021-03-19 15:28:36,721 INFO server.py Экземпляр Сервера создан
+2021-03-19 15:28:36,722 INFO server.py Запуск сервера
+2021-03-19 15:28:58,432 INFO server.py Запущен новый сервер
+2021-03-19 15:28:58,433 INFO server.py Экземпляр Сервера создан
+2021-03-19 15:28:58,433 INFO server.py Запуск сервера
+2021-03-19 15:31:30,104 INFO server.py Запущен новый сервер
+2021-03-19 15:31:30,105 INFO server.py Экземпляр Сервера создан
+2021-03-19 15:31:30,105 INFO server.py Запуск сервера
+2021-03-19 15:31:37,977 INFO my_classes.py Установлено соедение с ПК ('127.0.0.1', 40568)
+2021-03-19 15:31:37,977 INFO my_classes.py В список клиентов [] добавляем <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 40568)>
+2021-03-19 15:32:09,528 ERROR my_classes.py Ошибка получения сообщения от "<socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 40568)>":"Expecting value: line 1 column 1 (char 0)"
+2021-03-19 15:32:09,528 INFO my_classes.py Из списка клиентов [<socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 40568)>] удаляем <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 40568)>
+2021-03-19 15:32:11,003 INFO my_classes.py Установлено соедение с ПК ('127.0.0.1', 40570)
+2021-03-19 15:32:11,003 INFO my_classes.py В список клиентов [] добавляем <socket.socket fd=7, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 40570)>
+2021-03-19 15:32:27,029 ERROR my_classes.py Ошибка получения сообщения от "<socket.socket fd=7, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 40570)>":"Expecting value: line 1 column 1 (char 0)"
+2021-03-19 15:32:27,029 INFO my_classes.py Из списка клиентов [<socket.socket fd=7, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 40570)>] удаляем <socket.socket fd=7, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 40570)>
+2021-03-19 15:32:35,878 INFO server.py Запущен новый сервер
+2021-03-19 15:32:35,878 INFO server.py Экземпляр Сервера создан
+2021-03-19 15:32:35,879 INFO server.py Запуск сервера
+2021-03-19 15:32:44,836 INFO my_classes.py Установлено соедение с ПК ('127.0.0.1', 40572)
+2021-03-19 15:32:44,836 INFO my_classes.py В список клиентов [] добавляем <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 40572)>
+2021-03-19 15:32:44,896 INFO my_classes.py Установлено соедение с ПК ('127.0.0.1', 40574)
+2021-03-19 15:32:44,896 INFO my_classes.py В список клиентов [<socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 40572)>] добавляем <socket.socket fd=7, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 40574)>
+2021-03-19 15:32:44,904 INFO my_classes.py Установлено соедение с ПК ('127.0.0.1', 40576)
+2021-03-19 15:32:44,904 INFO my_classes.py В список клиентов [<socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 40572)>, <socket.socket fd=7, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 40574)>] добавляем <socket.socket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 40576)>
+2021-03-19 15:32:44,945 INFO my_classes.py Установлено соедение с ПК ('127.0.0.1', 40578)
+2021-03-19 15:32:44,946 INFO my_classes.py В список клиентов [<socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 40572)>, <socket.socket fd=7, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 40574)>, <socket.socket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 40576)>] добавляем <socket.socket fd=9, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 40578)>
+2021-03-19 15:32:45,013 INFO my_classes.py Установлено соедение с ПК ('127.0.0.1', 40580)
+2021-03-19 15:32:45,013 INFO my_classes.py В список клиентов [<socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 40572)>, <socket.socket fd=7, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 40574)>, <socket.socket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 40576)>, <socket.socket fd=9, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 40578)>] добавляем <socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 40580)>
+2021-03-19 15:41:20,402 INFO server.py Запущен новый сервер
+2021-03-19 15:41:20,402 INFO server.py Экземпляр Сервера создан
+2021-03-19 15:41:20,402 INFO server.py Запуск сервера
+2021-03-19 15:44:53,424 INFO server.py Запущен новый сервер
+2021-03-19 15:44:53,425 INFO server.py Экземпляр Сервера создан
+2021-03-19 15:44:53,425 INFO server.py Запуск сервера
+2021-03-19 15:50:08,028 INFO server.py Запущен новый сервер
+2021-03-19 15:50:08,028 INFO server.py Экземпляр Сервера создан
+2021-03-19 15:50:08,029 INFO server.py Запуск сервера
+2021-03-19 15:50:41,211 INFO server.py Запущен новый сервер
+2021-03-19 15:50:41,211 INFO server.py Экземпляр Сервера создан
+2021-03-19 15:50:41,212 INFO server.py Запуск сервера

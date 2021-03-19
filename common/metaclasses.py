@@ -14,6 +14,7 @@ class MetaVerifier(type):
                         methods.add(__.argval)
                     elif __.opname in ['LOAD_FAST', 'STORE_FAST', 'LOAD_ATTR']:
                         attrs.add(__.argval)
+                    # print(clsname, dis.dis(clsdict[__]))
                 for __ in dis.get_instructions(_):
                     if __.opname in ['LOAD_GLOBAL', 'LOAD_METHOD', 'LOAD_DEREF', 'LOAD_NAME']:
                         methods.add(__.argval)
@@ -29,7 +30,6 @@ class MetaVerifier(type):
         else:
             pass
 
-        print('Методы:', clsname, methods)
-        print('Атрибуты:', clsname, attrs)
-        # print(tabulate(methods)) #, tablefmt="grid"
+        # print('\n', clsname)
+        # print(tabulate([attrs, methods], tablefmt="grid")) #, tablefmt="grid"
         super().__init__(clsname, bases, clsdict)
